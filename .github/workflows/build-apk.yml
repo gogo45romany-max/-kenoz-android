@@ -7,6 +7,8 @@ permissions:
   contents: read
 jobs:
   build:
+    # Keep APK builds paused during development; run only when manually requested at release time.
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
