@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#123044"><title>كنوز</title>
+<style>
+:root{--navy:#123044;--gold:#bd9653;--cream:#f8f7f2;--ink:#20333d}*{box-sizing:border-box}body{margin:0;background:var(--cream);color:var(--ink);font-family:Tahoma,Arial,sans-serif}header{background:linear-gradient(145deg,#123044,#20536a);color:#fff;padding:26px 20px 30px;border-radius:0 0 28px 28px}header small{color:#e8d6ad}h1{margin:8px 0;font-size:30px}header p{margin:0;color:#dbe5e9}.container{padding:18px;max-width:700px;margin:auto}.verse{background:#fff;border-right:4px solid var(--gold);border-radius:14px;padding:16px;line-height:1.9;box-shadow:0 3px 12px #102b3810}.verse b{color:var(--navy)}.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}.tile{background:white;border:1px solid #e8e4da;border-radius:16px;padding:18px 12px;text-align:center;min-height:112px;color:var(--ink);font:inherit;cursor:pointer}.tile .ico{font-size:27px;display:block;margin-bottom:8px}.tile strong{display:block;color:var(--navy)}.tile small{display:block;color:#6e7d83;margin-top:5px}.panel{display:none;background:#fff;border-radius:16px;padding:18px;margin-top:16px;line-height:1.9}.panel.active{display:block}.panel button,.back{background:var(--navy);color:white;border:0;border-radius:10px;padding:10px 14px;font-size:15px}.panel input,.panel select,.panel textarea{width:100%;padding:12px;border:1px solid #d7dfe1;border-radius:10px;margin:8px 0;font:inherit}footer{text-align:center;color:#7d898c;font-size:12px;padding:25px}a{color:#20536a}
+</style></head><body>
+<header><small>✦ حياة روحية ومعرفة كنسية ✦</small><h1>كنوز</h1><p>رفيقك في القراءة والصلاة والتعلّم الأرثوذكسي</p></header>
+<main class="container"><div class="verse"><b>آية اليوم</b><div id="verse">«كُلُّ نَسَمَةٍ فَلْتُسَبِّحِ الرَّبَّ»</div><small>مزمور 150: 6 — تذكرة روحية</small></div>
+<div class="grid">
+<button class="tile" onclick="show('bible')"><span class="ico">📖</span><strong>الكتاب المقدس</strong><small>البحث والقراءة</small></button>
+<button class="tile" onclick="show('agpeya')"><span class="ico">🕯️</span><strong>الأجبية</strong><small>صلوات السواعي</small></button>
+<button class="tile" onclick="show('church')"><span class="ico">⛪</span><strong>الكنيسة القبطية</strong><small>تعليم وإيمان</small></button>
+<button class="tile" onclick="show('notes')"><span class="ico">📝</span><strong>ملاحظاتي</strong><small>احفظ تأملاتك على جهازك</small></button>
+<button class="tile" onclick="show('calendar')"><span class="ico">📅</span><strong>المناسبات الكنسية</strong><small>تذكيرات وتنظيم</small></button>
+<button class="tile" onclick="show('about')"><span class="ico">✝️</span><strong>عن كنوز</strong><small>هدف التطبيق</small></button>
+</div>
+<section id="bible" class="panel"><h2>الكتاب المقدس</h2><p>سيُضاف قارئ الكتاب المقدس عند ربط نص الكتاب والتحقق من ترخيصه. إصدار البناء الحالي نموذج أولي، وليس مكتبة كتاب كاملة.</p><label>ابحث عن سفر أو إصحاح</label><input id="search" placeholder="مثال: إنجيل يوحنا 3"><button onclick="localSearch()">بحث</button><p id="searchResult"></p></section>
+<section id="agpeya" class="panel"><h2>الأجبية</h2><p>الأجبية هي كتاب صلوات السواعي في التقليد القبطي الأرثوذكسي.</p><p>سيتم إدراج نصوص الصلوات بعد مراجعة مصدر كنسي موثوق وحقوق استخدام النص.</p></section>
+<section id="church" class="panel"><h2>التعليم الأرثوذكسي</h2><p>يهدف كنوز إلى جمع الكتاب المقدس والصلوات والقراءات والتعاليم الكنسية في واجهة عربية سهلة.</p><p><a href="https://www.copticorthodox.church/" target="_blank">الموقع الرسمي للكنيسة القبطية الأرثوذكسية</a></p></section>
+<section id="notes" class="panel"><h2>ملاحظاتي الروحية</h2><p>تُحفظ الملاحظات محليًا على هذا الجهاز فقط.</p><textarea id="note" rows="5" placeholder="اكتب تأملك هنا..."></textarea><button onclick="saveNote()">حفظ الملاحظة</button><p id="noteStatus"></p></section>
+<section id="calendar" class="panel"><h2>المناسبات الكنسية</h2><p>ستُضاف القراءات والمناسبات حسب التقويم القبطي بعد إعداد جدول موثوق ومراجعته.</p></section>
+<section id="about" class="panel"><h2>عن كنوز</h2><p>كنوز مشروع مساعد روحي وتعليمي باللغة العربية، مصمم مع مراعاة التقليد القبطي الأرثوذكسي.</p><p><b>الحالة:</b> نسخة تجريبية أولية. بعض الأقسام مجرد واجهة تمهيدية ولم تُربط بعد بالمحتوى الكامل.</p></section>
+<div id="backrow" style="display:none;margin-top:12px"><button class="back" onclick="hidePanels()">العودة للرئيسية</button></div></main><footer>كنوز · نسخة تجريبية أولية</footer>
+<script>
+function show(id){document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));document.getElementById(id).classList.add('active');document.getElementById('backrow').style.display='block';document.getElementById(id).scrollIntoView({behavior:'smooth',block:'start'})}
+function hidePanels(){document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));document.getElementById('backrow').style.display='none';window.scrollTo({top:0,behavior:'smooth'})}
+function saveNote(){try{localStorage.setItem('kenoz-note',document.getElementById('note').value);document.getElementById('noteStatus').textContent='تم حفظ الملاحظة على هذا الجهاز.'}catch(e){document.getElementById('noteStatus').textContent='تعذر الحفظ على هذا الجهاز.'}}
+function localSearch(){document.getElementById('searchResult').textContent='سيعمل البحث بعد إضافة قاعدة نصوص الكتاب المقدس إلى التطبيق.'}
+try{document.getElementById('note').value=localStorage.getItem('kenoz-note')||''}catch(e){}
+</script></body></html>
