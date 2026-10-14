@@ -31,6 +31,18 @@ jobs:
           if len(d.get('books', [])) != 66: raise SystemExit('Unexpected Bible dataset')
           print('Validated', len(d['books']), 'books')
           PY
+      - name: Generate launcher icons
+        run: |
+          python3 -m pip install --quiet cairosvg
+          python3 - <<'PY'
+          import os, cairosvg
+          source = 'app/src/main/assets/kenoz-icon.svg'
+          for density, size in [('mdpi',48),('hdpi',72),('xhdpi',96),('xxhdpi',144),('xxxhdpi',192)]:
+              outdir = f'app/src/main/res/mipmap-{density}'
+              os.makedirs(outdir, exist_ok=True)
+              cairosvg.svg2png(url=source, write_to=f'{outdir}/ic_launcher.png', output_width=size, output_height=size)
+          print('Generated launcher icons for all Android densities')
+          PY
       - name: Build debug APK
         run: gradle --no-daemon assembleDebug
       - uses: actions/upload-artifact@v4
