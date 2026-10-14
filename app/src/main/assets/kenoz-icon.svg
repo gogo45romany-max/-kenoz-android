@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06142f"/><stop offset=".55" stop-color="#082b57"/><stop offset="1" stop-color="#020a1b"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#fff2a0"/><stop offset=".28" stop-color="#ffce45"/><stop offset=".62" stop-color="#d88b12"/><stop offset="1" stop-color="#fff0a0"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#f6b72c" stop-opacity=".38"/><stop offset="1" stop-color="#f6b72c" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="512" height="512" rx="94" fill="url(#bg)"/>
+<rect x="15" y="15" width="482" height="482" rx="80" fill="none" stroke="url(#gold)" stroke-width="7"/>
+<circle cx="256" cy="211" r="152" fill="url(#glow)"/>
+<g transform="translate(256 204)" stroke-linejoin="round">
+ <path d="M-31 -115 Q-31 -132 0 -157 Q31 -132 31 -115 L31 -38 L108 -38 Q126 -38 150 0 Q126 38 108 38 L31 38 L31 115 Q31 132 0 157 Q-31 132 -31 115 L-31 38 L-108 38 Q-126 38 -150 0 Q-126 -38 -108 -38 L-31 -38 Z" fill="#6f4306" opacity=".8" transform="translate(0 7)" filter="url(#shadow)"/>
+ <path d="M-29 -111 Q-29 -128 0 -151 Q29 -128 29 -111 L29 -36 L104 -36 Q122 -36 145 0 Q122 36 104 36 L29 36 L29 111 Q29 128 0 151 Q-29 128 -29 111 L-29 36 L-104 36 Q-122 36 -145 0 Q-122 -36 -104 -36 L-29 -36 Z" fill="url(#gold)" stroke="#8e560b" stroke-width="5"/>
+ <path d="M-15 -102 Q-15 -117 0 -130 Q15 -117 15 -102 L15 -22 L94 -22 Q109 -22 122 0 Q109 22 94 22 L15 22 L15 102 Q15 117 0 130 Q-15 117 -15 102 L-15 22 L-94 22 Q-109 22 -122 0 Q-109 -22 -94 -22 L-15 -22 Z" fill="#0a2450" stroke="#ffed9a" stroke-width="4"/>
+ <circle r="35" fill="url(#gold)" stroke="#8e560b" stroke-width="4"/>
+ <path d="M0 -24 L7 -7 L24 0 L7 7 L0 24 L-7 7 L-24 0 L-7 -7 Z" fill="#fff0a0" stroke="#b97812" stroke-width="2"/>
+</g>
+<text x="256" y="414" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="66" letter-spacing="5" fill="#050b19" stroke="#050b19" stroke-width="7" paint-order="stroke">KENOZ</text>
+<text x="256" y="410" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="66" letter-spacing="5" fill="url(#gold)">KENOZ</text>
+<path d="M130 443 H220 M292 443 H382" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+<path d="M256 431 L262 441 L273 443 L262 449 L256 459 L250 449 L239 443 L250 441 Z" fill="url(#gold)"/>
+</svg>
