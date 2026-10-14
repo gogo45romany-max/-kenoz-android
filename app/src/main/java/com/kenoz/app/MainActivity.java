@@ -16,6 +16,9 @@ public class MainActivity extends Activity {
         web.setBackgroundColor(Color.rgb(248,247,242));
         web.getSettings().setJavaScriptEnabled(true);
         web.getSettings().setDomStorageEnabled(true);
+        // Allow the local reader page to load the bundled JSON asset.
+        web.getSettings().setAllowFileAccess(true);
+        web.getSettings().setAllowFileAccessFromFileURLs(true);
         web.setWebViewClient(new WebViewClient());
         web.setWebChromeClient(new WebChromeClient());
         setContentView(web);
