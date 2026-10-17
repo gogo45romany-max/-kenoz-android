@@ -1,53 +1,48 @@
-name: Build Kenoz APK
+name: Build Kenoz Flutter APK
 on:
   workflow_dispatch:
   push:
     branches: ["main"]
+    paths:
+      - "flutter_app/**"
+      - ".github/workflows/build-apk.yml"
 permissions:
   contents: read
 jobs:
   build:
-    # Keep APK builds paused during development; run only when manually requested at release time.
-    if: github.event_name == 'workflow_dispatch' || github.event_name == 'push'
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: flutter_app
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-java@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
         with:
-          distribution: temurin
-          java-version: "17"
-      - uses: gradle/actions/setup-gradle@v4
-        with:
-          gradle-version: "8.9"
-      - uses: android-actions/setup-android@v3
-        with:
-          packages: 'platform-tools'
-      - name: Install Android SDK
-        run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
+          channel: stable
+          cache: true
       - name: Download Arabic Bible dataset
         run: |
-          curl -fL --retry 3 https://raw.githubusercontent.com/midvash/bible-data/main/versions/ar/svd/svd.json -o app/src/main/assets/bible-data.json
+          curl -fL --retry 3 https://raw.githubusercontent.com/midvash/bible-data/main/versions/ar/svd/svd.json -o assets/bible-data.json
           python3 - <<'PY'
           import json
-          with open('app/src/main/assets/bible-data.json', encoding='utf-8') as f: d=json.load(f)
-          if len(d.get('books', [])) != 66: raise SystemExit('Unexpected Bible dataset')
-          print('Validated', len(d['books']), 'books')
+          with open('assets/bible-data.json', encoding='utf-8') as f:
+              d = json.load(f)
+          books = d.get('books', [])
+          if len(books) != 66:
+              raise SystemExit(f'Unexpected Bible dataset: {len(books)} books')
+          print(f'Validated {len(books)} books')
           PY
-      - name: Generate launcher icons
-        run: |
-          python3 -m pip install --quiet cairosvg
-          python3 - <<'PY'
-          import os, cairosvg
-          source = 'app/src/main/assets/kenoz-icon.svg'
-          for density, size in [('mdpi',48),('hdpi',72),('xhdpi',96),('xxhdpi',144),('xxxhdpi',192)]:
-              outdir = f'app/src/main/res/mipmap-{density}'
-              os.makedirs(outdir, exist_ok=True)
-              cairosvg.svg2png(url=source, write_to=f'{outdir}/ic_launcher.png', output_width=size, output_height=size)
-          print('Generated launcher icons for all Android densities')
-          PY
+      - name: Install dependencies
+        run: flutter pub get
+      - name: Analyze Flutter project
+        run: flutter analyze
       - name: Build debug APK
-        run: gradle --no-daemon assembleDebug
-      - uses: actions/upload-artifact@v4
+        run: flutter build apk --debug
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
         with:
-          name: Kenoz-debug-apk
-          path: app/build/outputs/apk/debug/app-debug.apk
+          name: Kenoz-Flutter-debug-APK
+          path: flutter_app/build/app/outputs/flutter-apk/app-debug.apk
+          if-no-files-found: error
