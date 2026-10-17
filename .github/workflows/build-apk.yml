@@ -34,6 +34,8 @@ jobs:
               raise SystemExit(f'Unexpected Bible dataset: {len(books)} books')
           print(f'Validated {len(books)} books')
           PY
+      - name: Generate Android platform project
+        run: flutter create --platforms=android --org com.kenoz --project-name kenoz .
       - name: Install dependencies
         run: flutter pub get
       - name: Analyze Flutter project
