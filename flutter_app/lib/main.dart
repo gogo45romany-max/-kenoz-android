@@ -112,7 +112,15 @@ class DashboardPage extends StatelessWidget {
     const SizedBox(height:16),
     const Text('المحتوى الذي يُحمّل بنجاح يُحفظ تلقائيًا على الجهاز. أول تحميل يحتاج اتصالًا بالإنترنت.',style:TextStyle(height:1.6,color:Colors.black54)),
   ]);
-  Widget _shortcut(BuildContext c,String t,IconData i,int tab)=>SizedBox(width:MediaQuery.of(c).size.width/2-24,child:Card(color:Colors.white,child:InkWell(borderRadius:BorderRadius.circular(14),onTap:()=>Navigator.of(c).push(MaterialPageRoute(builder:(_)=>DetailPage(title:t,path:tab==3?'/synaxarium/${DateTime.now().toIso8601String().substring(0,10)}':'/readings/${DateTime.now().toIso8601String().substring(0,10)}?detailed=true')),child:Padding(padding:const EdgeInsets.all(16),child:Column(children:[Icon(i,color:gold,size:30),const SizedBox(height:8),Text(t,textAlign:TextAlign.center,style:const TextStyle(fontWeight:FontWeight.bold))])))));
+  Widget _shortcut(BuildContext c,String t,IconData i,int tab) {
+    final today=DateTime.now().toIso8601String().substring(0,10);
+    final path=tab==3?'/synaxarium/$today':'/readings/$today?detailed=true';
+    return SizedBox(width:MediaQuery.of(c).size.width/2-24,child:Card(color:Colors.white,child:InkWell(
+      borderRadius:BorderRadius.circular(14),
+      onTap:()=>Navigator.of(c).push(MaterialPageRoute(builder:(_)=>DetailPage(title:t,path:path))),
+      child:Padding(padding:const EdgeInsets.all(16),child:Column(children:[Icon(i,color:gold,size:30),const SizedBox(height:8),Text(t,textAlign:TextAlign.center,style:const TextStyle(fontWeight:FontWeight.bold))]))
+    )));
+  }
 }
 
 class SectionCard extends StatelessWidget {
@@ -205,7 +213,7 @@ class _DetailPageState extends State<DetailPage> {
     try{
       final uri=Uri.parse(widget.path.startsWith('http')?widget.path:'$apiRoot${widget.path.startsWith('/')?widget.path.substring(1):widget.path}');
       final result=await KenozApi.get('/${uri.path.split('/api/').last}',query:uri.queryParameters.isEmpty?null:uri.queryParameters);
-      if(mounted)setState(()=>data=result.data,offline=result.offline);
+      if(mounted)setState(() { data=result.data; offline=result.offline; });
     }catch(e){if(mounted)setState(()=>error='لم نتمكن من جلب هذا المحتوى ولا توجد نسخة محفوظة بعد. اتصل بالإنترنت وحاول مرة أخرى.');}
     finally{if(mounted)setState(()=>loading=false);}
   }
@@ -213,7 +221,7 @@ class _DetailPageState extends State<DetailPage> {
     Container(width:double.infinity,padding:const EdgeInsets.all(10),color:offline?const Color(0xFFFFF0D5):const Color(0xFFE3F4E8),child:Text(offline?'معروض من النسخة المحفوظة دون إنترنت':'تم التحميل — حُفظ تلقائيًا على الجهاز',textAlign:TextAlign.center)),
     Expanded(child:ListView(padding:const EdgeInsets.all(16),children:[_render(data)])),
   ]));
-  Widget _render(dynamic v,[String? key]){
+  Widget _render(dynamic v){
     if(v==null)return const SizedBox.shrink();
     if(v is Map){return Column(crossAxisAlignment:CrossAxisAlignment.stretch,children:v.entries.map((e)=>Padding(padding:const EdgeInsets.only(bottom:8),child:Card(color:Colors.white,child:Padding(padding:const EdgeInsets.all(12),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(_label(e.key.toString()),style:const TextStyle(fontWeight:FontWeight.bold,color:navy,fontSize:16)),const SizedBox(height:6),_render(e.value)]))))).toList());}
     if(v is List)return Column(crossAxisAlignment:CrossAxisAlignment.stretch,children:v.map((x)=>Padding(padding:const EdgeInsets.only(bottom:6),child:_render(x))).toList());
