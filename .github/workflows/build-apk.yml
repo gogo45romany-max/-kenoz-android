@@ -38,6 +38,8 @@ jobs:
         run: flutter create --platforms=android --org com.kenoz --project-name kenoz .
       - name: Install dependencies
         run: flutter pub get
+      - name: Remove generated placeholder test
+        run: rm -f test/widget_test.dart
       - name: Analyze Flutter project
         run: flutter analyze
       - name: Build debug APK
