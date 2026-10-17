@@ -141,15 +141,16 @@ class _BiblePageState extends State<BiblePage> {
     if(books.isEmpty)return Center(child:Padding(padding:const EdgeInsets.all(24),child:Text(error.isEmpty?'سيتم تجهيز بيانات الكتاب المقدس أثناء البناء.':error,textAlign:TextAlign.center)));
     final b=books[bookIndex] as Map<String,dynamic>;
     final chapters=(b['chapters'] as List<dynamic>? ?? []);
-    final verses=chapters.isEmpty?[]:(chapters[chapterIndex] as List<dynamic>? ?? []);
+    final chapter=chapters.isEmpty?null:chapters[chapterIndex] as Map<String,dynamic>;
+    final verses=(chapter?['verses'] as List<dynamic>? ?? []);
     return ListView(padding:const EdgeInsets.all(16),children:[
       TextField(decoration:const InputDecoration(prefixIcon:Icon(Icons.search),labelText:'ابحث في أسماء الأسفار أو النص المعروض',border:OutlineInputBorder()),onChanged:(v)=>setState(()=>query=v)),
       const SizedBox(height:10),
-      DropdownButtonFormField<int>(value:bookIndex,decoration:const InputDecoration(labelText:'السفر',border:OutlineInputBorder()),items:books.asMap().entries.map((e)=>DropdownMenuItem(value:e.key,child:Text((e.value as Map<String,dynamic>)['arabicName']?.toString()??(e.value as Map<String,dynamic>)['book']?.toString()??'سفر'))).toList(),onChanged:(v)=>setState(()=>{bookIndex=v??0,chapterIndex=0})),
+      DropdownButtonFormField<int>(value:bookIndex,decoration:const InputDecoration(labelText:'السفر',border:OutlineInputBorder()),items:books.asMap().entries.map((e)=>DropdownMenuItem(value:e.key,child:Text((e.value as Map<String,dynamic>)['arabicName']?.toString()??(e.value as Map<String,dynamic>)['book']?.toString()??'سفر'))).toList(),onChanged:(v)=>setState(() { bookIndex=v??0; chapterIndex=0; })),
       const SizedBox(height:10),
       if(chapters.isNotEmpty) DropdownButtonFormField<int>(value:chapterIndex.clamp(0,chapters.length-1),decoration:const InputDecoration(labelText:'الإصحاح',border:OutlineInputBorder()),items:List.generate(chapters.length,(i)=>DropdownMenuItem(value:i,child:Text('${i+1}'))),onChanged:(v)=>setState(()=>chapterIndex=v??0)),
       const SizedBox(height:12),
-      ...verses.asMap().entries.where((e)=>query.isEmpty||e.value.toString().toLowerCase().contains(query.toLowerCase())).map((e)=>Card(color:Colors.white,child:Padding(padding:const EdgeInsets.all(12),child:Text('${e.key+1}. ${e.value}',style:const TextStyle(fontSize:17,height:1.8))))),
+      ...verses.where((v)=>query.isEmpty||((v as Map<String,dynamic>)['text']?.toString().toLowerCase().contains(query.toLowerCase())??false)).map((v){final verse=v as Map<String,dynamic>;return Card(color:Colors.white,child:Padding(padding:const EdgeInsets.all(12),child:Text('${verse['number']??''}. ${verse['text']??''}',style:const TextStyle(fontSize:17,height:1.8))));}),
     ]);
   }
 }
