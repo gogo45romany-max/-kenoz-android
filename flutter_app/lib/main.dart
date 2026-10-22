@@ -224,15 +224,40 @@ class _PrayerPageState extends State<PrayerPage> {
   ]);
 }
 
-class ChurchPage extends StatelessWidget { const ChurchPage({super.key}); @override Widget build(BuildContext context)=>ListView(padding:const EdgeInsets.all(16),children:[
-  const Text('الكنيسة والتقويم',style:TextStyle(fontSize:24,fontWeight:FontWeight.bold,color:navy)),
-  const SizedBox(height:12),
-  _item(context,'قراءات القطمارس',Icons.menu_book,'/readings/${DateTime.now().toIso8601String().substring(0,10)}?detailed=true'),
-  _item(context,'السنكسار',Icons.event_note,'/synaxarium/${DateTime.now().toIso8601String().substring(0,10)}'),
-  _item(context,'التسبحة السنوية',Icons.music_note,'/tasbeha/sunday?lang=ar'),
-  _item(context,'الموسم الطقسي',Icons.calendar_month,'/season/${DateTime.now().toIso8601String().substring(0,10)}'),
-  _item(context,'الصوم',Icons.restaurant,'/fasting/${DateTime.now().toIso8601String().substring(0,10)}'),
-]); Widget _item(BuildContext c,String s,IconData i,String p)=>Card(color:Colors.white,child:ListTile(leading:Icon(i,color:gold),title:Text(s),trailing:const Icon(Icons.chevron_left),onTap:()=>Navigator.push(c,MaterialPageRoute(builder:(_)=>DetailPage(title:s,path:p)))));}
+class ChurchPage extends StatelessWidget {
+  const ChurchPage({super.key});
+  @override
+  Widget build(BuildContext context) {
+    final today = DateTime.now().toIso8601String().substring(0, 10);
+    return ListView(padding: const EdgeInsets.all(16), children: [
+      const Text('مكتبة النصوص الكنسية', style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: navy)),
+      const SizedBox(height: 6),
+      const Text('الأجبية والخولاجي والقطمارس والسنكسار', style: TextStyle(color: Colors.black54)),
+      const SizedBox(height: 12),
+      _item(context, 'الأجبية — صلوات السواعي', Icons.auto_stories, '/agpeya/hours'),
+      _item(context, 'الخولاجي — القداس الإلهي', Icons.church, '/liturgy'),
+      _item(context, 'قطمارس اليوم — القراءات', Icons.menu_book, '/readings/$today?detailed=true'),
+      _item(context, 'سنكسار اليوم', Icons.event_note, '/synaxarium/$today'),
+      const Divider(height: 28),
+      const Text('خدمات طقسية إضافية', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: navy)),
+      const SizedBox(height: 8),
+      _item(context, 'التسبحة السنوية', Icons.music_note, '/tasbeha/sunday?lang=ar'),
+      _item(context, 'الموسم الطقسي', Icons.calendar_month, '/season/$today'),
+      _item(context, 'الصوم', Icons.restaurant, '/fasting/$today'),
+      const SizedBox(height: 10),
+      const Text('المحتوى الذي ينجح تحميله يُحفظ تلقائيًا على الجهاز. لا يُعدّ الخولاجي مدمجًا بالكامل حتى تُضاف نصوصه المعتمدة إلى حزمة التطبيق.', style: TextStyle(height: 1.6, color: Colors.black54)),
+    ]);
+  }
+  Widget _item(BuildContext c, String s, IconData i, String p) => Card(
+    color: Colors.white,
+    child: ListTile(
+      leading: Icon(i, color: gold),
+      title: Text(s),
+      trailing: const Icon(Icons.chevron_left),
+      onTap: () => Navigator.push(c, MaterialPageRoute(builder: (_) => DetailPage(title: s, path: p))),
+    ),
+  );
+}
 
 class NotesPage extends StatefulWidget { const NotesPage({super.key}); @override State<NotesPage> createState()=>_NotesPageState(); }
 class _NotesPageState extends State<NotesPage> {
