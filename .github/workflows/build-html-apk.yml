@@ -25,10 +25,13 @@ jobs:
           node-version: "20"
       - name: Set up Android SDK
         uses: android-actions/setup-android@v3
-      - name: Install Android SDK packages
-        run: |
-          yes | sdkmanager --licenses >/dev/null
-          sdkmanager "platforms;android-35" "build-tools;35.0.0"
+        with:
+          packages: |
+            platform-tools
+            platforms;android-35
+            build-tools;35.0.0
+      - name: Accept Android SDK licenses
+        run: yes | sdkmanager --licenses >/dev/null
       - name: Install Cordova
         run: npm install --global cordova
       - name: Create Android wrapper for the HTML app
