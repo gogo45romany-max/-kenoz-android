@@ -144,6 +144,37 @@ class _BiblePageState extends State<BiblePage> {
   List<dynamic> books=[]; bool loading=true; String error=''; int bookIndex=0,chapterIndex=0; String query='';
   @override void initState(){super.initState();_load();}
   Future<void> _load() async {try{final raw=await rootBundle.loadString('assets/bible-data.json');final d=jsonDecode(raw) as Map<String,dynamic>;final b=(d['books'] as List<dynamic>? ?? []);if(!mounted)return;setState(()=>books=b);}catch(e){if(mounted)setState(()=>error='تعذر فتح ملف الكتاب المقدس: $e');}finally{if(mounted)setState(()=>loading=false);}}
+  List<Map<String, dynamic>> _searchAll(String term) {
+    final needle = term.trim().toLowerCase();
+    final hits = <Map<String, dynamic>>[];
+    if (needle.isEmpty) return hits;
+    for (var bi = 0; bi < books.length; bi++) {
+      final b = books[bi] as Map<String, dynamic>;
+      final bookName = (b['arabicName'] ?? b['book'] ?? 'سفر').toString();
+      final chapters = (b['chapters'] as List<dynamic>? ?? []);
+      for (var ci = 0; ci < chapters.length; ci++) {
+        final ch = chapters[ci] as Map<String, dynamic>;
+        final verses = (ch['verses'] as List<dynamic>? ?? []);
+        for (final item in verses) {
+          final v = item as Map<String, dynamic>;
+          final verseText = (v['text'] ?? '').toString();
+          if (verseText.toLowerCase().contains(needle) ||
+              bookName.toLowerCase().contains(needle)) {
+            hits.add({
+              'bookIndex': bi,
+              'chapterIndex': ci,
+              'bookName': bookName,
+              'verseNumber': v['number'] ?? '',
+              'text': verseText,
+            });
+            if (hits.length >= 300) return hits;
+          }
+        }
+      }
+    }
+    return hits;
+  }
+
   @override Widget build(BuildContext context){
     if(loading)return const Center(child:CircularProgressIndicator());
     if(books.isEmpty)return Center(child:Padding(padding:const EdgeInsets.all(24),child:Text(error.isEmpty?'سيتم تجهيز بيانات الكتاب المقدس أثناء البناء.':error,textAlign:TextAlign.center)));
@@ -158,7 +189,21 @@ class _BiblePageState extends State<BiblePage> {
       const SizedBox(height:10),
       if(chapters.isNotEmpty) DropdownButtonFormField<int>(value:chapterIndex.clamp(0,chapters.length-1),decoration:const InputDecoration(labelText:'الإصحاح',border:OutlineInputBorder()),items:List.generate(chapters.length,(i)=>DropdownMenuItem(value:i,child:Text('${i+1}'))),onChanged:(v)=>setState(()=>chapterIndex=v??0)),
       const SizedBox(height:12),
-      ...verses.where((v)=>query.isEmpty||((v as Map<String,dynamic>)['text']?.toString().toLowerCase().contains(query.toLowerCase())??false)).map((v){final verse=v as Map<String,dynamic>;return Card(color:Colors.white,child:Padding(padding:const EdgeInsets.all(12),child:Text('${verse['number']??''}. ${verse['text']??''}',style:const TextStyle(fontSize:17,height:1.8))));}),
+      if(query.trim().isNotEmpty) ...[
+        Text('نتائج البحث في الكتاب المقدس',style:const TextStyle(fontSize:18,fontWeight:FontWeight.bold,color:navy)),
+        const SizedBox(height:8),
+        ..._searchAll(query).map((hit)=>Card(color:Colors.white,child:ListTile(
+          title:Text('${hit['bookName']} ${(hit['chapterIndex'] as int)+1}:${hit['verseNumber']}',
+            style:const TextStyle(fontWeight:FontWeight.bold,color:navy)),
+          subtitle:Text(hit['text'].toString(),style:const TextStyle(fontSize:16,height:1.6)),
+          onTap:()=>setState((){
+            bookIndex=hit['bookIndex'] as int;
+            chapterIndex=hit['chapterIndex'] as int;
+            query='';
+          }),
+        ))),
+        if(_searchAll(query).isEmpty) const Padding(padding:EdgeInsets.all(18),child:Text('لا توجد نتائج مطابقة. جرّب كلمة أخرى.',textAlign:TextAlign.center)),
+      ] else ...verses.map((v){final verse=v as Map<String,dynamic>;return Card(color:Colors.white,child:Padding(padding:const EdgeInsets.all(12),child:Text('${verse['number']??''}. ${verse['text']??''}',style:const TextStyle(fontSize:17,height:1.8))));}),
     ]);
   }
 }
