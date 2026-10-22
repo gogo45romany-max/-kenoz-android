@@ -36,20 +36,20 @@ jobs:
           PY
       - name: Generate Android platform project
         run: flutter create --platforms=android --org com.kenoz --project-name kenoz .
-      - name: Set Android compile SDK for current plugins
+      - name: Force Android compile SDK 36
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          p = Path('android/app/build.gradle.kts')
-          if p.exists():
-              s = p.read_text()
-              s = s.replace('compileSdk = flutter.compileSdkVersion', 'compileSdk = 36')
-              p.write_text(s)
-          else:
-              p = Path('android/app/build.gradle')
-              s = p.read_text()
-              s = s.replace('flutter.compileSdkVersion', '36')
-              p.write_text(s)
+          for name in ('android/app/build.gradle.kts', 'android/app/build.gradle'):
+              p = Path(name)
+              if not p.exists():
+                  continue
+              text = p.read_text()
+              text = text.replace('flutter.compileSdkVersion', '36')
+              text = text.replace('compileSdkVersion 34', 'compileSdkVersion 36')
+              text = text.replace('compileSdkVersion = 34', 'compileSdkVersion = 36')
+              p.write_text(text)
+              print(name, [line.strip() for line in text.splitlines() if 'compileSdk' in line])
           PY
       - name: Install dependencies
         run: flutter pub get
