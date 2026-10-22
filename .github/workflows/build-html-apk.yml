@@ -23,9 +23,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
       - name: Install Android SDK packages
         run: |
-          yes | sdkmanager --licenses >/dev/null || true
+          yes | sdkmanager --licenses >/dev/null
           sdkmanager "platforms;android-35" "build-tools;35.0.0"
       - name: Install Cordova
         run: npm install --global cordova
