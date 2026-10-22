@@ -363,7 +363,7 @@ class _LocalLibraryPageState extends State<LocalLibraryPage> {
   @override void initState() { super.initState(); _init(); }
   Future<void> _init() async {
     final base = await getApplicationDocumentsDirectory();
-    localDir = Directory('\${base.path}/kenoz_local_content');
+    localDir = Directory('${base.path}/kenoz_local_content');
     if (!await localDir.exists()) await localDir.create(recursive: true);
     await _refresh();
   }
@@ -393,7 +393,7 @@ class _LocalLibraryPageState extends State<LocalLibraryPage> {
         final name = entry.name.split('/').last;
         if (name.contains('..') || name.contains('/') || name.contains(r'\\')) continue;
         final content = entry.content;
-        final out = File('\${localDir.path}/$name');
+        final out = File('${localDir.path}/$name');
         await out.writeAsBytes(content is List<int> ? content : List<int>.from(content), flush: true);
         count++;
       }
@@ -470,7 +470,7 @@ class _DetailPageState extends State<DetailPage> {
   }
   Future<void> _openCategory(String name) async {
     try {
-      final decoded = jsonDecode(await File('\${localDir.path}/$name').readAsString()) as Map<String, dynamic>;
+      final decoded = jsonDecode(await File('${localDir.path}/$name').readAsString()) as Map<String, dynamic>;
       final items = (decoded['items'] as List<dynamic>? ?? []);
       if (!mounted) return;
       Navigator.push(context, MaterialPageRoute(builder: (_) => LocalCategoryPage(
@@ -549,7 +549,7 @@ class LocalTextPage extends StatelessWidget {
           const SizedBox(height: 14),
           Text(body, textDirection: TextDirection.rtl, style: const TextStyle(fontSize: 17, height: 1.9)),
           const SizedBox(height: 20),
-          Text('المصدر: \${item['path'] ?? 'ملف محلي'}', style: const TextStyle(fontSize: 11, color: Colors.black45)),
+          Text('المصدر: ${item['path'] ?? 'ملف محلي'}', style: const TextStyle(fontSize: 11, color: Colors.black45)),
         ])));
   }
 }
