@@ -413,56 +413,7 @@ class _LocalLibraryPageState extends State<LocalLibraryPage> {
         if (row is List) {
           for (final cell in row) {
             final value = cell.toString().trim();
-            if (value.isNotEmpty && !RegExp(r'^[0-9]+(?:\\.0)? { const NotesPage({super.key}); @override State<NotesPage> createState()=>_NotesPageState(); }
-class _NotesPageState extends State<NotesPage> {
-  final controller=TextEditingController(); List<String> notes=[];
-  @override void initState(){super.initState();_load();}
-  Future<void> _load()async{final p=await SharedPreferences.getInstance();if(mounted)setState(()=>notes=p.getStringList('kenoz_notes')??[]);}
-  Future<void> _add()async{final s=controller.text.trim();if(s.isEmpty)return;final p=await SharedPreferences.getInstance();notes=[...notes,s];await p.setStringList('kenoz_notes',notes);controller.clear();if(mounted)setState((){});}
-  @override void dispose(){controller.dispose();super.dispose();}
-  @override Widget build(BuildContext context)=>Padding(padding:const EdgeInsets.all(16),child:Column(children:[
-    const Text('ملاحظاتي الروحية',style:TextStyle(fontSize:24,fontWeight:FontWeight.bold,color:navy)),
-    const SizedBox(height:12),TextField(controller:controller,maxLines:3,decoration:const InputDecoration(labelText:'اكتب ملاحظة أو تأملًا',border:OutlineInputBorder())),
-    const SizedBox(height:8),Align(alignment:Alignment.centerLeft,child:FilledButton(onPressed:_add,child:const Text('حفظ'))),
-    const Divider(),Expanded(child:notes.isEmpty?const Center(child:Text('لا توجد ملاحظات بعد.')):ListView.builder(itemCount:notes.length,itemBuilder:(c,i)=>Card(color:Colors.white,child:ListTile(title:Text(notes[i]),trailing:IconButton(icon:const Icon(Icons.delete_outline),onPressed:()async{notes.removeAt(i);final p=await SharedPreferences.getInstance();await p.setStringList('kenoz_notes',notes);if(mounted)setState((){});}))))),
-  ]));
-}
-
-class DetailPage extends StatefulWidget { final String title,path; const DetailPage({super.key,required this.title,required this.path}); @override State<DetailPage> createState()=>_DetailPageState(); }
-class _DetailPageState extends State<DetailPage> {
-  dynamic data; bool loading=true,offline=false; String error='';
-  @override void initState(){super.initState();_load();}
-  Future<void> _load()async{
-    setState(()=>loading=true);
-    try{
-      final baseUri = Uri.parse(apiRoot);
-      final uri = Uri.parse(widget.path.startsWith('http')
-          ? widget.path
-          : '$apiRoot${widget.path.startsWith('/') ? widget.path : '/${widget.path}'}');
-      final apiPath = uri.path.startsWith(baseUri.path)
-          ? uri.path.substring(baseUri.path.length)
-          : uri.path;
-      final result = await KenozApi.get(
-        apiPath.isEmpty ? '/' : apiPath,
-        query: uri.queryParameters.isEmpty ? null : uri.queryParameters,
-      );
-      if(mounted)setState(() { data=result.data; offline=result.offline; });
-    }catch(e){if(mounted)setState(()=>error='لم نتمكن من جلب هذا المحتوى ولا توجد نسخة محفوظة بعد. اتصل بالإنترنت وحاول مرة أخرى.');}
-    finally{if(mounted)setState(()=>loading=false);}
-  }
-  @override Widget build(BuildContext context)=>Scaffold(appBar:AppBar(title:Text(widget.title)),body:loading?const Center(child:CircularProgressIndicator()):error.isNotEmpty?Center(child:Padding(padding:const EdgeInsets.all(24),child:Column(mainAxisSize:MainAxisSize.min,children:[const Icon(Icons.cloud_off,size:42,color:gold),const SizedBox(height:12),Text(error,textAlign:TextAlign.center),const SizedBox(height:12),FilledButton(onPressed:_load,child:const Text('إعادة المحاولة'))]))):Column(children:[
-    Container(width:double.infinity,padding:const EdgeInsets.all(10),color:offline?const Color(0xFFFFF0D5):const Color(0xFFE3F4E8),child:Text(offline?'معروض من النسخة المحفوظة دون إنترنت':'تم التحميل — حُفظ تلقائيًا على الجهاز',textAlign:TextAlign.center)),
-    Expanded(child:ListView(padding:const EdgeInsets.all(16),children:[_render(data)])),
-  ]));
-  Widget _render(dynamic v){
-    if(v==null)return const SizedBox.shrink();
-    if(v is Map){return Column(crossAxisAlignment:CrossAxisAlignment.stretch,children:v.entries.map((e)=>Padding(padding:const EdgeInsets.only(bottom:8),child:Card(color:Colors.white,child:Padding(padding:const EdgeInsets.all(12),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(_label(e.key.toString()),style:const TextStyle(fontWeight:FontWeight.bold,color:navy,fontSize:16)),const SizedBox(height:6),_render(e.value)]))))).toList());}
-    if(v is List)return Column(crossAxisAlignment:CrossAxisAlignment.stretch,children:v.map((x)=>Padding(padding:const EdgeInsets.only(bottom:6),child:_render(x))).toList());
-    return SelectableText(v.toString(),style:const TextStyle(fontSize:16,height:1.7));
-  }
-  String _label(String s){const m={'vespers':'عشية','matins':'باكر','liturgy':'القداس','pauline':'البولس','catholic':'الكاثوليكون','praxis':'الإبركسيس','psalm':'المزمور','gospel':'الإنجيل','synaxarium':'السنكسار','readings':'القراءات','date':'التاريخ','title':'العنوان','text':'النص','content':'المحتوى','description':'التفاصيل','name':'الاسم','reference':'المرجع','season':'الموسم الطقسي','fasting':'الصوم','saints':'القديسون'};return m[s]??s.replaceAll('_',' ');}
-}
-).hasMatch(value)) return value;
+            if (value.isNotEmpty && !RegExp(r'^[0-9]+(?:\.0)?$').hasMatch(value)) return value;
           }
         }
       }
