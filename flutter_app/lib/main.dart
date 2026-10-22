@@ -297,8 +297,17 @@ class _DetailPageState extends State<DetailPage> {
   Future<void> _load()async{
     setState(()=>loading=true);
     try{
-      final uri=Uri.parse(widget.path.startsWith('http')?widget.path:'$apiRoot${widget.path.startsWith('/')?widget.path.substring(1):widget.path}');
-      final result=await KenozApi.get('/${uri.path.split('/api/').last}',query:uri.queryParameters.isEmpty?null:uri.queryParameters);
+      final baseUri = Uri.parse(apiRoot);
+      final uri = Uri.parse(widget.path.startsWith('http')
+          ? widget.path
+          : '$apiRoot${widget.path.startsWith('/') ? widget.path : '/${widget.path}'}');
+      final apiPath = uri.path.startsWith(baseUri.path)
+          ? uri.path.substring(baseUri.path.length)
+          : uri.path;
+      final result = await KenozApi.get(
+        apiPath.isEmpty ? '/' : apiPath,
+        query: uri.queryParameters.isEmpty ? null : uri.queryParameters,
+      );
       if(mounted)setState(() { data=result.data; offline=result.offline; });
     }catch(e){if(mounted)setState(()=>error='لم نتمكن من جلب هذا المحتوى ولا توجد نسخة محفوظة بعد. اتصل بالإنترنت وحاول مرة أخرى.');}
     finally{if(mounted)setState(()=>loading=false);}
