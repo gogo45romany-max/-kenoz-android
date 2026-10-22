@@ -64,7 +64,7 @@ jobs:
           PY
       - name: Install dependencies
         run: flutter pub get
-      - name: Patch plugin compile SDK metadata
+      - name: Force Flutter plugins to compile with Android SDK 36
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -77,12 +77,19 @@ jobs:
                       s = p.read_text()
                   except Exception:
                       continue
-                  new = re.sub(r'compileSdkVersion\s+34\b', 'compileSdkVersion 36', s)
-                  new = re.sub(r'compileSdk\s*=\s*34\b', 'compileSdk = 36', new)
+                  new = s
+                  new = re.sub(r'compileSdkVersion\\s+34\\b', 'compileSdkVersion 36', new)
+                  new = re.sub(r'compileSdk\\s*=\\s*34\\b', 'compileSdk = 36', new)
+                  new = re.sub(r'compileSdk\\s*=\\s*flutter\\.compileSdkVersion', 'compileSdk = 36', new)
+                  new = re.sub(r'compileSdkVersion\\s+flutter\\.compileSdkVersion', 'compileSdkVersion 36', new)
                   if new != s:
                       p.write_text(new)
                       changed.append(str(p))
           print('Patched plugin Gradle files:', changed)
+          for p in root.glob('file_picker-*/android/build.gradle*'):
+              s = p.read_text()
+              print('file_picker Gradle:', p)
+              print('\\n'.join(line.strip() for line in s.splitlines() if 'compileSdk' in line))
           PY
       - name: Remove generated placeholder test
         run: rm -f test/widget_test.dart
