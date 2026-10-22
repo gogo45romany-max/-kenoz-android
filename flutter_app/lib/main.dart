@@ -235,7 +235,23 @@ class ChurchPage extends StatelessWidget {
       const Text('الأجبية والخولاجي والقطمارس والسنكسار', style: TextStyle(color: Colors.black54)),
       const SizedBox(height: 12),
       _item(context, 'الأجبية — صلوات السواعي', Icons.auto_stories, '/agpeya/hours'),
-      _item(context, 'الخولاجي — القداس الإلهي', Icons.church, '/liturgy'),
+      Card(
+        color: Colors.white,
+        child: ListTile(
+          leading: const Icon(Icons.church, color: gold),
+          title: const Text('الخولاجي — القداس الإلهي'),
+          subtitle: const Text('النص الكامل ما زال يحتاج إلى دمج الحزمة المحلية'),
+          trailing: const Icon(Icons.info_outline),
+          onTap: () => showDialog<void>(
+            context: context,
+            builder: (dialogContext) => AlertDialog(
+              title: const Text('الخولاجي'),
+              content: const Text('لم أضع نصًا بديلًا أو رابط API غير متحقق منه. نصوص الخولاجي المستخرجة تحتاج إلى إضافتها كملفات داخل التطبيق قبل أن تعمل دون إنترنت.'),
+              actions: [TextButton(onPressed: () => Navigator.pop(dialogContext), child: const Text('حسنًا'))],
+            ),
+          ),
+        ),
+      ),
       _item(context, 'قطمارس اليوم — القراءات', Icons.menu_book, '/readings/$today?detailed=true'),
       _item(context, 'سنكسار اليوم', Icons.event_note, '/synaxarium/$today'),
       const Divider(height: 28),
