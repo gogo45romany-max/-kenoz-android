@@ -355,7 +355,7 @@ class LocalLibraryPage extends StatefulWidget {
   @override State<LocalLibraryPage> createState() => _LocalLibraryPageState();
 }
 class _LocalLibraryPageState extends State<LocalLibraryPage> {
-  bool busy = false;
+  bool busy = true;
   String status = '';
   List<String> files = [];
   late Directory localDir;
@@ -366,6 +366,7 @@ class _LocalLibraryPageState extends State<LocalLibraryPage> {
     localDir = Directory('${base.path}/kenoz_local_content');
     if (!await localDir.exists()) await localDir.create(recursive: true);
     await _refresh();
+    if (mounted) setState(() => busy = false);
   }
   Future<void> _refresh() async {
     if (!await localDir.exists()) return;
