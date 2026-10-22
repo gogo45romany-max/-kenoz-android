@@ -460,18 +460,42 @@ class LocalCategoryPage extends StatelessWidget {
   final List<Map<String, dynamic>> items;
   final String Function(Map<String, dynamic>) titleFor;
   const LocalCategoryPage({super.key, required this.title, required this.items, required this.titleFor});
-  @override Widget build(BuildContext context) => Scaffold(
-    appBar: AppBar(title: Text(title)),
-    body: items.isEmpty ? const Center(child: Text('لا توجد نصوص في هذا القسم.')) :
-      ListView.builder(itemCount: items.length, itemBuilder: (context, index) {
-        final item = items[index];
-        final label = titleFor(item);
-        return Card(color: Colors.white, margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-          child: ListTile(title: Text(label, maxLines: 2, overflow: TextOverflow.ellipsis),
-            subtitle: Text((item['path'] ?? '').toString().split('/').skip(2).join('/'), maxLines: 1, overflow: TextOverflow.ellipsis),
-            onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => LocalTextPage(title: label, item: item))));
-      }),
-  );
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text(title)),
+      body: items.isEmpty
+          ? const Center(child: Text('لا توجد نصوص في هذا القسم.'))
+          : ListView.builder(
+              itemCount: items.length,
+              itemBuilder: (context, index) {
+                final item = items[index];
+                final label = titleFor(item);
+                return Card(
+                  color: Colors.white,
+                  margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                  child: ListTile(
+                    title: Text(label, maxLines: 2, overflow: TextOverflow.ellipsis),
+                    subtitle: Text(
+                      (item['path'] ?? '').toString().split('/').skip(2).join('/'),
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
+                    ),
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => LocalTextPage(title: label, item: item),
+                        ),
+                      );
+                    },
+                  ),
+                );
+              },
+            ),
+    );
+  }
 }
 
 class LocalTextPage extends StatelessWidget {
