@@ -224,12 +224,76 @@ class _PrayerPageState extends State<PrayerPage> {
   ]);
 }
 
-class ChurchPage extends StatelessWidget {
+class ChurchPage extends StatefulWidget {
   const ChurchPage({super.key});
   @override
-  Widget build(BuildContext context) {
-    final today = DateTime.now().toIso8601String().substring(0, 10);
-    return ListView(padding: const EdgeInsets.all(16), children: [
+  State<ChurchPage> createState() => _ChurchPageState();
+}
+
+class _ChurchPageState extends State<ChurchPage> {
+  bool downloading = false;
+  String downloadStatus = '';
+
+  String get today => DateTime.now().toIso8601String().substring(0, 10);
+
+  Future<void> _downloadAvailableTexts() async {
+    if (downloading) return;
+    setState(() { downloading = true; downloadStatus = 'بدء حفظ النصوص المتاحة...'; });
+    final requests = <MapEntry<String, String>>[
+      const MapEntry('ساعات الأجبية', '/agpeya/hours'),
+      const MapEntry('صلاة باكر', '/agpeya/prime'),
+      const MapEntry('الساعة الثالثة', '/agpeya/terce'),
+      const MapEntry('الساعة السادسة', '/agpeya/sext'),
+      const MapEntry('الساعة التاسعة', '/agpeya/none'),
+      const MapEntry('صلاة الغروب', '/agpeya/vespers'),
+      const MapEntry('صلاة النوم', '/agpeya/compline'),
+      const MapEntry('نصف الليل — الخدمة الأولى', '/agpeya/midnight/watch/1'),
+      const MapEntry('نصف الليل — الخدمة الثانية', '/agpeya/midnight/watch/2'),
+      const MapEntry('نصف الليل — الخدمة الثالثة', '/agpeya/midnight/watch/3'),
+      MapEntry('قراءات القطمارس لليوم', '/readings/$today?detailed=true'),
+      MapEntry('سنكسار اليوم', '/synaxarium/$today'),
+      MapEntry('الموسم الطقسي', '/season/$today'),
+      MapEntry('الصوم', '/fasting/$today'),
+      const MapEntry('تسبحة الأحد السنوية', '/tasbeha/sunday?lang=ar'),
+      const MapEntry('تسبحة الاثنين السنوية', '/tasbeha/monday?lang=ar'),
+      const MapEntry('تسبحة الثلاثاء السنوية', '/tasbeha/tuesday?lang=ar'),
+      const MapEntry('تسبحة الأربعاء السنوية', '/tasbeha/wednesday?lang=ar'),
+      const MapEntry('تسبحة الخميس السنوية', '/tasbeha/thursday?lang=ar'),
+      const MapEntry('تسبحة الجمعة السنوية', '/tasbeha/friday?lang=ar'),
+      const MapEntry('تسبحة السبت السنوية', '/tasbeha/saturday?lang=ar'),
+    ];
+    var saved = 0;
+    final failed = <String>[];
+    for (final item in requests) {
+      try {
+        final uri = Uri.parse('$apiRoot${item.value}');
+        await KenozApi.get(uri.path.substring(Uri.parse(apiRoot).path.length),
+            query: uri.queryParameters.isEmpty ? null : uri.queryParameters);
+        saved++;
+      } catch (_) {
+        failed.add(item.key);
+      }
+      if (mounted) setState(() => downloadStatus = 'تم حفظ $saved من ${requests.length} عناصر...');
+    }
+    if (mounted) {
+      setState(() {
+        downloading = false;
+        downloadStatus = failed.isEmpty
+            ? 'اكتمل حفظ $saved عنصرًا. يمكن فتح العناصر التي تم تحميلها دون إنترنت.'
+            : 'حُفظ $saved عنصرًا، وتعذر تحميل ${failed.length}. يلزم الإنترنت لإعادة المحاولة.';
+      });
+      if (failed.isNotEmpty) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('تعذر تحميل: ${failed.take(4).join('، ')}')),
+        );
+      }
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) => ListView(
+    padding: const EdgeInsets.all(16),
+    children: [
       const Text('مكتبة النصوص الكنسية', style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: navy)),
       const SizedBox(height: 6),
       const Text('الأجبية والخولاجي والقطمارس والسنكسار', style: TextStyle(color: Colors.black54)),
@@ -240,13 +304,13 @@ class ChurchPage extends StatelessWidget {
         child: ListTile(
           leading: const Icon(Icons.church, color: gold),
           title: const Text('الخولاجي — القداس الإلهي'),
-          subtitle: const Text('النص الكامل ما زال يحتاج إلى دمج الحزمة المحلية'),
+          subtitle: const Text('نصوص الخولاجي المحلية لم تُدمج بعد في حزمة التطبيق'),
           trailing: const Icon(Icons.info_outline),
           onTap: () => showDialog<void>(
             context: context,
             builder: (dialogContext) => AlertDialog(
               title: const Text('الخولاجي'),
-              content: const Text('لم أضع نصًا بديلًا أو رابط API غير متحقق منه. نصوص الخولاجي المستخرجة تحتاج إلى إضافتها كملفات داخل التطبيق قبل أن تعمل دون إنترنت.'),
+              content: const Text('لم أضع نصًا بديلًا غير موثّق. نصوص الخولاجي المستخرجة من ملفات التطبيق ما زالت تحتاج إلى إدراجها في أصول التطبيق واختبار عرضها دون إنترنت.'),
               actions: [TextButton(onPressed: () => Navigator.pop(dialogContext), child: const Text('حسنًا'))],
             ),
           ),
@@ -255,15 +319,30 @@ class ChurchPage extends StatelessWidget {
       _item(context, 'قطمارس اليوم — القراءات', Icons.menu_book, '/readings/$today?detailed=true'),
       _item(context, 'سنكسار اليوم', Icons.event_note, '/synaxarium/$today'),
       const Divider(height: 28),
+      const Text('تنزيل للاستخدام دون إنترنت', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: navy)),
+      const SizedBox(height: 8),
+      FilledButton.icon(
+        onPressed: downloading ? null : _downloadAvailableTexts,
+        icon: downloading
+            ? const SizedBox(width: 18, height: 18, child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white))
+            : const Icon(Icons.download_for_offline),
+        label: Text(downloading ? 'جارٍ الحفظ...' : 'تحميل الأجبية والقراءات والنصوص المتاحة'),
+      ),
+      if (downloadStatus.isNotEmpty) ...[
+        const SizedBox(height: 8),
+        Text(downloadStatus, style: const TextStyle(height: 1.5, color: Colors.black54)),
+      ],
+      const SizedBox(height: 20),
       const Text('خدمات طقسية إضافية', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: navy)),
       const SizedBox(height: 8),
       _item(context, 'التسبحة السنوية', Icons.music_note, '/tasbeha/sunday?lang=ar'),
       _item(context, 'الموسم الطقسي', Icons.calendar_month, '/season/$today'),
       _item(context, 'الصوم', Icons.restaurant, '/fasting/$today'),
       const SizedBox(height: 10),
-      const Text('المحتوى الذي ينجح تحميله يُحفظ تلقائيًا على الجهاز. لا يُعدّ الخولاجي مدمجًا بالكامل حتى تُضاف نصوصه المعتمدة إلى حزمة التطبيق.', style: TextStyle(height: 1.6, color: Colors.black54)),
-    ]);
-  }
+      const Text('الحفظ دون إنترنت يشمل العناصر التي تم تنزيلها بنجاح فقط. الخولاجي الكامل ما زال يحتاج إلى دمج الملفات المحلية المستخرجة.', style: TextStyle(height: 1.6, color: Colors.black54)),
+    ],
+  );
+
   Widget _item(BuildContext c, String s, IconData i, String p) => Card(
     color: Colors.white,
     child: ListTile(
