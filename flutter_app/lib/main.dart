@@ -1,6 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:flutter/material.dart';
+import 'package:file_picker/file_picker.dart';
+import 'package:archive/archive.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:path_provider/path_provider.dart';
@@ -302,18 +304,11 @@ class _ChurchPageState extends State<ChurchPage> {
       Card(
         color: Colors.white,
         child: ListTile(
-          leading: const Icon(Icons.church, color: gold),
-          title: const Text('الخولاجي — القداس الإلهي'),
-          subtitle: const Text('نصوص الخولاجي المحلية لم تُدمج بعد في حزمة التطبيق'),
-          trailing: const Icon(Icons.info_outline),
-          onTap: () => showDialog<void>(
-            context: context,
-            builder: (dialogContext) => AlertDialog(
-              title: const Text('الخولاجي'),
-              content: const Text('لم أضع نصًا بديلًا غير موثّق. نصوص الخولاجي المستخرجة من ملفات التطبيق ما زالت تحتاج إلى إدراجها في أصول التطبيق واختبار عرضها دون إنترنت.'),
-              actions: [TextButton(onPressed: () => Navigator.pop(dialogContext), child: const Text('حسنًا'))],
-            ),
-          ),
+          leading: const Icon(Icons.library_books, color: gold),
+          title: const Text('استيراد مكتبة النصوص المحلية'),
+          subtitle: const Text('الخولاجي والقطمارس والسنكسار والتسبحة والخدمات — تعمل بعد الاستيراد دون إنترنت'),
+          trailing: const Icon(Icons.chevron_left),
+          onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const LocalLibraryPage())),
         ),
       ),
       _item(context, 'قطمارس اليوم — القراءات', Icons.menu_book, '/readings/$today?detailed=true'),
@@ -352,6 +347,211 @@ class _ChurchPageState extends State<ChurchPage> {
       onTap: () => Navigator.push(c, MaterialPageRoute(builder: (_) => DetailPage(title: s, path: p))),
     ),
   );
+}
+
+
+class LocalLibraryPage extends StatefulWidget {
+  const LocalLibraryPage({super.key});
+  @override State<LocalLibraryPage> createState() => _LocalLibraryPageState();
+}
+class _LocalLibraryPageState extends State<LocalLibraryPage> {
+  bool busy = false;
+  String status = '';
+  List<String> files = [];
+  late Directory localDir;
+
+  @override void initState() { super.initState(); _init(); }
+  Future<void> _init() async {
+    final base = await getApplicationDocumentsDirectory();
+    localDir = Directory('\${base.path}/kenoz_local_content');
+    if (!await localDir.exists()) await localDir.create(recursive: true);
+    await _refresh();
+  }
+  Future<void> _refresh() async {
+    if (!await localDir.exists()) return;
+    final names = localDir.listSync().whereType<File>()
+      .map((f) => f.uri.pathSegments.last)
+      .where((n) => n.endsWith('.json') && n != 'manifest.json').toList()..sort();
+    if (mounted) setState(() => files = names);
+  }
+  Future<void> _importZip() async {
+    if (busy) return;
+    try {
+      setState(() { busy = true; status = 'اختر ملف حزمة محتوى كنوز ZIP...'; });
+      final picked = await FilePicker.platform.pickFiles(type: FileType.custom,
+        allowedExtensions: ['zip'], withData: true);
+      if (picked == null || picked.files.isEmpty) {
+        if (mounted) setState(() { busy = false; status = 'تم إلغاء الاختيار.'; });
+        return;
+      }
+      final bytes = picked.files.single.bytes;
+      if (bytes == null) throw Exception('تعذر قراءة الملف المختار.');
+      final archive = ZipDecoder().decodeBytes(bytes);
+      var count = 0;
+      for (final entry in archive) {
+        if (!entry.isFile || !entry.name.toLowerCase().endsWith('.json')) continue;
+        final name = entry.name.split('/').last;
+        if (name.contains('..') || name.contains('/') || name.contains(r'\\')) continue;
+        final content = entry.content;
+        final out = File('\${localDir.path}/$name');
+        await out.writeAsBytes(content is List<int> ? content : List<int>.from(content), flush: true);
+        count++;
+      }
+      await _refresh();
+      if (mounted) setState(() { busy = false; status = 'تم استيراد $count ملفًا. المحتوى محفوظ على الجهاز ويمكن فتحه دون إنترنت.'; });
+    } catch (e) {
+      if (mounted) setState(() { busy = false; status = 'فشل الاستيراد: $e'; });
+    }
+  }
+  String _title(Map<String, dynamic> item) {
+    final text = (item['text'] ?? '').toString().trim();
+    if (text.isNotEmpty) return text.split('\n').first;
+    final rows = item['rows'];
+    if (rows is List) {
+      for (final row in rows) {
+        if (row is List) {
+          for (final cell in row) {
+            final value = cell.toString().trim();
+            if (value.isNotEmpty && !RegExp(r'^[0-9]+(?:\\.0)? { const NotesPage({super.key}); @override State<NotesPage> createState()=>_NotesPageState(); }
+class _NotesPageState extends State<NotesPage> {
+  final controller=TextEditingController(); List<String> notes=[];
+  @override void initState(){super.initState();_load();}
+  Future<void> _load()async{final p=await SharedPreferences.getInstance();if(mounted)setState(()=>notes=p.getStringList('kenoz_notes')??[]);}
+  Future<void> _add()async{final s=controller.text.trim();if(s.isEmpty)return;final p=await SharedPreferences.getInstance();notes=[...notes,s];await p.setStringList('kenoz_notes',notes);controller.clear();if(mounted)setState((){});}
+  @override void dispose(){controller.dispose();super.dispose();}
+  @override Widget build(BuildContext context)=>Padding(padding:const EdgeInsets.all(16),child:Column(children:[
+    const Text('ملاحظاتي الروحية',style:TextStyle(fontSize:24,fontWeight:FontWeight.bold,color:navy)),
+    const SizedBox(height:12),TextField(controller:controller,maxLines:3,decoration:const InputDecoration(labelText:'اكتب ملاحظة أو تأملًا',border:OutlineInputBorder())),
+    const SizedBox(height:8),Align(alignment:Alignment.centerLeft,child:FilledButton(onPressed:_add,child:const Text('حفظ'))),
+    const Divider(),Expanded(child:notes.isEmpty?const Center(child:Text('لا توجد ملاحظات بعد.')):ListView.builder(itemCount:notes.length,itemBuilder:(c,i)=>Card(color:Colors.white,child:ListTile(title:Text(notes[i]),trailing:IconButton(icon:const Icon(Icons.delete_outline),onPressed:()async{notes.removeAt(i);final p=await SharedPreferences.getInstance();await p.setStringList('kenoz_notes',notes);if(mounted)setState((){});}))))),
+  ]));
+}
+
+class DetailPage extends StatefulWidget { final String title,path; const DetailPage({super.key,required this.title,required this.path}); @override State<DetailPage> createState()=>_DetailPageState(); }
+class _DetailPageState extends State<DetailPage> {
+  dynamic data; bool loading=true,offline=false; String error='';
+  @override void initState(){super.initState();_load();}
+  Future<void> _load()async{
+    setState(()=>loading=true);
+    try{
+      final baseUri = Uri.parse(apiRoot);
+      final uri = Uri.parse(widget.path.startsWith('http')
+          ? widget.path
+          : '$apiRoot${widget.path.startsWith('/') ? widget.path : '/${widget.path}'}');
+      final apiPath = uri.path.startsWith(baseUri.path)
+          ? uri.path.substring(baseUri.path.length)
+          : uri.path;
+      final result = await KenozApi.get(
+        apiPath.isEmpty ? '/' : apiPath,
+        query: uri.queryParameters.isEmpty ? null : uri.queryParameters,
+      );
+      if(mounted)setState(() { data=result.data; offline=result.offline; });
+    }catch(e){if(mounted)setState(()=>error='لم نتمكن من جلب هذا المحتوى ولا توجد نسخة محفوظة بعد. اتصل بالإنترنت وحاول مرة أخرى.');}
+    finally{if(mounted)setState(()=>loading=false);}
+  }
+  @override Widget build(BuildContext context)=>Scaffold(appBar:AppBar(title:Text(widget.title)),body:loading?const Center(child:CircularProgressIndicator()):error.isNotEmpty?Center(child:Padding(padding:const EdgeInsets.all(24),child:Column(mainAxisSize:MainAxisSize.min,children:[const Icon(Icons.cloud_off,size:42,color:gold),const SizedBox(height:12),Text(error,textAlign:TextAlign.center),const SizedBox(height:12),FilledButton(onPressed:_load,child:const Text('إعادة المحاولة'))]))):Column(children:[
+    Container(width:double.infinity,padding:const EdgeInsets.all(10),color:offline?const Color(0xFFFFF0D5):const Color(0xFFE3F4E8),child:Text(offline?'معروض من النسخة المحفوظة دون إنترنت':'تم التحميل — حُفظ تلقائيًا على الجهاز',textAlign:TextAlign.center)),
+    Expanded(child:ListView(padding:const EdgeInsets.all(16),children:[_render(data)])),
+  ]));
+  Widget _render(dynamic v){
+    if(v==null)return const SizedBox.shrink();
+    if(v is Map){return Column(crossAxisAlignment:CrossAxisAlignment.stretch,children:v.entries.map((e)=>Padding(padding:const EdgeInsets.only(bottom:8),child:Card(color:Colors.white,child:Padding(padding:const EdgeInsets.all(12),child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[Text(_label(e.key.toString()),style:const TextStyle(fontWeight:FontWeight.bold,color:navy,fontSize:16)),const SizedBox(height:6),_render(e.value)]))))).toList());}
+    if(v is List)return Column(crossAxisAlignment:CrossAxisAlignment.stretch,children:v.map((x)=>Padding(padding:const EdgeInsets.only(bottom:6),child:_render(x))).toList());
+    return SelectableText(v.toString(),style:const TextStyle(fontSize:16,height:1.7));
+  }
+  String _label(String s){const m={'vespers':'عشية','matins':'باكر','liturgy':'القداس','pauline':'البولس','catholic':'الكاثوليكون','praxis':'الإبركسيس','psalm':'المزمور','gospel':'الإنجيل','synaxarium':'السنكسار','readings':'القراءات','date':'التاريخ','title':'العنوان','text':'النص','content':'المحتوى','description':'التفاصيل','name':'الاسم','reference':'المرجع','season':'الموسم الطقسي','fasting':'الصوم','saints':'القديسون'};return m[s]??s.replaceAll('_',' ');}
+}
+).hasMatch(value)) return value;
+          }
+        }
+      }
+    }
+    return (item['path'] ?? 'نص كنسي').toString().split('/').last;
+  }
+  Future<void> _openCategory(String name) async {
+    try {
+      final decoded = jsonDecode(await File('\${localDir.path}/$name').readAsString()) as Map<String, dynamic>;
+      final items = (decoded['items'] as List<dynamic>? ?? []);
+      if (!mounted) return;
+      Navigator.push(context, MaterialPageRoute(builder: (_) => LocalCategoryPage(
+        title: _categoryLabel(name), items: items.map((e) => Map<String, dynamic>.from(e as Map)).toList(),
+        titleFor: _title)));
+    } catch (e) {
+      if (mounted) ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('تعذر فتح الملف: $e')));
+    }
+  }
+  String _categoryLabel(String name) {
+    const labels = {'kholagy.json':'الخولاجي','katamars.json':'القطمارس','synaxarium.json':'السنكسار',
+      'dallal.json':'الدلال','psalmody_annual.json':'التسبحة السنوية','absalmody.json':'الإبصلمودية',
+      'prostrations.json':'صلوات السجود','shawahed.json':'الشواهد'};
+    return labels[name] ?? name.replaceAll('.json','');
+  }
+  @override Widget build(BuildContext context) => ListView(padding: const EdgeInsets.all(16), children: [
+    const Text('مكتبة النصوص المحلية', style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: navy)),
+    const SizedBox(height: 8),
+    const Text('استورد ملف ZIP مرة واحدة؛ تُحفظ ملفات النصوص داخل التطبيق وتظل متاحة دون اتصال.', style: TextStyle(height: 1.5)),
+    const SizedBox(height: 12),
+    FilledButton.icon(onPressed: busy ? null : _importZip,
+      icon: busy ? const SizedBox(width:18,height:18,child:CircularProgressIndicator(strokeWidth:2,color:Colors.white)) : const Icon(Icons.folder_open),
+      label: Text(busy ? 'جارٍ الاستيراد...' : 'اختيار حزمة المحتوى ZIP')),
+    if (status.isNotEmpty) Padding(padding: const EdgeInsets.symmetric(vertical: 10), child: Text(status, style: const TextStyle(height:1.5))),
+    const Divider(),
+    if (files.isEmpty) const Padding(padding: EdgeInsets.all(16), child: Text('لم يتم استيراد ملفات بعد. نزّل حزمة محتوى كنوز ثم اخترها من هنا.', textAlign: TextAlign.center))
+    else ...files.map((name) => Card(color: Colors.white, child: ListTile(
+      leading: const Icon(Icons.menu_book, color: gold), title: Text(_categoryLabel(name)),
+      subtitle: Text(name), trailing: const Icon(Icons.chevron_left), onTap: () => _openCategory(name))))
+  ]);
+}
+
+class LocalCategoryPage extends StatelessWidget {
+  final String title;
+  final List<Map<String, dynamic>> items;
+  final String Function(Map<String, dynamic>) titleFor;
+  const LocalCategoryPage({super.key, required this.title, required this.items, required this.titleFor});
+  @override Widget build(BuildContext context) => Scaffold(
+    appBar: AppBar(title: Text(title)),
+    body: items.isEmpty ? const Center(child: Text('لا توجد نصوص في هذا القسم.')) :
+      ListView.builder(itemCount: items.length, itemBuilder: (context, index) {
+        final item = items[index];
+        final label = titleFor(item);
+        return Card(color: Colors.white, margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+          child: ListTile(title: Text(label, maxLines: 2, overflow: TextOverflow.ellipsis),
+            subtitle: Text((item['path'] ?? '').toString().split('/').skip(2).join('/'), maxLines: 1, overflow: TextOverflow.ellipsis),
+            onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => LocalTextPage(title: label, item: item))));
+      }),
+  );
+}
+
+class LocalTextPage extends StatelessWidget {
+  final String title;
+  final Map<String, dynamic> item;
+  const LocalTextPage({super.key, required this.title, required this.item});
+  @override Widget build(BuildContext context) {
+    final buffer = StringBuffer();
+    final text = (item['text'] ?? '').toString().trim();
+    if (text.isNotEmpty) buffer.writeln(text);
+    final rows = item['rows'];
+    if (rows is List) {
+      for (final row in rows) {
+        if (row is! List) continue;
+        final cells = row.map((e) => e.toString().trim()).where((e) => e.isNotEmpty).toList();
+        if (cells.isNotEmpty) {
+          buffer.writeln();
+          buffer.writeln(cells.join('\n'));
+        }
+      }
+    }
+    final body = buffer.toString().trim();
+    return Scaffold(appBar: AppBar(title: Text(title, maxLines: 1, overflow: TextOverflow.ellipsis)),
+      body: body.isEmpty ? const Center(child: Text('هذا الملف لا يحتوي على نص قابل للعرض.')) :
+        SelectionArea(child: ListView(padding: const EdgeInsets.all(18), children: [
+          Text(title, style: const TextStyle(fontSize: 21, fontWeight: FontWeight.bold, color: navy)),
+          const SizedBox(height: 14),
+          Text(body, textDirection: TextDirection.rtl, style: const TextStyle(fontSize: 17, height: 1.9)),
+          const SizedBox(height: 20),
+          Text('المصدر: \${item['path'] ?? 'ملف محلي'}', style: const TextStyle(fontSize: 11, color: Colors.black45)),
+        ])));
+  }
 }
 
 class NotesPage extends StatefulWidget { const NotesPage({super.key}); @override State<NotesPage> createState()=>_NotesPageState(); }
