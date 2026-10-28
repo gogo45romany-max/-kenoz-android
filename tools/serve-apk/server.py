@@ -20,9 +20,13 @@ import sys
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 APK_NAME = "KENOZ-1.0.0.apk"
-DEFAULT_APK = "/home/user/KENOZ-1.0.0.apk"
-FALLBACK_APK = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                            "..", "..", "dist", APK_NAME)
+HERE = os.path.dirname(os.path.abspath(__file__))
+REPO = os.path.normpath(os.path.join(HERE, "..", ".."))
+CANDIDATES = [
+    os.path.join(REPO, APK_NAME),              # committed copy at the repo root
+    os.path.join(REPO, "dist", APK_NAME),      # tools/local-apk/build.sh output
+    os.path.join(os.path.expanduser("~"), APK_NAME),
+]
 
 PAGE = """<!doctype html>
 <html lang="ar" dir="rtl">
@@ -214,16 +218,15 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--port", type=int, default=int(os.environ.get("PORT", 8080)))
     ap.add_argument("--host", default="0.0.0.0")
-    ap.add_argument("--apk", default=os.environ.get("KENOZ_APK", DEFAULT_APK))
+    ap.add_argument("--apk", default=os.environ.get("KENOZ_APK", ""))
     args = ap.parse_args()
 
     apk = args.apk
-    if not os.path.isfile(apk):
-        alt = os.path.normpath(FALLBACK_APK)
-        if os.path.isfile(alt):
-            apk = alt
-    if not os.path.isfile(apk):
-        sys.exit(f"APK not found: {apk}\nBuild it with tools/local-apk/build.sh")
+    if not apk:
+        apk = next((c for c in CANDIDATES if os.path.isfile(c)), "")
+    if not apk or not os.path.isfile(apk):
+        sys.exit("APK not found in: " + ", ".join(CANDIDATES) +
+                 "\nBuild it with tools/local-apk/build.sh")
 
     Handler.apk_path = apk
     Handler.apk_size = os.path.getsize(apk)
