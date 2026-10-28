@@ -1997,6 +1997,7 @@ SOURCE: assets/absalmody/27.xls
 [ROW 14]
   [COLUMN 5] والسر العجيب. أنه أتى. وخلصنا. من أعدائنا.
   [COLUMN 7] Nem pimucthrion> etoi `n`]vhri> je af`i afcw; `mmon> ebol’'en nenjaji.
+
 [ROW 15]
   [COLUMN 5] # تباركت يا ابن الله. مع أبيك الصالح. والروح المعزى. والثالوث المساوى.
   [COLUMN 7] # {marwout w Uioc Qeoc> nem Pekiwt `nagaqoc> nem Pi`pneuma `mparaklhton> :`triac eqouab `nomooucioc.
@@ -2996,6 +2997,7 @@ SOURCE: assets/absalmody/34.xls
 [ROW 18]
   [COLUMN 5] سبحوا الرب إلهنا. لأنه حسن المزمور. أتى لأجل خلاصنا. المجد لله.
   [COLUMN 7] Cmou ePsoic Pennou;> je nane ouyalmoc> af`i eqbe pencw;> do[a ci o Qeoc.
+
 [ROW 19]
   [COLUMN 5] # نُكرِّم الثالوث. مع السجود. لأنه خلق السموات. وجنودها.
   [COLUMN 7] # Tenouw]t `n:`triac> nem ;`prockunhcic> je afqamio `nnivhou`i> nem noudunamic.
@@ -7995,6 +7997,7 @@ SOURCE: assets/absalmody/75.xls
   [COLUMN 5] باركى الرب أيتها الأنداء الأهوية. سبحيه وزيديه علواً إلى الآباد.
   [COLUMN 6] إسمو إى إبتشويس نيوتى نيم نى نيفى:هوس إيروف آرى هوؤ تشاسف شانى إينيه. 
   [COLUMN 7] Cmou ePsoic niiw; nem ninifi> \wc erof ari\ouo sacf ]a ni`eène\.
+
 [ROW 20]
   [COLUMN 5] # باركى الرب أيتها الليالى والأيام. سبحيه وزيديه علواً إلى الآباد.
   [COLUMN 6] إسمو إى إبتشويس نى إيجوره نيم نى إيهوؤو: هوس إيروف آرى هوؤ تشاسف شانى إينيه 
@@ -9994,6 +9997,7 @@ SOURCE: assets/absalmody/89.xls
   [COLUMN 5] لأنى إذا ما تكلمت من أجلك. أيتها المركبة الشاروبيمية. لسانى لا يتعب أبداً. نُغبطكِ.
   [COLUMN 6] كى غار أيشان صاجى إثفتى: أوبى هارما إنشيرو بيميكون: بالاس ناخيسى آن إينيه: تين إيرماكاريزين إممو.
   [COLUMN 7] Ke gar ai]ancaji eqbh;> w pi\arma `nxeroubimikon> palace na’'ici an ene\> tenermakarizin `mmo.
+
 [ROW 2]
   [COLUMN 5] # لأنى حقاً أمضى. إلى ديار بيت داود. لآخذ صوتاً من قبله. لكى أنطق بكرامتك.
   [COLUMN 6] جى أوندوس غار تى ناشينى: شا نى أفليّو إنتى إب إى إن دافيد: إنطاتشى إن أو إسمى إيفول هي طوطف: إثري صاجى إمبي طايو.
@@ -11993,6 +11997,7 @@ SOURCE: assets/katamars/Katamaras7maseen/20.xls
   [COLUMN 2] مزمور عشية 
   [COLUMN 3] من مزاميرِ أبينا داودَ النبيِّ و الملك بركته علينا آمين ( 145 : 7 ــ 8 ) 
   [COLUMN 4] الرَّبُّ يَحُلُّ الْمُقَيَّدِينَ. الرَّبُّ يُقِيمُ السَّاقِطِينَ. الرَّبُّ يُحَكِّمُ الْعُمْيَانَ. الرَّبُّ يُحِبُّ الصِّدِّيقِينَ.   هَــلِّـلُـــويَـــا.
+
 [ROW 3]
   [COLUMN 2] انجيل عشية
   [COLUMN 3] مباركٌ الآتي باسمِ الربِّ إلهِ القوات ، ربُّنا و إلهُنا و مخلصُنا و ملكُنا كلِّنا يسوعُ المسيح ابنُ اللهِ الحي الذي له المجدُ الدائمُ إلى الأبد آمين ( 11 : 20 ــ 24 )
