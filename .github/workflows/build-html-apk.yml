@@ -6,10 +6,11 @@ on:
     paths:
       - "web/**"
       - "scripts/**"
-      - "KENOZ_All_Extracted_Texts_Unified.zip"\n      - "KENOZ_All_Extracted_Texts_Unified.txt"
+      - "KENOZ_All_Extracted_Texts_Unified.zip"
+      - "KENOZ_All_Extracted_Texts_Unified.txt"
       - ".github/workflows/build-html-apk.yml"
 permissions:
-  contents: read
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
