@@ -42,6 +42,31 @@ jobs:
           python3 scripts/prepare_corpus.py --input "$RUNNER_TEMP/kenoz/master.txt" --output web/assets/corpus
           test -s web/assets/corpus/manifest.json
           test -s web/assets/corpus/chunk-0001.jsonl
+          test -s web/assets/corpus/indexes/by-title.json
+          test -s web/assets/corpus/indexes/by-source.json
+          test -s web/assets/corpus/indexes/by-category.json
+          test -s web/assets/corpus/indexes/review-index.json
+          test -s web/assets/corpus/indexes/quality-report.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          base = Path("web/assets/corpus")
+          manifest = json.loads((base / "manifest.json").read_text(encoding="utf-8"))
+          title_index = json.loads((base / "indexes/by-title.json").read_text(encoding="utf-8"))
+          source_index = json.loads((base / "indexes/by-source.json").read_text(encoding="utf-8"))
+          category_index = json.loads((base / "indexes/by-category.json").read_text(encoding="utf-8"))
+          review_index = json.loads((base / "indexes/review-index.json").read_text(encoding="utf-8"))
+          report = json.loads((base / "indexes/quality-report.json").read_text(encoding="utf-8"))
+          expected = manifest["documentCount"]
+          assert len(title_index) == expected, (len(title_index), expected)
+          assert len(source_index) == expected, (len(source_index), expected)
+          assert sum(c["count"] for c in category_index["categories"]) == expected
+          assert len({x["id"] for x in title_index}) == expected
+          assert report["summary"]["structuralChecksPassed"] is True
+          assert len(review_index) == report["summary"]["documentsWithFlags"]
+          print("Index validation passed:", expected, "documents;", len(review_index), "review flags")
+          print(json.dumps(report["summary"], ensure_ascii=False))
+          PY
           cat web/assets/corpus/REPORT.txt
           du -sh web/assets/corpus
       - name: Install Cordova
