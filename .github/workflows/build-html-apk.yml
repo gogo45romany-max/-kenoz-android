@@ -6,7 +6,6 @@ on:
     paths:
       - "web/**"
       - "scripts/**"
-      - "KENOZ_All_Extracted_Texts_Unified.zip"
       - "KENOZ_All_Extracted_Texts_Unified.txt"
       - ".github/workflows/build-html-apk.yml"
 permissions:
@@ -41,12 +40,8 @@ jobs:
           EXPECTED_BYTES=66379407
           EXPECTED_SHA256="199f86a2955a4d7b40c4a896874da62f403da5e9a92e35c546b8c43c93ff3805"
 
-          # Bootstrap the raw text file only if it is not already in the repository.
-          # The extracted bytes were verified against the exact uploaded TXT's SHA-256.
-          if [ ! -s "$SOURCE" ]; then
-            test -s "KENOZ_All_Extracted_Texts_Unified.zip"
-            unzip -p KENOZ_All_Extracted_Texts_Unified.zip KENOZ_All_Extracted_Texts_Unified.txt > "$SOURCE"
-          fi
+          # The uploaded plain-text source must exist in the repository; ZIP is not used.
+          test -s "$SOURCE"
 
           test "$(wc -c < "$SOURCE")" -eq "$EXPECTED_BYTES"
           printf '%s  %s\n' "$EXPECTED_SHA256" "$SOURCE" | sha256sum --check -
