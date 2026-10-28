@@ -1,0 +1,64 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.kenoz.app"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.kenoz.app"
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName "1.0.0"
+    }
+
+    // Reuse the single source of truth: the web app and Android code live in
+    // <repo>/app/src/main and are shared with the standalone Gradle project.
+    sourceSets {
+        main {
+            manifest.srcFile "../../../app/src/main/AndroidManifest.xml"
+            java.srcDirs = ["../../../app/src/main/java"]
+            res.srcDirs = ["../../../app/src/main/res"]
+            assets.srcDirs = ["../../../app/src/main/assets"]
+        }
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+        }
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+}
+
+// Publish the APK where "flutter build apk" expects it.
+android.applicationVariants.all { variant ->
+    variant.assembleProvider.configure { task ->
+        task.doLast {
+            def outDir = new File(rootProject.projectDir, "../build/app/outputs/flutter-apk")
+            outDir.mkdirs()
+            variant.outputs.each { output ->
+                def apk = output.outputFile
+                if (apk != null && apk.exists()) {
+                    new File(outDir, apk.name).bytes = apk.bytes
+                    println "KENOZ: copied ${apk.name} to ${outDir}"
+                }
+            }
+        }
+    }
+}

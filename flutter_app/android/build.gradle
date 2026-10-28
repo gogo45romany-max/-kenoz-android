@@ -1,0 +1,4 @@
+// Root build file for the KENOZ Android wrapper (reuses ../app sources).
+tasks.register("clean", Delete) {
+    delete rootProject.layout.buildDirectory
+}
