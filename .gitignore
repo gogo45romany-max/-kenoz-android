@@ -12,3 +12,8 @@ captures/
 .DS_Store
 Thumbs.db
 *.log
+
+# Local APK build output / tool caches
+dist/
+node_modules/
+*.apk

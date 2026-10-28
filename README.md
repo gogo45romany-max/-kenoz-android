@@ -22,9 +22,10 @@
 
 ## تحميل التطبيق
 
-- ملف APK الجاهز يُنتج عبر GitHub Actions ويُرفع في صفحة **Releases** لهذا المستودع.
+- ملف APK الجاهز: **`KENOZ-1.0.0.apk`** (≈ 11 ميجابايت، `com.kenoz.app`، الإصدار 1.0.0).
 - بعد التحميل: افتح الملف على الهاتف واسمح بـ«تثبيت من مصدر غير معروف» عند الطلب.
 - التطبيق موقّع بمفتاح ثابت (`keystore/kenoz.p12`) لذلك يمكن تحديثه فوق النسخة السابقة دون حذفها.
+- يحتاج أندرويد 7.0 (API 24) أو أحدث، ولا يطلب أي صلاحية ولا أي اتصال بالإنترنت.
 
 ## المزايا
 
@@ -50,6 +51,7 @@ app/src/main/assets/
 app/src/main/java/com/kenoz/app/MainActivity.java   WebView + جسر JavaScript
 tools/build_kenoz_content.py   مُولّد المحتوى من الأرشيف
 tools/make_icons.py            مُولّد أيقونات التطبيق
+tools/local-apk/               بناء APK بدون Android SDK (aapt2 + smali + توقيع v2)
 KENOZ_All_Extracted_Texts_Unified.zip   الأرشيف الأصلي (المصدر)
 ```
 
@@ -63,7 +65,27 @@ gh workflow run build-apk.yml --ref main
 
 أو من تبويب **Actions ← Build KENOZ APK ← Run workflow**. الناتج: `KENOZ-1.0.0.apk`.
 
-### محليًا
+### محليًا (بدون Android SDK)
+
+بعض البيئات لا تصل إلى `dl.google.com` أو مستودعات Maven، لذلك يوجد مسار بناء كامل
+لا يحتاج إلا إلى `python3` و`node` و`npm`/`pip`:
+
+```bash
+tools/local-apk/build.sh          # الناتج: dist/KENOZ-1.0.0.apk
+```
+
+السكربت ينزّل أدواته مرة واحدة (aapt2، apktool/smali، JRE، android.jar)، ثم:
+
+1. يجمّع الموارد و`AndroidManifest.xml` ويحزم `app/src/main/assets` عبر `aapt2`.
+2. يجمّع النسخة المكتوبة بلغة smali (`tools/local-apk/smali/`) إلى `classes.dex`.
+3. يتحقق من كل المراجع والدوال مقابل `android.jar` ومن سلامة الـ dex.
+4. يوقّع الحزمة بمخطط التوقيع **APK Signature Scheme v2** ثم يتحقق من التوقيع والبصمات.
+
+> ملاحظة: نسخة smali في `tools/local-apk/smali/` هي نسخة مطابقة منطقيًا لـ
+> `MainActivity.java`، لكنها **ليست** مصدر التطبيق الرسمي — المصدر الرسمي هو Java
+> وهو ما يبنيه GitHub Actions. النسخة الأخرى موجودة فقط للبناء في بيئات بلا SDK.
+
+### محليًا بالطريقة القياسية
 
 ```bash
 # Java 17 + Android SDK 35 مطلوبان

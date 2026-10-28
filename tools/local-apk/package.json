@@ -1,0 +1,9 @@
+{
+  "name": "kenoz-local-apk",
+  "private": true,
+  "type": "module",
+  "description": "SDK-less APK build helpers for KENOZ (see build.sh)",
+  "dependencies": {
+    "node-forge": "1.4.2"
+  }
+}
