@@ -2997,6 +2997,7 @@ SOURCE: assets/absalmody/124.xls
 [ROW 14]
   [COLUMN 5] تباركت أيها الرب كل يوم كل يوم. كن معنا كل حين. اعطنا سلامك  المملوء فرحاً.
   [COLUMN 7] {marwout Psoic `mmhni `mmhni> ]wpi neman `nchou niben> ek`e;nan `ntek\irhnh> qaieqme\ `nra]i niben.
+
 [ROW 15]
   [COLUMN 5] # وكن لنا حارساً. ياربنا يسوع المسيح. كما اعطيت. قديسيك الرسل.
   [COLUMN 7] # Ouo\ ]wpi nan `nourefrwic> w Pensoic Ihcouc Pixrictoc> kata vrh; etakthic> `nnekagioc `napoctoloc.
@@ -3996,6 +3997,7 @@ SOURCE: assets/absalmody/134.xls
 [ROW 9]
   [COLUMN 5] حزقيال يقول. ويشبهكِ. بالباب المختوم. بناحية المشرق.
   [COLUMN 7] Iezekihl afjoc> ouo\ aftenqwn;> e;pulh ec]wtem> `ncani man]ai.
+
 [ROW 10]
   [COLUMN 5] الرب يسوع المسيح. دخل إليها. وخرج وهى مختومة. بحالها جيداً.
   [COLUMN 7] Kurioc Ihcouc Pixrictoc> af]e e’'oun ]aroc> afì ebol ec]wtem> `mpecrh; kalwc.
@@ -6995,6 +6997,7 @@ SOURCE: assets/absalmody/175.xls
 [ROW 15]
   [COLUMN 5] # القبة الحقيقية. هى مريم العذراء. الكنز الحقيقى. والحاملة الإله.
   [COLUMN 7] # Ou`ckhnh `mmhi> pe Maria ;parqenoc> pia\o `nanamhi> ouo\ `nqeovoroc.
+
 [ROW 16]
   [COLUMN 5] # مجدكِ يا مريم. ارفع من السماء. لأن مجد اللاهوت. حق.
   [COLUMN 7] # Pewou Maria> soci e\ote `tve> je a;meqnou;> ouo\ ta`vmhi pe. 
@@ -7994,6 +7997,7 @@ SOURCE: assets/absalmody/185.xls
 
 [ROW 52]
   [COLUMN 5] شيرى نى ماريا. والقربان صاعد. شيرى نى ماريا. على المذبح المكنون.
+
 [ROW 53]
   [COLUMN 5] # شيرى نى ماريا. وجميع ما وضعوه. شيرى نى ماريا. فى القبة وجدوه.
 
