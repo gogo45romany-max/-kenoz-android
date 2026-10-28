@@ -1,10 +1,12 @@
-name: Build KENOZ HTML APK
+name: Build KENOZ Offline HTML APK
 on:
   workflow_dispatch:
   push:
     branches: ["main"]
     paths:
       - "web/**"
+      - "scripts/**"
+      - "KENOZ_All_Extracted_Texts_Unified.zip"
       - ".github/workflows/build-html-apk.yml"
 permissions:
   contents: read
@@ -25,27 +27,42 @@ jobs:
           node-version: "20"
       - name: Set up Android SDK
         uses: android-actions/setup-android@v3
-        with:
-          packages: |
-            platform-tools
-            platforms;android-35
-            build-tools;35.0.0
-      - name: Accept Android SDK licenses
-        run: yes | sdkmanager --licenses >/dev/null
+      - name: Install required Android SDK packages
+        run: |
+          yes | sdkmanager --licenses >/dev/null
+          sdkmanager "platform-tools" "platforms;android-35" "build-tools;35.0.0"
+      - name: Prepare the full offline text library
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/kenoz"
+          unzip -p KENOZ_All_Extracted_Texts_Unified.zip KENOZ_All_Extracted_Texts_Unified.txt > "$RUNNER_TEMP/kenoz/master.txt"
+          test "$(wc -c < "$RUNNER_TEMP/kenoz/master.txt")" -gt 60000000
+          python3 scripts/prepare_corpus.py --input "$RUNNER_TEMP/kenoz/master.txt" --output web/assets/corpus
+          test -s web/assets/corpus/manifest.json
+          test -s web/assets/corpus/chunk-0001.jsonl
+          cat web/assets/corpus/REPORT.txt
+          du -sh web/assets/corpus
       - name: Install Cordova
         run: npm install --global cordova
-      - name: Create Android wrapper for the HTML app
+      - name: Create Android wrapper and build the offline APK
         run: |
+          set -euo pipefail
           cordova create kenoz-wrapper com.kenoz.app KENOZ
           cd kenoz-wrapper
           cordova platform add android@14.0.1
           rm -rf www/*
           cp -R "$GITHUB_WORKSPACE/web/." www/
           test -f www/index.html
+          test -s www/assets/corpus/manifest.json
           cordova build android --debug
-      - name: Upload HTML-based APK
+      - name: Record APK size
+        run: |
+          APK="kenoz-wrapper/platforms/android/app/build/outputs/apk/debug/app-debug.apk"
+          test -s "$APK"
+          ls -lh "$APK"
+      - name: Upload offline APK
         uses: actions/upload-artifact@v4
         with:
-          name: KENOZ-HTML-APK
+          name: KENOZ-Offline-APK-All-Texts
           path: kenoz-wrapper/platforms/android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
