@@ -1,105 +1,91 @@
-name: Build Kenoz Flutter APK
+name: Build KENOZ APK
+
 on:
   workflow_dispatch:
   push:
     branches: ["main"]
     paths:
-      - "flutter_app/**"
+      - "app/**"
+      - "keystore/**"
+      - "build.gradle"
+      - "settings.gradle"
+      - "gradle.properties"
       - ".github/workflows/build-apk.yml"
+
 permissions:
   contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: flutter_app
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-      - name: Set up Flutter
-        uses: subosito/flutter-action@v2
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
         with:
-          channel: stable
-          cache: true
-      - name: Download Arabic Bible dataset
+          distribution: temurin
+          java-version: "17"
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.9"
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install Android packages
         run: |
-          curl -fL --retry 3 https://raw.githubusercontent.com/midvash/bible-data/main/versions/ar/svd/svd.json -o assets/bible-data.json
-          python3 - <<'PY'
-          import json
-          with open('assets/bible-data.json', encoding='utf-8') as f:
-              d = json.load(f)
-          books = d.get('books', [])
-          if len(books) != 66:
-              raise SystemExit(f'Unexpected Bible dataset: {len(books)} books')
-          print(f'Validated {len(books)} books')
-          PY
-      - name: Generate Android platform project
-        run: flutter create --platforms=android --org com.kenoz --project-name kenoz .
-      - name: Force Android compile SDK 36
+          yes | sdkmanager --licenses > /dev/null || true
+          sdkmanager "platform-tools" "platforms;android-35" "build-tools;35.0.0"
+
+      - name: Verify offline library
         run: |
+          test -f app/src/main/assets/index.html
+          test -f app/src/main/assets/app.js
+          test -f app/src/main/assets/content/catalog.json
           python3 - <<'PY'
-          from pathlib import Path
-          import re
-          paths = [Path('android/app/build.gradle.kts'), Path('android/app/build.gradle')]
-          found = False
-          for p in paths:
-              if not p.exists():
-                  continue
-              found = True
-              text = p.read_text()
-              lines = text.splitlines()
-              for i, line in enumerate(lines):
-                  if re.search(r'\bcompileSdk\b|\bcompileSdkVersion\b', line):
-                      indent = line[:len(line) - len(line.lstrip())]
-                      if p.suffix == '.kts':
-                          lines[i] = indent + 'compileSdk = 36'
-                      else:
-                          lines[i] = indent + 'compileSdkVersion 36'
-              p.write_text('\n'.join(lines) + '\n')
-              print('Updated', p)
-              print('\n'.join(x for x in lines if 'compileSdk' in x))
-          if not found:
-              raise SystemExit('Android app Gradle file not found')
+          import json, os
+          cat = json.load(open('app/src/main/assets/content/catalog.json', encoding='utf-8'))
+          assert cat['sections'], 'empty catalog'
+          docs = cat['docs']
+          assert docs > 2500, f'unexpected document count: {docs}'
+          missing = []
+          for sec in cat['sections']:
+              idx = json.load(open(f"app/src/main/assets/content/{sec['index']}", encoding='utf-8'))
+              for g in idx['groups']:
+                  for d in g['docs']:
+                      p = f"app/src/main/assets/content/{sec['id']}/{d['f']}"
+                      if not os.path.exists(p):
+                          missing.append(p)
+          assert not missing, f'missing files: {missing[:5]}'
+          print(f"OK — {docs} documents across {len(cat['sections'])} sections")
           PY
-      - name: Install dependencies
-        run: flutter pub get
-      - name: Force Flutter plugins to compile with Android SDK 36
+
+      - name: Build release APK
+        run: gradle --no-daemon assembleRelease
+
+      - name: Verify signature and size
         run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import re
-          root = Path.home() / '.pub-cache' / 'hosted' / 'pub.dev'
-          changed = []
-          if root.exists():
-              for p in root.glob('*/android/build.gradle*'):
-                  try:
-                      s = p.read_text()
-                  except Exception:
-                      continue
-                  new = s
-                  new = re.sub(r'compileSdkVersion\\s+34\\b', 'compileSdkVersion 36', new)
-                  new = re.sub(r'compileSdk\\s*=\\s*34\\b', 'compileSdk = 36', new)
-                  new = re.sub(r'compileSdk\\s*=\\s*flutter\\.compileSdkVersion', 'compileSdk = 36', new)
-                  new = re.sub(r'compileSdkVersion\\s+flutter\\.compileSdkVersion', 'compileSdkVersion 36', new)
-                  if new != s:
-                      p.write_text(new)
-                      changed.append(str(p))
-          print('Patched plugin Gradle files:', changed)
-          for p in root.glob('file_picker-*/android/build.gradle*'):
-              s = p.read_text()
-              print('file_picker Gradle:', p)
-              print('\\n'.join(line.strip() for line in s.splitlines() if 'compileSdk' in line))
-          PY
-      - name: Remove generated placeholder test
-        run: rm -f test/widget_test.dart
-      - name: Analyze Flutter project (report only while migration stabilizes)
-        run: flutter analyze || true
-      - name: Build debug APK
-        run: flutter build apk --debug
-      - name: Upload APK artifact
+          APK=app/build/outputs/apk/release/app-release.apk
+          ls -lh "$APK"
+          "$ANDROID_HOME/build-tools/35.0.0/apksigner" verify --print-certs "$APK"
+          cp "$APK" KENOZ-1.0.0.apk
+
+      - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: Kenoz-Flutter-debug-APK
-          path: flutter_app/build/app/outputs/flutter-apk/app-debug.apk
+          name: KENOZ-APK
+          path: KENOZ-1.0.0.apk
           if-no-files-found: error
+
+      - name: Upload build report on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gradle-logs
+          path: |
+            app/build/outputs/logs/**
+          if-no-files-found: ignore

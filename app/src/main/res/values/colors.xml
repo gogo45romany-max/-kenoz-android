@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kenoz_navy">#0F2B46</color>
+    <color name="kenoz_navy_dark">#0B1420</color>
+    <color name="kenoz_gold">#C8A64B</color>
+    <color name="kenoz_paper">#F6F3EA</color>
+    <color name="kenoz_icon_bg">#0F2B46</color>
+</resources>
