@@ -101,7 +101,7 @@ def sha256_of(path: str) -> str:
 class Handler(BaseHTTPRequestHandler):
     server_version = "KenozAPK/1.0"
     protocol_version = "HTTP/1.1"
-    apk_path = DEFAULT_APK
+    apk_path = CANDIDATES[0]
     apk_size = 0
     apk_sha = ""
     page = b""
