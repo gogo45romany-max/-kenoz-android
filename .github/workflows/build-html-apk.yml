@@ -6,7 +6,7 @@ on:
     paths:
       - "web/**"
       - "scripts/**"
-      - "KENOZ_All_Extracted_Texts_Unified.zip"
+      - "KENOZ_All_Extracted_Texts_Unified.zip"\n      - "KENOZ_All_Extracted_Texts_Unified.txt"
       - ".github/workflows/build-html-apk.yml"
 permissions:
   contents: read
@@ -33,12 +33,35 @@ jobs:
         run: |
           yes | sdkmanager --licenses >/dev/null
           sdkmanager "platforms;android-35" "build-tools;35.0.0"
-      - name: Prepare the full offline text library
+      - name: Use the exact 66 MB unified text source
         run: |
           set -euo pipefail
+          SOURCE="KENOZ_All_Extracted_Texts_Unified.txt"
+          EXPECTED_BYTES=66379407
+          EXPECTED_SHA256="199f86a2955a4d7b40c4a896874da62f403da5e9a92e35c546b8c43c93ff3805"
+
+          # Bootstrap the raw text file only if it is not already in the repository.
+          # The extracted bytes were verified against the exact uploaded TXT's SHA-256.
+          if [ ! -s "$SOURCE" ]; then
+            test -s "KENOZ_All_Extracted_Texts_Unified.zip"
+            unzip -p KENOZ_All_Extracted_Texts_Unified.zip KENOZ_All_Extracted_Texts_Unified.txt > "$SOURCE"
+          fi
+
+          test "$(wc -c < "$SOURCE")" -eq "$EXPECTED_BYTES"
+          printf '%s  %s\n' "$EXPECTED_SHA256" "$SOURCE" | sha256sum --check -
+
+          # Persist the raw source file in the repository so later builds use it directly.
+          if ! git ls-files --error-unmatch "$SOURCE" >/dev/null 2>&1; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add "$SOURCE"
+            git commit -m "Store exact unified KENOZ text source"
+            git push origin HEAD:main
+          fi
+
           mkdir -p "$RUNNER_TEMP/kenoz"
-          unzip -p KENOZ_All_Extracted_Texts_Unified.zip KENOZ_All_Extracted_Texts_Unified.txt > "$RUNNER_TEMP/kenoz/master.txt"
-          test "$(wc -c < "$RUNNER_TEMP/kenoz/master.txt")" -gt 60000000
+          cp "$SOURCE" "$RUNNER_TEMP/kenoz/master.txt"
+          test "$(wc -c < "$RUNNER_TEMP/kenoz/master.txt")" -eq "$EXPECTED_BYTES"
           python3 scripts/prepare_corpus.py --input "$RUNNER_TEMP/kenoz/master.txt" --output web/assets/corpus
           test -s web/assets/corpus/manifest.json
           test -s web/assets/corpus/chunk-0001.jsonl
