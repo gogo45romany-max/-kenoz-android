@@ -1,14 +1,51 @@
 plugins {
     id 'com.android.application'
 }
+
 android {
     namespace 'com.kenoz.app'
     compileSdk 35
+
     defaultConfig {
         applicationId 'com.kenoz.app'
-        minSdk 23
+        minSdk 24
         targetSdk 35
         versionCode 1
-        versionName '1.0'
+        versionName '1.0.0'
+    }
+
+    signingConfigs {
+        release {
+            storeFile file('../keystore/kenoz.p12')
+            storePassword 'kenoz2026'
+            keyAlias 'kenoz'
+            keyPassword 'kenoz2026'
+            storeType 'PKCS12'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+
+    packagingOptions {
+        resources {
+            excludes += ['META-INF/*.kotlin_module', 'META-INF/AL2.0', 'META-INF/LGPL2.1']
+        }
     }
 }
