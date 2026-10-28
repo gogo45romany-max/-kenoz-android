@@ -17,7 +17,3 @@ Thumbs.db
 dist/
 node_modules/
 *.apk
-
-# The built app itself is committed so it can be downloaded straight from the repo
-*.apk
-!KENOZ-1.0.0.apk

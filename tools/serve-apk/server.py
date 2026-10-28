@@ -26,6 +26,7 @@ CANDIDATES = [
     os.path.join(REPO, APK_NAME),              # committed copy at the repo root
     os.path.join(REPO, "dist", APK_NAME),      # tools/local-apk/build.sh output
     os.path.join(os.path.expanduser("~"), APK_NAME),
+    os.path.join(os.path.expanduser("~"), "Kenoz.apk"),
 ]
 
 PAGE = """<!doctype html>
