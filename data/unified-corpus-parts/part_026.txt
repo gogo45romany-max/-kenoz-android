@@ -1,0 +1,10000 @@
+  [COLUMN 4] تث28 : 33
+
+[ROW 246]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] ميثاقا
+  [COLUMN 4] نح10 : 29
+
+[ROW 247]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] يختمون
+  [COLUMN 4] نح10 : 1
+
+[ROW 248]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] ختموا
+  [COLUMN 4] نح9 : 38
+
+[ROW 249]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] الشعب
+  [COLUMN 4] عز2 : 36 - 58
+
+[ROW 250]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] انفصلوا
+  [COLUMN 4] نح9 : 2 
+
+[ROW 251]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] وحلف
+  [COLUMN 4] نح5 : 12
+
+[ROW 252]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] بناتنا
+  [COLUMN 4] خر34 : 16
+  [COLUMN 5] تث7 : 3
+
+[ROW 253]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] السبت
+  [COLUMN 4] نح13 : 15 - 22
+
+[ROW 254]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] السابعة
+  [COLUMN 4] خر23 : 10 ، 11
+
+[ROW 255]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] دين
+  [COLUMN 4] تث15 : 1 ، 2
+
+[ROW 256]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 32.0
+  [COLUMN 3] شاقل
+  [COLUMN 4] خر3 : 11 - 16
+  [COLUMN 5] مت17 : 24
+
+[ROW 257]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] قرعاً
+  [COLUMN 4] نح11 : 1
+
+[ROW 258]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] الحطب
+  [COLUMN 4] نح13 : 31
+
+[ROW 259]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 35.0
+  [COLUMN 3] أرضنا
+  [COLUMN 4] خر23 : 19
+
+[ROW 260]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 36.0
+  [COLUMN 3] الشريعة
+  [COLUMN 4] خر13 : 2 
+
+[ROW 261]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 37.0
+  [COLUMN 3] عجيننا
+  [COLUMN 4] لا23 : 17
+
+[ROW 262]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 37.0
+  [COLUMN 3] إلهنا
+  [COLUMN 4] نح13 : 5 ، 9
+
+[ROW 263]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 37.0
+  [COLUMN 3] أرضنا
+  [COLUMN 4] لا27 : 30
+
+[ROW 264]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] الكاهن
+  [COLUMN 4] عد18 : 26
+
+[ROW 265]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] الحزينة
+  [COLUMN 4] نح13 : 12 ، 13
+
+[ROW 266]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] القمح
+  [COLUMN 4] تث12 : 6
+
+[ROW 267]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] إلهنا
+  [COLUMN 4] نح13 : 10 ، 11
+
+[ROW 268]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الشعب
+  [COLUMN 4] نح7 : 4
+
+[ROW 269]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] قرعاً
+  [COLUMN 4] نح10 : 34
+
+[ROW 270]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] القدس
+  [COLUMN 4] نح11 : 18
+  [COLUMN 5] أش48 : 2
+
+[ROW 271]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] البلاد
+  [COLUMN 4] 1أي9 : 2 - 34
+
+[ROW 272]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] ملكه
+  [COLUMN 4] نح11 : 20
+
+[ROW 273]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] والنثينيم
+  [COLUMN 4] عز2 : 43
+
+[ROW 274]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] سليمان
+  [COLUMN 4] نح7 : 57
+
+[ROW 275]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] الخارجى
+  [COLUMN 4] 1أي26 : 29
+
+[ROW 276]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] المقدسة
+  [COLUMN 4] نح11 : 1
+
+[ROW 277]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] ميراثه
+  [COLUMN 4] نح11 : 3
+
+[ROW 278]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الأكمة
+  [COLUMN 4] نح3 : 26
+  [COLUMN 5] 2أي37 : 3
+
+[ROW 279]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] اللاويين
+  [COLUMN 4] نح11 : 9 ، 14
+
+[ROW 280]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] جهنم
+  [COLUMN 4] عز6 : 8
+  [COLUMN 5] عز7 : 20
+
+[ROW 281]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] قيوم
+  [COLUMN 4] نح12 : 47
+
+[ROW 282]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] أربع
+  [COLUMN 4] يش14 : 15
+
+[ROW 283]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] وديبون
+  [COLUMN 4] يش13 : 9 ، 17
+
+[ROW 284]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] واللاويون
+  [COLUMN 4] عز2 : 1
+  [COLUMN 5] عز7 : 7
+
+[ROW 285]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الحراسات
+  [COLUMN 4] نح12 : 24
+
+[ROW 286]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] والتحميد
+  [COLUMN 4] نح11 : 17
+
+[ROW 287]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] نوبة
+  [COLUMN 4] نح12 : 9
+
+[ROW 288]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] مخازن
+  [COLUMN 4] 1أي26 : 15
+
+[ROW 289]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] الوالى
+  [COLUMN 4] نح8 : 9
+
+[ROW 290]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] والعيدان
+  [COLUMN 4] 1أي 15 : 16 ، 28
+
+[ROW 291]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] النطوفانتى
+  [COLUMN 4] 1أي9 : 16
+
+[ROW 292]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] وتطهر
+  [COLUMN 4] نح13 : 22 ، 30
+
+[ROW 293]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] يميناً
+  [COLUMN 4] نح12 : 38
+
+[ROW 294]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] الدمن
+  [COLUMN 4] نح2 : 13
+
+[ROW 295]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 36.0
+  [COLUMN 3] داود
+  [COLUMN 4] نح12 : 24
+
+[ROW 296]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 37.0
+  [COLUMN 3] العين
+  [COLUMN 4] نح2 : 14
+
+[ROW 297]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 37.0
+  [COLUMN 3] درج
+  [COLUMN 4] نح3 : 15
+
+[ROW 298]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 37.0
+  [COLUMN 3] الماء
+  [COLUMN 4] نح3 : 26
+
+[ROW 299]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] الثانية
+  [COLUMN 4] نح12 : 31
+
+[ROW 300]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] التنانير
+  [COLUMN 4] نح3 : 11
+
+[ROW 301]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] العريض
+  [COLUMN 4] نح3 : 8
+
+[ROW 302]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] افرايم
+  [COLUMN 4] نح8 : 16
+
+[ROW 303]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] العتيق
+  [COLUMN 4] نح3 : 6
+
+[ROW 304]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] الهك
+  [COLUMN 4] نح3 : 3
+
+[ROW 305]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] حنئيل
+  [COLUMN 4] نح3 : 15
+
+[ROW 306]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] السجن
+  [COLUMN 4] نح3 : 25
+
+[ROW 307]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 44.0
+  [COLUMN 3] المخادع
+  [COLUMN 4] نح13 : 5 ، 12 ، 13
+
+[ROW 308]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 45.0
+  [COLUMN 3] داود
+  [COLUMN 4] 1أي25 : 1
+  [COLUMN 5] 1أي26 : 1
+
+[ROW 309]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 46.0
+  [COLUMN 3] وآساف
+  [COLUMN 4] 2أي29 : 30
+
+[ROW 310]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 47.0
+  [COLUMN 3] يومه
+  [COLUMN 4] نح11 : 23
+
+[ROW 311]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 47.0
+  [COLUMN 3] يقدسون
+  [COLUMN 4] عد18 : 21
+
+[ROW 312]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] موسى
+  [COLUMN 4] نح9 : 3
+
+[ROW 313]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 2.0
+  [COLUMN 4] نح13 : 23
+  [COLUMN 5] تث23 : 3 - 5
+
+[ROW 314]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] بلعام
+  [COLUMN 4] عد22 : 3 - 11
+
+[ROW 315]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] فرزوا
+  [COLUMN 4] نح9 : 2
+
+[ROW 316]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] اللفيف
+  [COLUMN 4] خر12 : 38
+
+[ROW 317]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] المقام
+  [COLUMN 4] نح12 : 44
+
+[ROW 318]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] طوبيا
+  [COLUMN 4] نح2 : 10
+  [COLUMN 5] نح6 : 1 ، 17 ، 18
+
+[ROW 319]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] اللاويين
+  [COLUMN 4] عد18 : 21
+
+[ROW 320]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] والثلاثين
+  [COLUMN 4] نح5 : 14
+
+[ROW 321]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] لاتحشستا
+  [COLUMN 4] عز6 : 22
+
+[ROW 322]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] مخدعاً
+  [COLUMN 4] نح13 : 5
+
+[ROW 323]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] فطهروا
+  [COLUMN 4] 2أي29 : 5 ، 15 ، 16
+
+[ROW 324]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] تعط
+  [COLUMN 4] نح10 : 37
+
+[ROW 325]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] حقله
+  [COLUMN 4] نح12 : 28 ، 29
+
+[ROW 326]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الولاة
+  [COLUMN 4] نح13 : 17 ، 25
+
+[ROW 327]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] اللخ
+  [COLUMN 4] نح10 : 39
+
+[ROW 328]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] القمح
+  [COLUMN 4] نح10 : 37
+  [COLUMN 5] نح12 : 44
+
+[ROW 329]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] أمناء
+  [COLUMN 4] نح7 : 2
+
+[ROW 330]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] إلهى
+  [COLUMN 4] نح13 : 22 ، 31
+  [COLUMN 5] نح5 : 19
+
+[ROW 331]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] السبت
+  [COLUMN 4] خر20 : 8
+  [COLUMN 5] خر34 : 21
+
+[ROW 332]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] أورشليم
+  [COLUMN 4] نح10 : 31
+
+[ROW 333]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] عليهم
+  [COLUMN 4] نح13 : 21
+  [COLUMN 5] نح9 : 29
+
+[ROW 334]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] يهوذا
+  [COLUMN 4] نح13 : 11و25
+
+[ROW 335]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] هكذا
+  [COLUMN 4] عز9 : 13
+  [COLUMN 5] أر17 : 21
+
+[ROW 336]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] أظلمت
+  [COLUMN 4] لا23 : 32
+
+[ROW 337]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] عليهم
+  [COLUMN 4] نح13 : 15
+
+[ROW 338]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] يتطهرا
+  [COLUMN 4] نح12 : 30
+  [COLUMN 5] 1أي15 : 12
+
+[ROW 339]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] إلهى
+  [COLUMN 4] نح13 : 14 ، 31
+
+[ROW 340]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] ساكنوا
+  [COLUMN 4] نح10 : 30
+  [COLUMN 5] عز9 : 2
+
+[ROW 341]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] اشدوديات
+  [COLUMN 4] نح4 : 7
+
+[ROW 342]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] وعمونيات
+  [COLUMN 4] نح13 : 1
+  [COLUMN 5] عز9 : 1
+
+[ROW 343]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] فخاصمتهم
+  [COLUMN 4] نح13 : 11 ، 17
+
+[ROW 344]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] منهم
+  [COLUMN 4] تث25 : 2
+
+[ROW 345]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] بالله
+  [COLUMN 4] نح10 : 29 ، 30
+
+[ROW 346]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] سليمان
+  [COLUMN 4] 1مل11 : 1
+
+[ROW 347]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] مثله
+  [COLUMN 4] 1مل3 : 13
+  [COLUMN 5] 2أي1 : 12
+
+[ROW 348]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] اجنبيات
+  [COLUMN 4] نح13 : 23
+  [COLUMN 5] عز10 : 2
+
+[ROW 349]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] لسنبلط
+  [COLUMN 4] نح2 : 10 ، 19
+
+[ROW 350]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] إلهى
+  [COLUMN 4] نح6 : 14
+
+[ROW 351]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] الكهنوت
+  [COLUMN 4] عد25 : 13
+
+[ROW 352]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] فطهرتهم
+  [COLUMN 4] نح1 : 30
+
+[ROW 353]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] الحطب
+  [COLUMN 4] نح10 : 34
+
+[ROW 354]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] يا إلهى
+  [COLUMN 4] نح13 : 14 ، 22
+
+
+####################################################################################################
+SOURCE: assets/shawahed/19.xls
+####################################################################################################
+
+[ROW 1]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] أحشويروش
+  [COLUMN 4] عز4 : 6
+  [COLUMN 5] دا 9 : 1
+
+[ROW 2]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] كوش
+  [COLUMN 4] أس8 : 9
+
+[ROW 3]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] كورة
+  [COLUMN 4] أس9 : 16
+
+[ROW 4]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] شوشن
+  [COLUMN 4] نح1 : 1
+
+[ROW 5]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] وليمة
+  [COLUMN 4] أس2 : 18
+
+[ROW 6]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] جنة
+  [COLUMN 4] أس7 : 7 ، 8
+
+[ROW 7]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] وأسرة
+  [COLUMN 4] حز23 : 41
+  [COLUMN 5] عا6 : 4
+
+[ROW 8]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس2 : 18
+
+[ROW 9]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الملك
+  [COLUMN 4] قض16 : 25
+
+[ROW 10]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس2  : 17
+  [COLUMN 5] أس6 : 8
+
+[ROW 11]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] للحكماء
+  [COLUMN 4] أر10 : 7
+  [COLUMN 5] دا 2 : 2
+
+[ROW 12]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] بالأزمنة
+  [COLUMN 4] 1أي12 : 32
+
+[ROW 13]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] الملك
+  [COLUMN 4] 1مل25 : 19
+  [COLUMN 5] مت18 : 10
+
+[ROW 14]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] يتغير
+  [COLUMN 4] أس8 : 8
+  [COLUMN 5] دا 6 : 8
+
+[ROW 15]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الوقار
+  [COLUMN 4] أف5 : 22
+  [COLUMN 5] كو3 : 18
+
+[ROW 16]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] كتابتها
+  [COLUMN 4] أس3 : 12
+  [COLUMN 5] أس8 : 9
+
+[ROW 17]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] غضب
+  [COLUMN 4] أس7 : 10
+
+[ROW 18]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] عليها
+  [COLUMN 4] أس1 : 19 ، 20
+
+[ROW 19]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] مملكنه
+  [COLUMN 4] أس1 : 1 ، 2
+
+[ROW 20]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] هيجاى
+  [COLUMN 4] أس2 : 8 ، 15
+
+[ROW 21]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] عطرهن
+  [COLUMN 4] أس2 : 9 ، 12
+
+[ROW 22]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] مردخاى
+  [COLUMN 4] أس3 : 2
+
+[ROW 23]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] السبى
+  [COLUMN 4] 2مل24 : 14 ، 15
+
+[ROW 24]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] أستير
+  [COLUMN 4] أس2 : 15
+
+[ROW 25]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] كثيرات
+  [COLUMN 4] أس2 : 3
+
+[ROW 26]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] هيجاى
+  [COLUMN 4] أس2 : 3 ، 15
+
+[ROW 27]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] عطرها
+  [COLUMN 4] أس2 : 3 ، 12
+
+[ROW 28]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] وجنسها
+  [COLUMN 4] أس2 : 20
+
+[ROW 29]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] أبيجائل
+  [COLUMN 4] أس2 : 7
+  [COLUMN 5] أس9 : 29
+
+[ROW 30]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] هيجاى
+  [COLUMN 4] أس2 : 3 ، 8
+
+[ROW 31]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] رأسها
+  [COLUMN 4] أس1 : 11
+
+[ROW 32]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] عظيمة
+  [COLUMN 4] أس1 : 3
+
+[ROW 33]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] كرم
+  [COLUMN 4] أس1 : 7
+
+[ROW 34]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] جمعت
+  [COLUMN 4] أس2 : 3 ، 4
+
+[ROW 35]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس2 : 21
+  [COLUMN 5] أس3 : 2
+
+[ROW 36]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] وشعبها
+  [COLUMN 4] أس2 : 10
+
+[ROW 37]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] تربيتها
+  [COLUMN 4] أس2 : 7
+
+[ROW 38]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] وترش
+  [COLUMN 4] أس6 : 2
+
+[ROW 39]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] الملكة
+  [COLUMN 4] أس6 : 1 ، 2
+
+[ROW 40]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] أمام
+  [COLUMN 4] أس10 : 2
+
+[ROW 41]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] عظم
+  [COLUMN 4] أس5 : 11
+
+[ROW 42]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الأجاجى
+  [COLUMN 4] أس3 : 10
+  [COLUMN 5] أس8 : 3
+
+[ROW 43]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] ورقاه
+  [COLUMN 4] أس5 : 11
+
+[ROW 44]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] يسجد
+  [COLUMN 4] أس5 : 9
+
+[ROW 45]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس2 : 19
+
+[ROW 46]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس3 : 2
+
+[ROW 47]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] فوراً
+  [COLUMN 4] أس9 : 24  -  26
+
+[ROW 48]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] أذار
+  [COLUMN 4] عز6 : 15
+
+[ROW 49]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الشعوب
+  [COLUMN 4] عز4 : 12  -  15
+  [COLUMN 5] أع16 : 20 ، 21
+
+[ROW 50]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] خاتمه
+  [COLUMN 4] أس8 : 2
+  [COLUMN 5] تك41 : 42
+
+[ROW 51]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الأجاجى
+  [COLUMN 4] أس3 : 1
+
+[ROW 52]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] اليهود
+  [COLUMN 4] أس7 : 6
+
+[ROW 53]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس8 : 9
+
+[ROW 54]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] الملك
+  [COLUMN 4] عز8 : 36
+
+[ROW 55]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] أحشويروش
+  [COLUMN 4] أس8 : 8 ، 10 
+  [COLUMN 5] 1مل21 : 8
+
+[ROW 56]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] السعاة
+  [COLUMN 4] أس8 : 10 ، 14
+  [COLUMN 5] 2أي3 : 6
+
+[ROW 57]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] لاهلاك
+  [COLUMN 4] أس7 : 4
+
+[ROW 58]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] واحد
+  [COLUMN 4] أس8 : 12
+
+[ROW 59]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] غنيمتهم
+  [COLUMN 4] أس8 : 11
+  [COLUMN 5] أس9 : 10
+
+[ROW 60]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] الكتابة
+  [COLUMN 4] أس8 : 13 ، 14
+
+[ROW 61]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] فارتبكت
+  [COLUMN 4] أس8 : 15
+
+[ROW 62]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] عمل
+  [COLUMN 4] أس3 : 8  -  10
+  [COLUMN 5] 2صم1 : 11
+  [COLUMN 6] يون3 : 5 ، 6
+
+[ROW 63]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] وصوم
+  [COLUMN 4] أس4 : 16
+
+[ROW 64]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] بوزنة
+  [COLUMN 4] أس3 : 9
+
+[ROW 65]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الأمر
+  [COLUMN 4] أس3 : 14
+
+[ROW 66]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الداخلية
+  [COLUMN 4] أس5 : 11
+  [COLUMN 5] أس6 : 4
+
+[ROW 67]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] واحدة
+  [COLUMN 4] دا 2 : 9
+
+[ROW 68]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الذهب
+  [COLUMN 4] أس5 : 2
+  [COLUMN 5] أس8 : 4
+
+[ROW 69]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] أيام
+  [COLUMN 4] أس5 : 1 
+
+[ROW 70]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الثالث
+  [COLUMN 4] أس4 : 16
+
+[ROW 71]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الداخلية
+  [COLUMN 4] أس4 : 11
+  [COLUMN 5] أس6 : 4
+
+[ROW 72]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] نعمة
+  [COLUMN 4] أس2 : 9 ، 12
+
+[ROW 73]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الذهب
+  [COLUMN 4] أس4 : 11
+  [COLUMN 5] اس8 : 4
+
+[ROW 74]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] لك
+  [COLUMN 4] أس7 : 2
+  [COLUMN 5] مر6 : 23
+
+[ROW 75]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] بهامان
+  [COLUMN 4] أس6 : 14
+
+[ROW 76]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الخمر
+  [COLUMN 4] أس7 : 2
+
+[ROW 77]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] سؤلك
+  [COLUMN 4] أس5 : 3
+
+[ROW 78]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس7 : 3
+  [COLUMN 5] أس8 : 5
+
+[ROW 79]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الوليمة
+  [COLUMN 4] أس6 : 14
+
+[ROW 80]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس2 : 19
+
+[ROW 81]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] له
+  [COLUMN 4] أس3 : 5
+
+[ROW 82]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] وزرش
+  [COLUMN 4] أس6 : 13
+
+[ROW 83]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] بنيه
+  [COLUMN 4] أس9 : 7  -  10
+
+[ROW 84]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] ورقاه
+  [COLUMN 4] أس3 : 1
+
+[ROW 85]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] أيضاً
+  [COLUMN 4] أس5 : 8
+
+[ROW 86]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس5 : 9
+
+[ROW 87]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] خبة
+  [COLUMN 4] أس6 : 4
+  [COLUMN 5] أس7 : 9 ، 10
+
+[ROW 88]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الليلة
+  [COLUMN 4] أس5 : 8
+
+[ROW 89]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الملك
+  [COLUMN 4] دا 6 : 18
+
+[ROW 90]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الأيام
+  [COLUMN 4] أس2 : 23
+  [COLUMN 5] أس10 : 2
+
+[ROW 91]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] بغثانا
+  [COLUMN 4] أس2 : 21 ، 22
+
+[ROW 92]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] الخارجية
+  [COLUMN 4] أس4 : 11
+  [COLUMN 5] أس5 : 1
+
+[ROW 93]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] يصلب
+  [COLUMN 4] أس5 : 14
+
+[ROW 94]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] يكرمه
+  [COLUMN 4] أس6 : 7 ، 9 ، 11
+
+[ROW 95]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الملك
+  [COLUMN 4] 1مل1 : 33
+
+[ROW 96]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس1 : 11
+  [COLUMN 5] أس2 : 17
+
+[ROW 97]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] قدامه
+  [COLUMN 4] تك41 : 43
+
+[ROW 98]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] أسرع
+  [COLUMN 4] أس5 : 5
+
+[ROW 99]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] الرأس
+  [COLUMN 4] 2صم15 : 30
+
+[ROW 100]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] زوجته
+  [COLUMN 4] أس5 : 10
+
+[ROW 101]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] الوليمة
+  [COLUMN 4] أس5 : 8
+
+[ROW 102]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] سؤلك
+  [COLUMN 4] أس5 : 6
+  [COLUMN 5] أس9 : 12
+
+[ROW 103]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] تقضى
+  [COLUMN 4] أس5 : 3
+
+[ROW 104]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] عينيك
+  [COLUMN 4] أس5 : 8
+  [COLUMN 5] أس8 : 5
+
+[ROW 105]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] بعنا
+  [COLUMN 4] أس3 : 9
+
+[ROW 106]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] للهلاك
+  [COLUMN 4] أس3 : 13
+
+[ROW 107]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] وعدو
+  [COLUMN 4] أس3 : 10
+
+[ROW 108]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] بغيظه
+  [COLUMN 4] أس1 : 12
+
+[ROW 109]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] القصر
+  [COLUMN 4] أس1 : 5
+
+[ROW 110]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] السرير
+  [COLUMN 4] أس1 : 6
+
+[ROW 111]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الخشبة
+  [COLUMN 4] أس5 : 14
+
+[ROW 112]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] بالخير
+  [COLUMN 4] أس2 : 22
+
+[ROW 113]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] هامان
+  [COLUMN 4] مز7 : 16
+  [COLUMN 5] مز94 : 23
+
+[ROW 114]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس7 : 7 ، 8
+
+[ROW 115]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] اليهود
+  [COLUMN 4] أس7 : 6
+
+[ROW 116]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] لها
+  [COLUMN 4] أس2 : 7 ، 15
+
+[ROW 117]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] خاتمه
+  [COLUMN 4] أس3 : 10
+
+[ROW 118]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] الذهب
+  [COLUMN 4] أس4 : 11
+  [COLUMN 5] أس5 : 2
+
+[ROW 119]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس5 : 8
+  [COLUMN 5] أس7 : 3
+
+[ROW 120]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] كتابات
+  [COLUMN 4] أس3 : 13
+
+[ROW 121]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الشر
+  [COLUMN 4] أس7 : 4
+  [COLUMN 5] أس9 : 1
+
+[ROW 122]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] لأستير
+  [COLUMN 4] أس8 : 1
+
+[ROW 123]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس8 : 10  
+  [COLUMN 5] أس3 : 12
+
+[ROW 124]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] ترد
+  [COLUMN 4] أس1 : 19
+
+[ROW 125]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس3 : 12
+
+[ROW 126]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] كوش
+  [COLUMN 4] أس1 : 1
+
+[ROW 127]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] بكتابتها
+  [COLUMN 4] أس1 : 22
+  [COLUMN 5] أس3 : 12
+
+[ROW 128]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الجياد
+  [COLUMN 4] 1مل4 : 28
+
+[ROW 129]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] أنفسهم
+  [COLUMN 4] أس9 : 2
+
+[ROW 130]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] ويهلكوا
+  [COLUMN 4] أس3 : 13
+
+[ROW 131]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] غنيمتهم
+  [COLUMN 4] أس9 : 10
+
+[ROW 132]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] سنة
+  [COLUMN 4] أس3 : 14
+
+[ROW 133]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] ملكى
+  [COLUMN 4] أس5 : 11
+  [COLUMN 5] تك41 : 42
+
+[ROW 134]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] بز
+  [COLUMN 4] أس3 : 15
+
+[ROW 135]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] طيب
+  [COLUMN 4] أس9 : 19
+
+[ROW 136]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] يهودوا
+  [COLUMN 4] أس9 : 27
+
+[ROW 137]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] عشر
+  [COLUMN 4] أس8 : 12
+
+[ROW 138]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] منه
+  [COLUMN 4] أس9 : 17
+
+[ROW 139]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] وأمره
+  [COLUMN 4] أس3 : 13
+
+[ROW 140]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] مدنهم
+  [COLUMN 4] أس9 : 15  -  18
+  [COLUMN 5] أس8 : 11
+
+[ROW 141]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] رعبهم
+  [COLUMN 4] أس8 : 17
+
+[ROW 142]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] والمرازبة
+  [COLUMN 4] عز8 : 36
+
+[ROW 143]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] عظمة
+  [COLUMN 4] 2صم3 : 1
+
+[ROW 144]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] اعدائهم
+  [COLUMN 4] أس3 : 13
+
+[ROW 145]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] هامان
+  [COLUMN 4] أس5 : 11
+
+[ROW 146]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] النهب
+  [COLUMN 4] أس8 : 11
+
+[ROW 147]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] سؤلك
+  [COLUMN 4] أس7 : 2
+
+[ROW 148]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] شوشن
+  [COLUMN 4] أس9 : 15
+  [COLUMN 5] أس8 : 11
+
+[ROW 149]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] رجل
+  [COLUMN 4] أس9 : 12
+
+[ROW 150]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] النهب
+  [COLUMN 4] أس9 : 10
+
+[ROW 151]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] اجتمعوا
+  [COLUMN 4] أس9 : 2
+
+[ROW 152]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] النهب
+  [COLUMN 4] أس9 : 10 ، 15
+
+[ROW 153]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] أذار
+  [COLUMN 4] أس9 : 1
+
+[ROW 154]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] منه
+  [COLUMN 4] أس9 : 21
+
+[ROW 155]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] إجتمعوا
+  [COLUMN 4] أس9 : 2
+  [COLUMN 5] أس8 : 11
+
+[ROW 156]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] منه
+  [COLUMN 4] أس9 : 21
+
+[ROW 157]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] الأعراء
+  [COLUMN 4] تث3 : 5
+  [COLUMN 5] زك2 : 4
+
+[ROW 158]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] طيباً
+  [COLUMN 4] أس9 : 22
+
+[ROW 159]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] صاحبه
+  [COLUMN 4] نح8 : 10
+
+[ROW 160]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] فوراً
+  [COLUMN 4] أس3 : 7
+
+[ROW 161]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس7 : 4 - 10
+
+[ROW 162]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] الردئ
+  [COLUMN 4] أس3 : 6 - 15
+
+[ROW 163]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] رأسه 
+  [COLUMN 4] مز7 : 16
+
+[ROW 164]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] الرسالة
+  [COLUMN 4] أس9 : 20
+
+[ROW 165]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] بهم
+  [COLUMN 4] أس8 : 17
+
+[ROW 166]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] اليومين
+  [COLUMN 4] أس9 : 20 ، 21
+
+[ROW 167]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] ابيجائل
+  [COLUMN 4] أس2 : 15
+
+[ROW 168]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] ثانية
+  [COLUMN 4] أس9 : 20 ، 21
+
+[ROW 169]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] والعشرين
+  [COLUMN 4] أس1 : 1
+
+[ROW 170]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] وصراخهم
+  [COLUMN 4] أس4 : 3
+
+[ROW 171]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 32.0
+  [COLUMN 3] الفوريم
+  [COLUMN 4] أس9 : 26
+
+[ROW 172]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] البحر
+  [COLUMN 4] أش11 : 11
+  [COLUMN 5] أش24 : 15
+
+[ROW 173]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] عظمة
+  [COLUMN 4] أس8 : 15
+  [COLUMN 5] أس9 : 4
+
+[ROW 174]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الأيام
+  [COLUMN 4] أس2 : 32
+
+[ROW 175]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] الملك
+  [COLUMN 4] أس41 : 43 ، 44
+
+[ROW 176]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] لشعبه
+  [COLUMN 4] نح2 : 10
+
+
+####################################################################################################
+SOURCE: assets/shawahed/2.xls
+####################################################################################################
+
+[ROW 1]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] أسماء
+  [COLUMN 4] تك46: 8-27
+
+[ROW 2]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] سبعين
+  [COLUMN 4] تك46: 27
+
+[ROW 3]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] ومات
+  [COLUMN 4] تك50: 26
+
+[ROW 4]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] وكثروا
+  [COLUMN 4] تك28: 3
+  [COLUMN 5] تك35: 11
+  [COLUMN 6] تك46: 3
+  [COLUMN 7] تك47: 27
+  [COLUMN 8] تك48: 4
+  [COLUMN 9] أع7: 17
+
+[ROW 5]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] ملك
+  [COLUMN 4] أع7: 18و19
+
+[ROW 6]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] وأعظم
+  [COLUMN 4] مز105: 25
+
+[ROW 7]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] يذلوهم
+  [COLUMN 4] خر 3: 7
+  [COLUMN 5] خر5: 6
+
+[ROW 8]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] رعمسيس
+  [COLUMN 4] 1مل9: 19
+  [COLUMN 5] 2أي8: 4
+
+[ROW 9]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] نموا
+  [COLUMN 4] خر1: 7
+
+[ROW 10]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] بعنف
+  [COLUMN 4] خر5: 7-19
+  [COLUMN 5] تك15: 13
+  [COLUMN 6] تث4: 20
+
+[ROW 11]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] فاقتلاه
+  [COLUMN 4] أع7: 9
+
+[ROW 12]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] خافتا
+  [COLUMN 4] خر1: 21
+
+[ROW 13]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] وكثر 
+  [COLUMN 4] خر1: 12
+
+[ROW 14]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] خافت 
+  [COLUMN 4] خر1: 17
+
+[ROW 15]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الله
+  [COLUMN 4] أع7: 19
+
+[ROW 16]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] تطرحونه
+  [COLUMN 4] تك41: 1
+
+[ROW 17]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] لاوى
+  [COLUMN 4] خر6: 19و20
+
+[ROW 18]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] حسن
+  [COLUMN 4] أع7: 20
+  [COLUMN 5] عب11: 23
+
+[ROW 19]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] سفطاً
+  [COLUMN 4] أش18: 2
+
+[ROW 20]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] الحلفاء
+  [COLUMN 4] أش19: 6
+
+[ROW 21]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] اخته
+  [COLUMN 4] خر15: 20
+  [COLUMN 5] عد26: 9و50
+
+[ROW 22]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] لتغتسل
+  [COLUMN 4] خر7: 15
+  [COLUMN 5] خر8: 20
+
+[ROW 23]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] ابناً
+  [COLUMN 4] أع7: 21
+
+[ROW 24]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] كبر
+  [COLUMN 4] أع7: 23
+  [COLUMN 5] عب11: 24
+
+[ROW 25]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] اثقالهم
+  [COLUMN 4] خر1: 11
+  [COLUMN 5] خر5: 4و5
+  [COLUMN 6] خر6: 6و7
+
+[ROW 26]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] الثانى
+  [COLUMN 4] أع7: 26-28
+
+[ROW 27]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] فقال
+  [COLUMN 4] تك19: 9
+  [COLUMN 5] أع7: 27
+
+[ROW 28]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] فهرب
+  [COLUMN 4] أع7: 29
+
+[ROW 29]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] البئر
+  [COLUMN 4] تك24: 11
+  [COLUMN 5] تك29: 2
+
+[ROW 30]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] مديان
+  [COLUMN 4] خر3: 1
+  [COLUMN 5] خر18: 12
+
+[ROW 31]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] وملأن
+  [COLUMN 4] تك34: 13و19
+
+[ROW 32]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] غنمهن
+  [COLUMN 4] تك39: 3و10
+
+[ROW 33]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] رعوئيل
+  [COLUMN 4] خر3: 1
+  [COLUMN 5] عد10: 29
+
+[ROW 34]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] فارتضى
+  [COLUMN 4] أع7: 29
+
+[ROW 35]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] سفورة
+  [COLUMN 4] خر4: 25
+  [COLUMN 5] خر18: 1 
+
+[ROW 36]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] ابناً
+  [COLUMN 4] خر  : 20
+  [COLUMN 5] خر18: 2و4
+
+[ROW 37]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] نزيلاً
+  [COLUMN 4] تك12: 4
+
+[ROW 38]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] وتنهد
+  [COLUMN 4] خر7: 5و9
+
+[ROW 39]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] الله
+  [COLUMN 4] خر3: 1و9
+
+[ROW 40]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] ميثاقه
+  [COLUMN 4] تك2: 16-18
+  [COLUMN 5] تك26: 2-5
+  [COLUMN 6] تك28: 13-15
+
+[ROW 41]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] يثرون
+  [COLUMN 4] خر2: 18
+
+[ROW 42]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الله
+  [COLUMN 4] خر4: 27
+  [COLUMN 5] خر18: 5
+  [COLUMN 6] خر24: 13
+
+[ROW 43]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] حوريب
+  [COLUMN 4] خر3: 12
+  [COLUMN 5] خر17: 6
+  [COLUMN 6] خر33: 6
+
+[ROW 44]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] ملاك
+  [COLUMN 4] خر3: 4-11و16
+  [COLUMN 5] تك22: 11و15
+
+[ROW 45]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] عليقة
+  [COLUMN 4] تث33: 16
+  [COLUMN 5] مر12: 26
+  [COLUMN 6] لو20: 37
+
+[ROW 46]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] لانظر
+  [COLUMN 4] أع7: 31
+
+[ROW 47]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] الله
+  [COLUMN 4] خر4: 5
+
+[ROW 48]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] رجليك
+  [COLUMN 4] يش5: 15
+  [COLUMN 5] أع7: 33
+
+[ROW 49]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] اله
+  [COLUMN 4] مت22: 31و32
+  [COLUMN 5] مر12: 26
+  [COLUMN 6] لو20: 37
+
+[ROW 50]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] فغطى
+  [COLUMN 4] أع7: 32
+
+[ROW 51]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] رأيت
+  [COLUMN 4] خر2: 25
+  [COLUMN 5] نح9: 9
+  [COLUMN 6] أع7: 34
+
+[ROW 52]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] لأنقذهم
+  [COLUMN 4] تك15: 13-16
+  [COLUMN 5] تك46: 4
+  [COLUMN 6] تك50: 24و25
+
+[ROW 53]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] وعسلاً
+  [COLUMN 4] خر3: 17
+  [COLUMN 5] خر13: 5
+  [COLUMN 6] أر11: 5
+
+[ROW 54]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الكنعانيين
+  [COLUMN 4] تك15: 19-21
+  [COLUMN 5] يش24: 11
+
+[ROW 55]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] صراخ
+  [COLUMN 4] خر2: 23
+
+[ROW 56]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] وتخرج
+  [COLUMN 4] خر12: 41
+
+[ROW 57]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] من 
+  [COLUMN 4] خر4: 1
+  [COLUMN 5] خر6: 12
+
+[ROW 58]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] معك
+  [COLUMN 4] خر4: 15
+  [COLUMN 5] خر6: 12
+
+[ROW 59]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] تخرج
+  [COLUMN 4] خر19: 2و3
+
+[ROW 60]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] الجبل
+  [COLUMN 4] أع7: 7
+
+[ROW 61]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] أهيه
+  [COLUMN 4] خر6: 3
+  [COLUMN 5] يو8: 58
+  [COLUMN 6] رؤ1: 8
+  [COLUMN 7] رؤ4: 8
+
+[ROW 62]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] يهوه
+  [COLUMN 4] خر3: 6
+
+[ROW 63]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] ذكرى
+  [COLUMN 4] مز30: 4
+  [COLUMN 5] مز97: 12
+  [COLUMN 6] مز102: 12
+  [COLUMN 7] مز35: 13
+  [COLUMN 8] مز12: 5
+
+[ROW 64]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] آبائكم
+  [COLUMN 4] خر3: 2
+
+[ROW 65]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] اصعدكم
+  [COLUMN 4] تك15: 13-21
+  [COLUMN 5] تك46: 3
+  [COLUMN 6] تك50: 24و25
+
+[ROW 66]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] الكنعانيين
+  [COLUMN 4] يش24: 11
+
+[ROW 67]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] وعسلاً
+  [COLUMN 4] خر3: 8
+
+[ROW 68]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] لقولك
+  [COLUMN 4] خر4: 31
+
+[ROW 69]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] تدخل
+  [COLUMN 4] خر5: 1
+
+[ROW 70]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] أيام
+  [COLUMN 4] خر5: 3
+  [COLUMN 5] خر8: 27
+
+[ROW 71]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] لايدعكم
+  [COLUMN 4] خر5: 2
+
+[ROW 72]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] قوية 
+  [COLUMN 4] خر6: 1 
+
+[ROW 73]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] فامد
+  [COLUMN 4] خر6: 1
+  [COLUMN 5] خر7: 4و5
+  [COLUMN 6] خر13: 3و9و14
+
+[ROW 74]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] عجائبى
+  [COLUMN 4] خر1: 11
+
+[ROW 75]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] يطلقكم
+  [COLUMN 4] خر11: 1
+  [COLUMN 5] خر12: 31-33
+
+[ROW 76]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] تطلب
+  [COLUMN 4] خر11: 2و3
+  [COLUMN 5] خر12: 35و36
+
+[ROW 77]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] لقولى
+  [COLUMN 4] خر3: 18
+  [COLUMN 5] خر6: 30
+
+[ROW 78]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] يظهر
+  [COLUMN 4] خر3: 15و16
+
+[ROW 79]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] حية
+  [COLUMN 4] خر7: 1-12
+
+[ROW 80]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] برصاء
+  [COLUMN 4] عد12: 10
+  [COLUMN 5] 2مل5: 27
+
+[ROW 81]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] عادت
+  [COLUMN 4] 2مل5: 14
+  [COLUMN 5] مت8: 3
+  [COLUMN 6] لو17: 12-14
+
+[ROW 82]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] دماً
+  [COLUMN 4] خر7: 19
+
+[ROW 83]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] كلام
+  [COLUMN 4] خر4: 1
+  [COLUMN 5] خر3: 11
+  [COLUMN 6] أر1: 6
+
+[ROW 84]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] يصنع
+  [COLUMN 4] مز94: 9
+  [COLUMN 5] مز146: 8
+  [COLUMN 6] مت11: 5
+  [COLUMN 7] لو1: 2و64
+
+[ROW 85]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] فمك
+  [COLUMN 4] خر4: 15و16
+  [COLUMN 5] تث18: 18
+
+[ROW 86]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] أعلمك
+  [COLUMN 4] مت10: 19و20
+  [COLUMN 5] مر13: 11
+  [COLUMN 6] لو12: 11و12
+  [COLUMN 7] لو21: 14و15
+
+[ROW 87]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] لاسقبالك
+  [COLUMN 4] خر4: 21
+
+[ROW 88]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] وتضع
+  [COLUMN 4] خر4: 12و30
+  [COLUMN 5] أش51: 16
+  [COLUMN 6] أش59: 21
+  [COLUMN 7] أر1: 9
+
+[ROW 89]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] يكلم
+  [COLUMN 4] خر7: 1و2
+
+[ROW 90]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] العصا
+  [COLUMN 4] خر4: 2و20
+  [COLUMN 5] خر17: 9
+
+[ROW 91]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] تصنع
+  [COLUMN 4] خر7: 9-20
+  [COLUMN 5] خر14: 16
+
+[ROW 92]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] حمية
+  [COLUMN 4] خر2: 21
+
+[ROW 93]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] وبنيه
+  [COLUMN 4] خر18: 30
+  [COLUMN 5] أع 7: 29
+
+[ROW 94]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] عصا
+  [COLUMN 4] خر4: 17
+  [COLUMN 5] خر17: 9
+
+[ROW 95]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] العجائب
+  [COLUMN 4] خر11: 9و10
+
+[ROW 96]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] اشدد
+  [COLUMN 4] خر7: 3
+  [COLUMN 5] خر9: 12
+  [COLUMN 6] خر10: 1و2و27
+  [COLUMN 7] خر14: 4
+
+[ROW 97]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] ابنى
+  [COLUMN 4] أش63: 16
+  [COLUMN 5] أش64: 8
+  [COLUMN 6] هو11: 1
+
+[ROW 98]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] ليعبدنى
+  [COLUMN 4] خر5: 1
+  [COLUMN 5] خر6: 11
+  [COLUMN 6] خر7: 16
+
+[ROW 99]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] البكر
+  [COLUMN 4] خر12: 29
+
+[ROW 100]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] صوانة
+  [COLUMN 4] يش5: 2و3
+
+[ROW 101]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] لاستقبال
+  [COLUMN 4] خر4: 14
+
+[ROW 102]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] هرون
+  [COLUMN 4] خر4: 15
+
+[ROW 103]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] الشعب
+  [COLUMN 4] خر3: 18
+
+[ROW 104]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] وسجدوا
+  [COLUMN 4] خر12: 27
+
+[ROW 105]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر3: 18
+
+[ROW 106]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] ليعبدوا
+  [COLUMN 4] خر4: 23
+
+[ROW 107]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الرب
+  [COLUMN 4] أي21: 15
+
+[ROW 108]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] أطلقه
+  [COLUMN 4] خر3: 19
+
+[ROW 109]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] التقانا
+  [COLUMN 4] خر3: 18
+
+[ROW 110]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] اثقالكما
+  [COLUMN 4] خر1: 1و2و11
+  [COLUMN 5] خر6: 1و7
+
+[ROW 111]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] كثيرون
+  [COLUMN 4] خر1: 9
+
+[ROW 112]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] مسخرى
+  [COLUMN 4] خر5: 1و13و14
+  [COLUMN 5] خر1: 11
+  [COLUMN 6] خر3: 7
+
+[ROW 113]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] ومدبريه
+  [COLUMN 4] خر5: 10و14و15و19
+
+[ROW 114]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] متكاسلون
+  [COLUMN 4] خر5: 17
+
+[ROW 115]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الشعب
+  [COLUMN 4] خر5: 6
+
+[ROW 116]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] فضرب
+  [COLUMN 4] أش1: 24
+
+[ROW 117]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] مدبرو
+  [COLUMN 4] خر5: 6
+
+[ROW 118]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] متكاسلون
+  [COLUMN 4] خر5: 8
+
+[ROW 119]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] فقالون
+  [COLUMN 4] خر14: 11
+  [COLUMN 5] خر15: 24
+  [COLUMN 6] خر16: 2
+
+[ROW 120]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] ينظر
+  [COLUMN 4] تك16: 5
+  [COLUMN 5] تك31: 53
+
+[ROW 121]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] رائحتنا
+  [COLUMN 4] تك34: 30
+  [COLUMN 5] 1صم27: 12
+
+[ROW 122]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] اسأت 
+  [COLUMN 4] عد11: 11
+  [COLUMN 5] أر4: 10
+
+[ROW 123]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] تخلص
+  [COLUMN 4] خر3: 8
+
+[ROW 124]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] قوية 
+  [COLUMN 4] خر3: 19و20
+  [COLUMN 5] خر7: 4و5
+  [COLUMN 6] خر13: 3 
+
+[ROW 125]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر3: 14و15
+
+[ROW 126]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] يهوه
+  [COLUMN 4] أش52: 6
+  [COLUMN 5] أر16: 21
+  [COLUMN 6] حز37: 6و13
+
+[ROW 127]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] عهدى
+  [COLUMN 4] تك12: 7
+  [COLUMN 5] تك15: 18
+  [COLUMN 6] تك26: 3و4
+  [COLUMN 7] تك28: 4و13
+
+[ROW 128]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] انين
+  [COLUMN 4] خر2: 24
+
+[ROW 129]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر13: 3و14
+  [COLUMN 5] خر20: 2
+  [COLUMN 6] تث6: 12
+
+[ROW 130]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] اخرجكم
+  [COLUMN 4] خر12: 51
+  [COLUMN 5] خر16: 6
+  [COLUMN 6] خر18: 1
+
+[ROW 131]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] ممدوة
+  [COLUMN 4] تث4: 34
+  [COLUMN 5] تث5: 15
+
+[ROW 132]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] فتعلمون
+  [COLUMN 4] خر16: 12
+  [COLUMN 5] أش41: 20
+  [COLUMN 6] أش49: 23و26
+  [COLUMN 7] أش60: 16
+
+[ROW 133]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] رفعت
+  [COLUMN 4] عد14: 30
+  [COLUMN 5] نح9: 15
+  [COLUMN 6] حز20: 5و6
+
+[ROW 134]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] وأعطيكم
+  [COLUMN 4] يش24: 13
+  [COLUMN 5] مز136: 21و22
+
+[ROW 135]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر6: 6
+
+[ROW 136]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] النفس
+  [COLUMN 4] خر2: 23
+
+[ROW 137]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] يطلق 
+  [COLUMN 4] خر4: 22و23
+
+[ROW 138]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] اغلف
+  [COLUMN 4] خر6: 30
+  [COLUMN 5] خر4: 1و10
+
+[ROW 139]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] رأوبين
+  [COLUMN 4] تك46: 9
+  [COLUMN 5] عد26: 5-11
+
+[ROW 140]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] لاوى
+  [COLUMN 4] تك46: 11
+  [COLUMN 5] عد3: 17
+  [COLUMN 6] 1أي6: 1
+
+[ROW 141]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] جرشون
+  [COLUMN 4] عد3: 18-20
+  [COLUMN 5] 1ي6: 17
+
+[ROW 142]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] عمته
+  [COLUMN 4] عد26: 59
+
+[ROW 143]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] يصهار
+  [COLUMN 4] عد16: 1
+
+[ROW 144]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] عزيئيل
+  [COLUMN 4] لا10: 4
+  [COLUMN 5] عد3: 30
+
+[ROW 145]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] عميناداب
+  [COLUMN 4] را 4: 19و20
+  [COLUMN 5] 1أي2: 10
+
+[ROW 146]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] نخشون
+  [COLUMN 4] عد1: 7
+  [COLUMN 5] عد2: 3
+
+[ROW 147]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] ناداب
+  [COLUMN 4] لا10: 1
+  [COLUMN 5] عد3: 2
+
+[ROW 148]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] قورح
+  [COLUMN 4] 1أي6: 22و23و37
+
+[ROW 149]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] والعازار
+  [COLUMN 4] أش24: 33
+
+[ROW 150]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] فينحاس
+  [COLUMN 4] عد25: 7و11
+  [COLUMN 5] مز106: 30
+
+[ROW 151]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] أخرجا
+  [COLUMN 4] خر6: 13
+
+[ROW 152]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] كلما
+  [COLUMN 4] خر5: 1
+
+[ROW 153]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر6: 2و6و8
+
+[ROW 154]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] كلم 
+  [COLUMN 4] خر7: 2
+
+[ROW 155]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] أغلف
+  [COLUMN 4] خر6: 12
+
+[ROW 156]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] إلهاً
+  [COLUMN 4] خر4: 16
+
+[ROW 157]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] اقسى
+  [COLUMN 4] خر4: 21
+
+[ROW 158]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] يسمع
+  [COLUMN 4] خر3: 19و20
+  [COLUMN 5] خر11: 9
+
+[ROW 159]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] اجنادى
+  [COLUMN 4] خر12: 1
+  [COLUMN 5] خر13: 3و9
+
+[ROW 160]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر8: 19
+  [COLUMN 5] خر10: 7
+
+[ROW 161]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] ثمانين
+  [COLUMN 4] تث34: 7
+
+[ROW 162]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] عرافو
+  [COLUMN 4] تك41: 8
+
+[ROW 163]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] بسخرهم
+  [COLUMN 4] خر7: 22
+  [COLUMN 5] خر8: 7
+  [COLUMN 6] 2تى3: 9
+
+[ROW 164]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] يسمع
+  [COLUMN 4] خر7: 4
+
+[ROW 165]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] الماء
+  [COLUMN 4] خر2: 5
+  [COLUMN 5] خر8: 20
+
+[ROW 166]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] تحولت
+  [COLUMN 4] خر7: 10
+  [COLUMN 5] خر4: 3
+
+[ROW 167]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] العبرانيين
+  [COLUMN 4] خر3: 18
+  [COLUMN 5] خر4: 22
+  [COLUMN 6] خر5: 1
+
+[ROW 168]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] ليعبدونى
+  [COLUMN 4] خر4: 23
+
+[ROW 169]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] تعرف
+  [COLUMN 4] خر10: 2
+
+[ROW 170]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] فيتحول
+  [COLUMN 4] خر7: 20
+
+[ROW 171]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] السمك
+  [COLUMN 4] خر7: 21
+
+[ROW 172]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] فيعاف
+  [COLUMN 4] خر7: 21و24
+
+[ROW 173]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] فتحول
+  [COLUMN 4] مز78: 44
+  [COLUMN 5] مز105: 29
+
+[ROW 174]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] عرافو
+  [COLUMN 4] خر7: 11
+  [COLUMN 5] خر8: 7
+
+[ROW 175]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] ليعبدونى
+  [COLUMN 4] خر4: 23
+
+[ROW 176]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] مدبرو
+  [COLUMN 4] خر7: 19
+
+[ROW 177]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الضفادع
+  [COLUMN 4] مز78: 45
+  [COLUMN 5] مز105: 30
+
+[ROW 178]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الضفادع
+  [COLUMN 4] خر7: 11و22
+
+[ROW 179]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] فدعا
+  [COLUMN 4] خر8: 25
+  [COLUMN 5] خر9: 27
+
+[ROW 180]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] صليا
+  [COLUMN 4] خر8: 28
+
+[ROW 181]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] فأطلق
+  [COLUMN 4] خر8: 15و29
+
+[ROW 182]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] مثل
+  [COLUMN 4] خر9: 14
+  [COLUMN 5] تث4: 35و39
+  [COLUMN 6] تث33: 26
+
+[ROW 183]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] عنك
+  [COLUMN 4] خر8: 13
+
+[ROW 184]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] يسمع
+  [COLUMN 4] خر7: 4
+
+[ROW 185]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] بعوضاً
+  [COLUMN 4] مز105: 31
+
+[ROW 186]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] يستطيعوا
+  [COLUMN 4] خر8: 7
+  [COLUMN 5] خر7: 11و12
+  [COLUMN 6] خر9: 11
+
+[ROW 187]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] اصبع
+  [COLUMN 4] خر7: 5و9
+  [COLUMN 5] خر10: 7
+
+[ROW 188]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الصباح
+  [COLUMN 4] خر9: 13
+
+[ROW 189]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الماء
+  [COLUMN 4] خر2: 5
+  [COLUMN 5] خر7: 15
+
+[ROW 190]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] اطلق
+  [COLUMN 4] خر4: 23
+
+[ROW 191]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] أميز
+  [COLUMN 4] خر9: 4و6و26
+  [COLUMN 5] خر10: 23
+  [COLUMN 6] خر11: 7
+
+[ROW 192]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر9: 29
+  [COLUMN 5] خر19: 5
+  [COLUMN 6] خر20: 11
+
+[ROW 193]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] خربت
+  [COLUMN 4] مز78: 45
+  [COLUMN 5] مز105: 31
+
+[ROW 194]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] فدعا
+  [COLUMN 4] خر8: 8
+
+[ROW 195]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] لإلهكم
+  [COLUMN 4] خر9: 28
+  [COLUMN 5] خر10: 8و24
+  [COLUMN 6] خر12: 31
+
+[ROW 196]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] أيام
+  [COLUMN 4] خر3: 18
+  [COLUMN 5] خر5: 3
+
+[ROW 197]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] أطلقكم
+  [COLUMN 4] خر8: 8و15و29و32
+
+[ROW 198]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] صليا
+  [COLUMN 4] خر8: 8
+
+[ROW 199]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] يخاتل
+  [COLUMN 4] خر8: 8و15 
+
+[ROW 200]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 32.0
+  [COLUMN 3] يطلق
+  [COLUMN 4] خر8: 8و15
+
+[ROW 201]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] اطلق
+  [COLUMN 4] خر4: 23
+
+[ROW 202]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] ويميز
+  [COLUMN 4] خر8: 22
+
+[ROW 203]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] فماتت
+  [COLUMN 4] خر9: 19و20و25
+  [COLUMN 5] خر11: 5
+
+[ROW 204]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] مواشى
+  [COLUMN 4] خر9: 4
+
+[ROW 205]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] العرافون
+  [COLUMN 4] خر8: 18
+
+[ROW 206]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر4: 21
+
+[ROW 207]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] بكر
+  [COLUMN 4] خر8: 20
+
+[ROW 208]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] شعبى
+  [COLUMN 4] خر4: 23
+
+[ROW 209]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] مثلى
+  [COLUMN 4] خر8: 10
+
+[ROW 210]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] لكى
+  [COLUMN 4] رو9: 17
+
+[ROW 211]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] امطر
+  [COLUMN 4] خر9: 23و24
+
+[ROW 212]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] مواشيك
+  [COLUMN 4] خر9: 6
+
+[ROW 213]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] والبهائم
+  [COLUMN 4] خر9: 25
+
+[ROW 214]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] خاف
+  [COLUMN 4] أم13: 13
+
+[ROW 215]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] الرب
+  [COLUMN 4] تك19: 24
+
+[ROW 216]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] فضرب
+  [COLUMN 4] خر9: 19
+  [COLUMN 5] مز78: 47و48
+  [COLUMN 6] مز105: 32
+
+[ROW 217]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] جاسان
+  [COLUMN 4] خر8: 22
+
+[ROW 218]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] ودعا
+  [COLUMN 4] خر8: 8
+
+[ROW 219]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] أخطأت
+  [COLUMN 4] خر10: 16و17
+
+[ROW 220]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] صليا
+  [COLUMN 4] خر8: 8
+
+[ROW 221]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] فأطلقكم
+  [COLUMN 4] خر8: 25
+  [COLUMN 5] خر10: 8و24
+
+[ROW 222]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] تخشوا
+  [COLUMN 4] خر8: 22
+  [COLUMN 5] خر19: 5
+  [COLUMN 6] خر2: 11
+  [COLUMN 7] مز24: 1
+
+[ROW 223]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] تخشوا
+  [COLUMN 4] خر8: 29
+
+[ROW 224]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] اغلظت
+  [COLUMN 4] خر4: 21
+
+[ROW 225]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] تخبر
+  [COLUMN 4] خر12: 26و27
+  [COLUMN 5] خر13: 8و14و15
+
+[ROW 226]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] فتعلمون
+  [COLUMN 4] خر7: 5و17
+
+[ROW 227]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] شعبى
+  [COLUMN 4] خر4: 23
+
+[ROW 228]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] عبيد
+  [COLUMN 4] خر7: 5
+  [COLUMN 5] خر8: 19
+  [COLUMN 6] خر12: 33
+
+[ROW 229]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] فرد
+  [COLUMN 4] خر8: 8
+
+[ROW 230]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] اعبدوا
+  [COLUMN 4] خر8: 25
+
+[ROW 231]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] بفتياننا
+  [COLUMN 4] خر12: 37و38
+
+[ROW 232]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] بغنمنا
+  [COLUMN 4] خر10: 26
+
+[ROW 233]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] لهما
+  [COLUMN 4] خر8: 29
+
+[ROW 234]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] فطردوا
+  [COLUMN 4] خر10: 28
+
+[ROW 235]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] ريحاً
+  [COLUMN 4] مز78: 46
+  [COLUMN 5] مز105: 34
+
+[ROW 236]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] الجراد
+  [COLUMN 4] يؤ1: 4و7
+  [COLUMN 5] يؤ2: 1-11
+
+[ROW 237]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] فدعا
+  [COLUMN 4] خر8: 8
+
+[ROW 238]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] أخطأت
+  [COLUMN 4] خر9: 27
+
+[ROW 239]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] وصليا
+  [COLUMN 4] خر8: 8و29
+
+[ROW 240]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] شدد
+  [COLUMN 4] خر4: 21
+
+[ROW 241]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] يلمس
+  [COLUMN 4] تث28: 29
+
+[ROW 242]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] ظلام
+  [COLUMN 4] مز105: 18
+
+[ROW 243]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] اسرائيل
+  [COLUMN 4] خر8: 22
+
+[ROW 244]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] اذهبوا
+  [COLUMN 4] خر8: 8و25
+
+[ROW 245]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] مواشينا
+  [COLUMN 4] خر10: 9
+
+[ROW 246]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] شدد
+  [COLUMN 4] خر10: 20
+
+[ROW 247]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] عنى
+  [COLUMN 4] خر10: 11
+
+[ROW 248]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] أرى
+  [COLUMN 4] عب11: 27
+
+[ROW 249]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] يطلقكم
+  [COLUMN 4] خر12: 31و33و39
+
+[ROW 250]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] يطلب
+  [COLUMN 4] خر3: 22
+  [COLUMN 5] خر12: 35و36
+
+[ROW 251]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] نعمة
+  [COLUMN 4] خر3: 21
+  [COLUMN 5] خر12: 36
+
+[ROW 252]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] عظيماً
+  [COLUMN 4] تث34: 1-12
+
+[ROW 253]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] الليل
+  [COLUMN 4] خر12: 29
+
+[ROW 254]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] فيموت
+  [COLUMN 4] مز78: 51
+  [COLUMN 5] مز105: 36
+  [COLUMN 6] مز145: 8
+  [COLUMN 7] مز136: 10
+
+[ROW 255]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] صراخ
+  [COLUMN 4] خر12: 30
+
+[ROW 256]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] لايسنن
+  [COLUMN 4] خر8: 22
+
+[ROW 257]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] فينزل
+  [COLUMN 4] خر12: 31-33
+
+[ROW 258]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الغضب
+  [COLUMN 4] عب11: 27
+
+[ROW 259]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] يسمع
+  [COLUMN 4] خر7: 4
+
+[ROW 260]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] يفعلان
+  [COLUMN 4] خر4: 21
+
+[ROW 261]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الشهر
+  [COLUMN 4] خر13: 4
+  [COLUMN 5] خر23: 15
+  [COLUMN 6] خر34: 18
+  [COLUMN 7] تث16: 1
+
+[ROW 262]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] صحيحة
+  [COLUMN 4] لا22: 18-20
+
+[ROW 263]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] عشر
+  [COLUMN 4] خر12: 14و17
+  [COLUMN 5] لا23: 5
+  [COLUMN 6] عد9: 1-3و11
+
+[ROW 264]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] العشية
+  [COLUMN 4] تث16: 4و6
+
+[ROW 265]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] الدم
+  [COLUMN 4] خر12: 22
+
+[ROW 266]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] تلك
+  [COLUMN 4] خر34: 25
+  [COLUMN 5] عد9: 12
+
+[ROW 267]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] بالنار
+  [COLUMN 4] تث16: 7
+
+[ROW 268]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] فطير
+  [COLUMN 4] تث16: 3و4
+
+[ROW 269]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] مرة
+  [COLUMN 4] عد9: 11
+
+[ROW 270]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] مشوياً
+  [COLUMN 4] خر12: 8
+
+[ROW 271]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] وجوفه
+  [COLUMN 4] خر29: 13و17و22
+
+[ROW 272]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الصباح
+  [COLUMN 4] خر16: 19
+  [COLUMN 5] خر23: 18
+  [COLUMN 6] خر34: 25
+
+[ROW 273]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] فصح
+  [COLUMN 4] خر12: 13و21و27و43
+
+[ROW 274]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] آلهة
+  [COLUMN 4] عد33: 4
+
+[ROW 275]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] اليوم
+  [COLUMN 4] خر12: 6
+
+[ROW 276]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] تذكاراً
+  [COLUMN 4] خر13: 9
+
+[ROW 277]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] فريضة
+  [COLUMN 4] خر12: 17
+
+[ROW 278]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] سبعة
+  [COLUMN 4] خر23: 15
+  [COLUMN 5] خر34: 18
+  [COLUMN 6] تث16: 3
+
+[ROW 279]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] تقطع
+  [COLUMN 4] خر15: 19
+
+[ROW 280]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] اليوم
+  [COLUMN 4] خر12: 41
+
+[ROW 281]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] فريضة
+  [COLUMN 4] خر12: 14
+
+[ROW 282]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] الأول
+  [COLUMN 4] خر12: 2
+  [COLUMN 5] لا23: 5-8
+  [COLUMN 6] عد28: 16-25
+
+[ROW 283]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] سبعة
+  [COLUMN 4] خر12: 15
+
+[ROW 284]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] اسرائيل
+  [COLUMN 4] عب11: 28
+
+[ROW 285]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الفصح
+  [COLUMN 4] خر12: 11
+
+[ROW 286]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] زوفاً
+  [COLUMN 4] خر12: 7
+
+[ROW 287]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] يجتاز
+  [COLUMN 4] خر12: 12و13
+  [COLUMN 5] خر11: 4
+
+[ROW 288]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] فتحفظون
+  [COLUMN 4] خر13: 5و10
+
+[ROW 289]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] اولادكم
+  [COLUMN 4] خر10: 2
+  [COLUMN 5] خر13: 14و15
+
+[ROW 290]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] فصح
+  [COLUMN 4] خر12: 11
+
+[ROW 291]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] وسجدوا
+  [COLUMN 4] خر4: 31
+
+[ROW 292]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] الليل
+  [COLUMN 4] خر11: 4و5
+
+[ROW 293]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] بكر
+  [COLUMN 4] خر4: 23
+
+[ROW 294]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] بهيمة
+  [COLUMN 4] خر9: 6
+
+[ROW 295]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] صراخ
+  [COLUMN 4] خر11: 6
+
+[ROW 296]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] فدعا
+  [COLUMN 4] خر8: 8
+
+[ROW 297]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] اخرجوا
+  [COLUMN 4] خر8: 25
+
+[ROW 298]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 32.0
+  [COLUMN 3] وبقركم
+  [COLUMN 4] خر10: 9و26
+
+[ROW 299]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 33.0
+  [COLUMN 3] والح
+  [COLUMN 4] خر12: 39
+  [COLUMN 5] خر10: 7
+  [COLUMN 6] خر11: 1
+  [COLUMN 7] ومز105: 38
+
+[ROW 300]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] عجينهم
+  [COLUMN 4] خر12: 39
+
+[ROW 301]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 35.0
+  [COLUMN 3] وفعل
+  [COLUMN 4] خر3: 21و22
+  [COLUMN 5] خر11: 2و3
+  [COLUMN 6] خر105: 37
+
+[ROW 302]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 36.0
+  [COLUMN 3] فسلبوا
+  [COLUMN 4] خر3: 22
+
+[ROW 303]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 37.0
+  [COLUMN 3] رعمسيس
+  [COLUMN 4] عد33: 3و4
+
+[ROW 304]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 37.0
+  [COLUMN 3] ألف
+  [COLUMN 4] خر38: 26
+  [COLUMN 5] عد1: 46
+  [COLUMN 6] عد2: 32
+  [COLUMN 7] عد11: 21
+  [COLUMN 8] عد26: 51
+
+[ROW 305]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] لفيف
+  [COLUMN 4] عد11: 4
+
+[ROW 306]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] جداً
+  [COLUMN 4] خر17: 3
+  [COLUMN 5] عد20: 19
+  [COLUMN 6] عد32: 1
+  [COLUMN 7] تث3: 19
+
+[ROW 307]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] طردوا
+  [COLUMN 4] خر12: 31-35
+  [COLUMN 5] خر11: 1
+
+[ROW 308]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 40.0
+  [COLUMN 3] ثلاثين
+  [COLUMN 4] تك15: 13و16
+  [COLUMN 5] أع7: 6
+  [COLUMN 6] غل3: 17
+
+[ROW 309]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 41.0
+  [COLUMN 3] عينه
+  [COLUMN 4] خر12: 17
+
+[ROW 310]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 41.0
+  [COLUMN 3] اجناد 
+  [COLUMN 4] خر3: 8و10
+  [COLUMN 5] خر6: 6
+
+[ROW 311]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 42.0
+  [COLUMN 3] ليلة
+  [COLUMN 4] خر13: 10
+  [COLUMN 5] خر34: 18
+  [COLUMN 6] تث16: 1
+
+[ROW 312]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 43.0
+  [COLUMN 3] فريضة
+  [COLUMN 4] خر12: 11
+
+[ROW 313]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 43.0
+  [COLUMN 3] غريب
+  [COLUMN 4] خر12: 48
+
+[ROW 314]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 44.0
+  [COLUMN 3] عبد
+  [COLUMN 4] تك17: 13
+  [COLUMN 5] لا22: 11
+
+[ROW 315]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 46.0
+  [COLUMN 3] منه
+  [COLUMN 4] عد9: 12
+  [COLUMN 5] يو19: 36
+
+[ROW 316]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 47.0
+  [COLUMN 3] جماعة
+  [COLUMN 4] عد9: 13و14
+
+[ROW 317]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 49.0
+  [COLUMN 3] واحدة
+  [COLUMN 4] لا24: 22
+  [COLUMN 5] عد15: 15و16و29
+
+[ROW 318]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] قدس
+  [COLUMN 4] خر13: 12و13و15
+  [COLUMN 5] خر22: 29
+  [COLUMN 6] لو2: 23
+
+[ROW 319]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] قوية 
+  [COLUMN 4] خر3: 20
+  [COLUMN 5] خر6: 1
+
+[ROW 320]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] خمير
+  [COLUMN 4] خر12: 19
+
+[ROW 321]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] ابيب
+  [COLUMN 4] خر12: 2
+
+[ROW 322]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] ادخلك
+  [COLUMN 4] خر3: 8و17
+  [COLUMN 5] يش24: 11
+
+[ROW 323]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الخدمة
+  [COLUMN 4] خر12: 25
+
+[ROW 324]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] سبعة
+  [COLUMN 4] خر12: 15-20
+
+[ROW 325]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] وتخبر
+  [COLUMN 4] خر13: 14
+  [COLUMN 5] خر10: 2
+
+[ROW 326]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] علامة
+  [COLUMN 4] خر13: 16
+  [COLUMN 5] خر12: 14
+  [COLUMN 6] تث6: 8
+  [COLUMN 7] تث11: 18
+
+[ROW 327]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] قوية 
+  [COLUMN 4] خر13: 3 
+
+[ROW 328]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الفريضة
+  [COLUMN 4] خر13: 5 
+  [COLUMN 5] خر12: 24و25
+
+[ROW 329]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] ادخلك
+  [COLUMN 4] خر13: 5
+
+[ROW 330]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] تقدم
+  [COLUMN 4] خر13: 1
+
+[ROW 331]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] حمار
+  [COLUMN 4] خر34: 30
+
+[ROW 332]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] سألك
+  [COLUMN 4] خر13: 8
+  [COLUMN 5] خر10: 2
+  [COLUMN 6] خر12: 26و27
+  [COLUMN 7] تث6: 20
+
+[ROW 333]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] قوية 
+  [COLUMN 4] خر13: 9
+
+[ROW 334]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] علامة
+  [COLUMN 4] خر13: 9
+
+[ROW 335]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] يندم
+  [COLUMN 4] خر14: 11و12
+  [COLUMN 5] عد14: 1-4
+
+[ROW 336]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] متجهزين
+  [COLUMN 4] يش1: 14
+  [COLUMN 5] يش4: 12و13
+
+[ROW 337]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] عظام
+  [COLUMN 4] تك50: 24و25
+  [COLUMN 5] يش24: 32
+
+[ROW 338]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] سكوت
+  [COLUMN 4] خر12: 37
+  [COLUMN 5] عد33: 6-8
+
+[ROW 339]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] أمامهم
+  [COLUMN 4] خر14: 19و24
+  [COLUMN 5] خر33: 9و10
+  [COLUMN 6] مز78: 14
+  [COLUMN 7] مز99: 7
+  [COLUMN 8] مز105: 30
+
+[ROW 340]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الحيروث
+  [COLUMN 4] عد33: 7و8
+
+[ROW 341]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] وأشدد
+  [COLUMN 4] خر14: 17
+  [COLUMN 5] خر4: 21
+
+[ROW 342]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] يسعى
+  [COLUMN 4] خر14: 17و23
+
+[ROW 343]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] ويعرف
+  [COLUMN 4] خر14: 25
+
+[ROW 344]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] وشدد
+  [COLUMN 4] خر14: 4
+
+[ROW 345]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] بيد
+  [COLUMN 4] عد33: 3
+  [COLUMN 5] أع13: 17
+
+[ROW 346]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الحيروث
+  [COLUMN 4] خر14: 2
+
+[ROW 347]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] وصرخ
+  [COLUMN 4] نح9: 9
+
+[ROW 348]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] لموسى
+  [COLUMN 4] خر5: 21
+  [COLUMN 5] خر15: 24
+  [COLUMN 6] خر16: 2
+
+[ROW 349]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] لاتخافوا
+  [COLUMN 4] خر20: 20
+  [COLUMN 5] تك15: 1
+  [COLUMN 6] تك46: 3
+
+[ROW 350]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] خلاص
+  [COLUMN 4] خر14: 30
+  [COLUMN 5] خر15: 2 
+
+[ROW 351]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] يقاتل
+  [COLUMN 4] خر15: 3
+  [COLUMN 5] تث1: 30
+  [COLUMN 6] تث3: 22
+
+[ROW 352]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] تصمتون
+  [COLUMN 4] أش30: 15
+
+[ROW 353]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] يدك
+  [COLUMN 4] خر4: 17و20
+  [COLUMN 5] خر17: 5و6
+  [COLUMN 6] عد20: 8و9و11
+  [COLUMN 7] أش10: 26
+
+[ROW 354]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] أشدد
+  [COLUMN 4] خر14: 4
+
+[ROW 355]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] فيعرف
+  [COLUMN 4] خر14: 25
+
+[ROW 356]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] ملاك
+  [COLUMN 4] خر13: 21و22
+
+[ROW 357]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] يده
+  [COLUMN 4] خر14: 16
+  [COLUMN 5] خر7: 19
+
+[ROW 358]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] يابسة
+  [COLUMN 4] مز106: 9
+  [COLUMN 5] مز136: 13و14
+
+[ROW 359]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] وانشق
+  [COLUMN 4] مز78: 13و14
+  [COLUMN 5] أش63: 12و13
+
+[ROW 360]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] وسط
+  [COLUMN 4] يش3: 17
+  [COLUMN 5] يش4: 22
+  [COLUMN 6] نح9: 11
+
+[ROW 361]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] سور
+  [COLUMN 4] خر14: 29
+  [COLUMN 5] خر15: 8
+
+[ROW 362]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] وتبعهم
+  [COLUMN 4] خر14: 4و17
+
+[ROW 363]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] أشرف
+  [COLUMN 4] خر13: 21 
+
+[ROW 364]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] يقاتل
+  [COLUMN 4] خر14: 4و18
+
+[ROW 365]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] يدك
+  [COLUMN 4] خر14: 16
+
+[ROW 366]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] يبق
+  [COLUMN 4] مز78: 53
+  [COLUMN 5] مز106: 11
+
+[ROW 367]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] اليابسة 
+  [COLUMN 4] خر14: 22
+  [COLUMN 5] مز66: 6
+  [COLUMN 6] أش11: 15
+
+[ROW 368]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] فخلص
+  [COLUMN 4] خر14: 13
+  [COLUMN 5] مز106: 8و10و22
+  [COLUMN 6] أش63: 8و11
+
+[ROW 369]
+  [COLUMN 1] 14.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] وآمنوا
+  [COLUMN 4] مز106: 12
+
+[ROW 370]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] رنم
+  [COLUMN 4] مز106: 12
+  [COLUMN 5] رؤ15: 3
+
+[ROW 371]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] ارنم
+  [COLUMN 4] أش12: 5
+  [COLUMN 5] أش42: 1-13
+
+[ROW 372]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] وراكبة
+  [COLUMN 4] أر51: 21
+
+[ROW 373]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] قوتى
+  [COLUMN 4] أش12: 2
+
+[ROW 374]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] إلهى
+  [COLUMN 4] مز48: 14
+
+[ROW 375]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] أبى
+  [COLUMN 4] خر3: 6و15
+
+[ROW 376]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] الخرب
+  [COLUMN 4] خر14: 14
+
+[ROW 377]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] اسمه
+  [COLUMN 4] خر3: 15 
+  [COLUMN 5] خر6: 2و7و8
+
+[ROW 378]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] مركبات 
+  [COLUMN 4] خر14: 6و7و17و28
+
+[ROW 379]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] هبطوا
+  [COLUMN 4] خر15: 10
+  [COLUMN 5] نح9: 11
+
+[ROW 380]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] يمينك
+  [COLUMN 4] خر3: 20
+  [COLUMN 5] خر6: 1
+
+[ROW 381]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] تحطم
+  [COLUMN 4] مز118: 15و16
+
+[ROW 382]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] تهدم
+  [COLUMN 4] خر14: 27
+
+[ROW 383]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] سخطك
+  [COLUMN 4] مز78: 49و50
+
+[ROW 384]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] وبريح
+  [COLUMN 4] خر14: 22و29
+
+[ROW 385]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] انتصبت
+  [COLUMN 4] مز78: 13 
+
+[ROW 386]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] قال
+  [COLUMN 4] خر14: 5
+
+[ROW 387]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] بريحك
+  [COLUMN 4] خر14: 27
+
+[ROW 388]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] كالرصاص
+  [COLUMN 4] خر15: 5
+
+[ROW 389]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] مثلك
+  [COLUMN 4] خر8: 10
+  [COLUMN 5] خر9: 14
+  [COLUMN 6] تث3: 24
+  [COLUMN 7] مز71: 19
+  [COLUMN 8] مي7: 18
+
+[ROW 390]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] معتزاً
+  [COLUMN 4] أش6: 3
+  [COLUMN 5] رؤ4: 8
+
+[ROW 391]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] مخوفاً
+  [COLUMN 4] مز22: 23
+
+[ROW 392]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] عجائب
+  [COLUMN 4] مز72: 18
+  [COLUMN 5] مز136: 4
+
+[ROW 393]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] يمينك
+  [COLUMN 4] خر15: 6
+
+[ROW 394]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] ترشد
+  [COLUMN 4] خر15: 16
+  [COLUMN 5] نح9: 12
+  [COLUMN 6] مز77: 15و20
+
+[ROW 395]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] تهديه
+  [COLUMN 4] خر15: 17
+  [COLUMN 5] مز78: 54
+
+[ROW 396]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] يسمع
+  [COLUMN 4] تث2: 25
+  [COLUMN 5] حب3: 7
+
+[ROW 397]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] يندهش
+  [COLUMN 4] تك36: 15
+
+[ROW 398]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] الرجفة
+  [COLUMN 4] عد22: 3و4
+  [COLUMN 5] مز114: 4و6و7
+
+[ROW 399]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] يذوب
+  [COLUMN 4] يش2: 9و11و24
+
+[ROW 400]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] والرعب
+  [COLUMN 4] خر23: 27
+
+[ROW 401]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] ذراعك
+  [COLUMN 4] خر15: 5و6
+
+[ROW 402]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] اقتنيته
+  [COLUMN 4] خر15: 11
+
+[ROW 403]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] تجئ
+  [COLUMN 4] خر23: 2
+  [COLUMN 5] خر32: 34
+
+[ROW 404]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] وتغرسهم
+  [COLUMN 4] مز44: 2 
+  [COLUMN 5] مز80: 8و15
+
+[ROW 405]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] جبل
+  [COLUMN 4] مز2: 6
+  [COLUMN 5] مز78: 54و68
+
+[ROW 406]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] المكان
+  [COLUMN 4] مز68: 16
+  [COLUMN 5] مز76: 2
+  [COLUMN 6] مز132: 14
+
+[ROW 407]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] المقدس
+  [COLUMN 4] مز78: 69
+
+[ROW 408]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] يملك
+  [COLUMN 4] مز10: 16
+  [COLUMN 5] مز29: 10
+
+[ROW 409]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] خيل
+  [COLUMN 4] خر14: 23و28
+
+[ROW 410]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] اليابسة 
+  [COLUMN 4] خر14: 22و29
+
+[ROW 411]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الدف
+  [COLUMN 4] مز81: 2
+  [COLUMN 5] مز149: 3
+
+[ROW 412]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] ورقص
+  [COLUMN 4] مز30: 11
+  [COLUMN 5] مز150: 4
+
+[ROW 413]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] رنموا
+  [COLUMN 4] خر15: 1
+
+[ROW 414]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] ارتحل
+  [COLUMN 4] مز77: 20
+  [COLUMN 5] مز78" 52و53
+
+[ROW 415]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] برية
+  [COLUMN 4] عد33: 8
+
+[ROW 416]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] شور
+  [COLUMN 4] تك16: 7
+  [COLUMN 5] تك20: 1
+
+[ROW 417]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] مارة
+  [COLUMN 4] عد33: 8
+
+[ROW 418]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] فتذمر
+  [COLUMN 4] خر14: 11
+  [COLUMN 5] مز106: 13
+
+[ROW 419]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] شجرة
+  [COLUMN 4] حز47: 7و8
+
+[ROW 420]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] امتحنه
+  [COLUMN 4] خر16: 4
+
+[ROW 421]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] تسمع
+  [COLUMN 4] خر19: 5و6
+
+[ROW 422]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] وصاياه
+  [COLUMN 4] خر20: 2-17
+
+[ROW 423]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] ما 
+  [COLUMN 4] تث7: 15
+  [COLUMN 5] تث28: 6
+
+[ROW 424]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] شافيك
+  [COLUMN 4] تث32: 39
+  [COLUMN 5] مز30: 2
+  [COLUMN 6] مز103: 3
+
+[ROW 425]
+  [COLUMN 1] 15.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] إيليم
+  [COLUMN 4] عد33: 9و10
+
+[ROW 426]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] سين
+  [COLUMN 4] عد33: 11و12
+
+[ROW 427]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] عشر
+  [COLUMN 4] خر12: 6و51
+  [COLUMN 5] خر19: 1
+
+[ROW 428]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] فتذمر
+  [COLUMN 4] خر14: 11
+
+[ROW 429]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] متنا
+  [COLUMN 4] خر17: 3
+  [COLUMN 5] عد14: 2و3
+  [COLUMN 6] عد2: 3 
+
+[ROW 430]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] جالسين
+  [COLUMN 4] عد11: 4و5
+
+[ROW 431]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] السماء
+  [COLUMN 4] يو6: 31
+  [COLUMN 5] نح9: 15
+  [COLUMN 6] مز78: 23-25
+  [COLUMN 7] مز105: 4
+  [COLUMN 8] 1كو10: 3
+
+[ROW 432]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] أمتحنهم
+  [COLUMN 4] خر15: 25
+
+[ROW 433]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] السادس
+  [COLUMN 4] خر16: 22
+
+[ROW 434]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] مجد
+  [COLUMN 4] خر16: 12
+
+[ROW 435]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] لاستماعه
+  [COLUMN 4] عد14: 27
+  [COLUMN 5] عد17: 5
+
+[ROW 436]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] فماذا
+  [COLUMN 4] عد16: 11
+
+[ROW 437]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] أمام 
+  [COLUMN 4] عد16: 16
+
+[ROW 438]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر16: 7
+
+[ROW 439]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] السلوى
+  [COLUMN 4] عد11: 31
+  [COLUMN 5] مز78: 25
+  [COLUMN 6] مز105: 40
+
+[ROW 440]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] الندى
+  [COLUMN 4] عد11: 7-9
+
+[ROW 441]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] شئ
+  [COLUMN 4] خر16: 31
+
+[ROW 442]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] الخبز
+  [COLUMN 4] خر16: 4
+
+[ROW 443]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] ينقض
+  [COLUMN 4] 2كو8: 15
+
+[ROW 444]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] يبق
+  [COLUMN 4] خر16: 23
+  [COLUMN 5] خر12: 10
+  [COLUMN 6] خر23: 18
+
+[ROW 445]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] مضاعفاً
+  [COLUMN 4] خر16: 7
+
+[ROW 446]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] الجماعة
+  [COLUMN 4] خر34: 31
+
+[ROW 447]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] سبت
+  [COLUMN 4] خر20: 8
+  [COLUMN 5] خر23: 12
+  [COLUMN 6] نح9: 14
+
+[ROW 448]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] فضل
+  [COLUMN 4] خر16: 19
+
+[ROW 449]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] ينتن
+  [COLUMN 4] خر16: 20
+
+[ROW 450]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] تأبون
+  [COLUMN 4] مز78: 10
+
+[ROW 451]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] مناً
+  [COLUMN 4] عد11: 6-9
+  [COLUMN 5] تث8: 3و16
+
+[ROW 452]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] الكزبرة
+  [COLUMN 4] خر16: 14
+
+[ROW 453]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 33.0
+  [COLUMN 3] قسطاً
+  [COLUMN 4] عب9: 4
+  [COLUMN 5] رؤ2: 17
+
+[ROW 454]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] الشهادة
+  [COLUMN 4] خر25: 16
+  [COLUMN 5] خر27: 21
+
+[ROW 455]
+  [COLUMN 1] 16.0
+  [COLUMN 2] 35.0
+  [COLUMN 3] أربعين
+  [COLUMN 4] يش5: 12
+  [COLUMN 5] نح9: 20و21
+
+[ROW 456]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] سين
+  [COLUMN 4] خر16: 1
+
+[ROW 457]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] رفيديم
+  [COLUMN 4] خر19: 2
+  [COLUMN 5] عد33: 14و15
+
+[ROW 458]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] فخاصم
+  [COLUMN 4] خر14: 11
+  [COLUMN 5] عد20: 2و3و13
+
+[ROW 459]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] تخاصموننى
+  [COLUMN 4] خر16: 8
+
+[ROW 460]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] اصعدتنا
+  [COLUMN 4] خر16: 2
+
+[ROW 461]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] ومواشينا
+  [COLUMN 4] خر12: 38
+
+[ROW 462]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] يرجموننى
+  [COLUMN 4] عد14: 10
+  [COLUMN 5] 1صم30: 6
+
+[ROW 463]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] شيوخ
+  [COLUMN 4] خر3: 16و18
+
+[ROW 464]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] النهر
+  [COLUMN 4] خر7: 20
+
+[ROW 465]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] حوريب
+  [COLUMN 4] خر3: 1
+
+[ROW 466]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] فتضرب
+  [COLUMN 4] تث8: 15
+  [COLUMN 5] نح9: 15
+  [COLUMN 6] مز78: 15
+  [COLUMN 7] مز105: 41
+  [COLUMN 8] 1كو10: 4
+
+[ROW 467]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] مسة
+  [COLUMN 4] تث6: 16
+  [COLUMN 5] تث9: 22
+  [COLUMN 6] مز95: 8
+
+[ROW 468]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] مربية
+  [COLUMN 4] عد20: 13و24
+  [COLUMN 5] عد27: 14
+  [COLUMN 6] مز81: 7
+
+[ROW 469]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] تجربتهم
+  [COLUMN 4] عد14: 22
+  [COLUMN 5] تث33: 8
+
+[ROW 470]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] عماليق
+  [COLUMN 4] عد24: 20
+  [COLUMN 5] تث25: 17-19
+
+[ROW 471]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] رفيديم
+  [COLUMN 4] خر17: 1
+
+[ROW 472]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] ليشوع
+  [COLUMN 4] خر24: 13
+
+[ROW 473]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] وعصا
+  [COLUMN 4] خر4: 20
+
+[ROW 474]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] وحور
+  [COLUMN 4] خر24: 14
+  [COLUMN 5] خر31: 2
+
+[ROW 475]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] ودعم
+  [COLUMN 4] أش35: 3
+
+[ROW 476]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] اكتب
+  [COLUMN 4] خر24: 4
+  [COLUMN 5] خر34: 27
+  [COLUMN 6] عد33: 2
+
+[ROW 477]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] امحو
+  [COLUMN 4] تث25: 19
+
+[ROW 478]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] مذبحاً
+  [COLUMN 4] خر24: 4
+
+[ROW 479]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] نسى
+  [COLUMN 4] تك22: 14
+
+[ROW 480]
+  [COLUMN 1] 17.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] الرب
+  [COLUMN 4] تك22: 16
+
+[ROW 481]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] يثرون
+  [COLUMN 4] خر2: 18
+  [COLUMN 5] خر3: 1
+
+[ROW 482]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] صفورة
+  [COLUMN 4] خر2: 21
+  [COLUMN 5] خر4: 25
+
+[ROW 483]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] وابنيها
+  [COLUMN 4] خر2: 22
+  [COLUMN 5] خر4: 20
+  [COLUMN 6] أع7: 29
+
+[ROW 484]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] نزيلاً
+  [COLUMN 4] خر2: 22
+
+[ROW 485]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] عونى
+  [COLUMN 4] تك49: 25
+
+[ROW 486]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] جبل
+  [COLUMN 4] خر3: 1و12
+  [COLUMN 5] خر4: 27
+  [COLUMN 6] خر24: 13
+
+[ROW 487]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] وسجدوا
+  [COLUMN 4] تك43: 26و28
+
+[ROW 488]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] وقبله
+  [COLUMN 4] خر4: 27
+
+[ROW 489]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] سلامته
+  [COLUMN 4] تك43: 27
+
+[ROW 490]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] أجل
+  [COLUMN 4] خر4: 23
+  [COLUMN 5] خر7: 4و5
+
+[ROW 491]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] المشقة
+  [COLUMN 4] عد20: 14
+  [COLUMN 5] نح9: 32
+
+[ROW 492]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] فخلصهم
+  [COLUMN 4] خر15: 6و16
+
+[ROW 493]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الخير
+  [COLUMN 4] أش63: 7-14
+
+[ROW 494]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] مبارك
+  [COLUMN 4] 1مل8: 56
+  [COLUMN 5] مز68: 19و20
+
+[ROW 495]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] اعظم
+  [COLUMN 4] خر12: 12
+  [COLUMN 5] خر15: 11 
+
+[ROW 496]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] مخرقة
+  [COLUMN 4] خر24: 5
+  [COLUMN 5] تك31: 54
+
+[ROW 497]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] ليسأل
+  [COLUMN 4] تك25: 22
+  [COLUMN 5] عد9: 8
+  [COLUMN 6] عد27: 5
+  [COLUMN 7] تث17: 8-13
+
+[ROW 498]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] تكل
+  [COLUMN 4] تث1: 12
+
+[ROW 499]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] وعلمهم
+  [COLUMN 4] تث1: 18
+
+[ROW 500]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] قدرة
+  [COLUMN 4] خر18: 25
+  [COLUMN 5] تث1: 13و15
+  [COLUMN 6] مز15: 1-5
+
+[ROW 501]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] الكبيرة
+  [COLUMN 4] تث1: 17و18
+
+[ROW 502]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] قدرة
+  [COLUMN 4] خر18: 21
+
+[ROW 503]
+  [COLUMN 1] 18.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] العسرة 
+  [COLUMN 4] خر18: 22
+
+[ROW 504]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الثالث
+  [COLUMN 4] خر12: 6ة51
+  [COLUMN 5] خر16: 1
+
+[ROW 505]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] سيناء
+  [COLUMN 4] تث1: 6
+  [COLUMN 5] تث4: 10و15
+  [COLUMN 6] تث5: 2
+
+[ROW 506]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] رفيديم
+  [COLUMN 4] خر17: 1
+
+[ROW 507]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الجبل
+  [COLUMN 4] خر18: 5
+
+[ROW 508]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] النسور
+  [COLUMN 4] تث32: 11
+
+[ROW 509]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] لصوتى
+  [COLUMN 4] خر15: 26
+
+[ROW 510]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] عهدى
+  [COLUMN 4] مز78: 10
+
+[ROW 511]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] خاصة
+  [COLUMN 4] تث7: 6
+  [COLUMN 5] تث14: 2
+
+[ROW 512]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] خر9: 29
+
+[ROW 513]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] كهنة
+  [COLUMN 4] 1بط2: 5و9
+  [COLUMN 5] رؤ1: 6
+  [COLUMN 6] رؤ5: 10
+
+[ROW 514]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] مقدسة
+  [COLUMN 4] تث14: 21
+  [COLUMN 5] تث26: 19
+
+[ROW 515]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] الشعب
+  [COLUMN 4] خر4: 29و30
+
+[ROW 516]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] معاً
+  [COLUMN 4] خر4: 31
+  [COLUMN 5] خر24: 3و7
+  [COLUMN 6] تث5: 27
+
+[ROW 517]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] السحاب
+  [COLUMN 4] خر19: 16
+  [COLUMN 5] خر24: 15و16
+  [COLUMN 6] مز99: 7
+
+[ROW 518]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] وليغسلوا
+  [COLUMN 4] تك35: 2
+  [COLUMN 5] عد8: 7
+  [COLUMN 6] عد19: 19
+  [COLUMN 7] رؤ22: 14
+
+[ROW 519]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] ينزل
+  [COLUMN 4] خر19: 16
+
+[ROW 520]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] رجماً
+  [COLUMN 4] عب12: 20
+
+[ROW 521]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] الجبل
+  [COLUMN 4] خر19: 17
+
+[ROW 522]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] الثالث
+  [COLUMN 4] عب12: 18و19
+
+[ROW 523]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] يدخن
+  [COLUMN 4] مز104: 32
+  [COLUMN 5] مز144: 5
+
+[ROW 524]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] بالنار
+  [COLUMN 4] تث5: 4
+  [COLUMN 5] عب12: 18
+
+[ROW 525]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] الأتون
+  [COLUMN 4] تك19: 28
+
+[ROW 526]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] وارتجف
+  [COLUMN 4] مز68: 7و8
+
+[ROW 527]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الرب
+  [COLUMN 4] نح9: 13
+
+[ROW 528]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] يقتحموا
+  [COLUMN 4] خر3: 5
+  [COLUMN 5] 1صم6: 19
+
+[ROW 529]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] الكهنة
+  [COLUMN 4] خر19: 24
+  [COLUMN 5] خر24: 5
+  [COLUMN 6] لا10: 3
+  [COLUMN 7] لا21: 6-8
+
+[ROW 530]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] حدوداً
+  [COLUMN 4] خر19: 12
+
+[ROW 531]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] انتصبت
+  [COLUMN 4] خر24: 1
+
+[ROW 532]
+  [COLUMN 1] 19.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] الكهنة
+  [COLUMN 4] خر19: 22
+
+[ROW 533]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] اخرجك
+  [COLUMN 4] خر15: 13و16
+  [COLUMN 5] تث5: 6
+  [COLUMN 6] تث7: 8
+
+[ROW 534]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] آلهة
+  [COLUMN 4] خر20: 23
+  [COLUMN 5] خر15: 11 
+
+[ROW 535]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] تمثالاً
+  [COLUMN 4] لا26: 1
+  [COLUMN 5] تث4: 15-19
+  [COLUMN 6] تث27: 15
+
+[ROW 536]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] ولاتعبدهن
+  [COLUMN 4] خر23: 24
+
+[ROW 537]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] غيور
+  [COLUMN 4] خر34: 14
+  [COLUMN 5] تث4: 24
+
+[ROW 538]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] افتقد
+  [COLUMN 4] خر34: 6و7
+  [COLUMN 5] تث5: 9و10
+
+[ROW 539]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] ألوف
+  [COLUMN 4] تث7: 9
+
+[ROW 540]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] لاتنطق
+  [COLUMN 4] لا19: 12
+  [COLUMN 5] تث6: 13
+  [COLUMN 6] تث10: 20
+
+[ROW 541]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] السبت
+  [COLUMN 4] خر23: 12
+  [COLUMN 5] خر31: 15
+
+[ROW 542]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] عملك
+  [COLUMN 4] خر34: 21
+  [COLUMN 5] خر35: 2و3
+
+[ROW 543]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] أيام
+  [COLUMN 4] خر31: 17
+  [COLUMN 5] تك2: 2و3
+
+[ROW 544]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] أكرم
+  [COLUMN 4] لا19: 3
+  [COLUMN 5] مت15: 4
+  [COLUMN 6] مت19: 19
+  [COLUMN 7] أف6: 2
+
+[ROW 545]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] تطول
+  [COLUMN 4] تث5: 16و33
+  [COLUMN 5] تث6: 2
+  [COLUMN 6] تث11: 9
+
+[ROW 546]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] لاتقتل
+  [COLUMN 4] خر21: 12
+  [COLUMN 5] مت19: 18
+
+[ROW 547]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] لاتزن
+  [COLUMN 4] لا20: 10
+  [COLUMN 5] مت19: 18
+
+[ROW 548]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] لاتسرق
+  [COLUMN 4] خر21: 16
+  [COLUMN 5] لا19: 11و13
+  [COLUMN 6] مت19: 18
+
+[ROW 549]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] لاتشهد
+  [COLUMN 4] خر23: 1و7
+  [COLUMN 5] مت19: 18
+
+[ROW 550]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] قريبك
+  [COLUMN 4] لا19: 18
+
+[ROW 551]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] لاتشته
+  [COLUMN 4] رو7: 7
+  [COLUMN 5] رو13: 9
+
+[ROW 552]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] يرون
+  [COLUMN 4] خر19: 16و18
+
+[ROW 553]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] أنت
+  [COLUMN 4] تث5: 5
+  [COLUMN 5] تث5: 23-27
+  [COLUMN 6] عب12: 19
+
+[ROW 554]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] لاتخافوا
+  [COLUMN 4] خر14: 13
+
+[ROW 555]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] يمتحنكم
+  [COLUMN 4] خر15: 25
+
+[ROW 556]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] مخافته
+  [COLUMN 4] تث4: 10
+  [COLUMN 5] تث6: 24
+
+[ROW 557]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الضباب
+  [COLUMN 4] خر19: 16
+  [COLUMN 5] تث5: 22
+
+[ROW 558]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] السماء
+  [COLUMN 4] تث4: 36
+  [COLUMN 5] تث5: 24و26
+  [COLUMN 6] نح9: 13
+
+[ROW 559]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] معى
+  [COLUMN 4] خر20: 3
+
+[ROW 560]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] فضة
+  [COLUMN 4] تث29: 17
+
+[ROW 561]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] تراب
+  [COLUMN 4] خر27: 1-8
+
+[ROW 562]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] محرقاتك
+  [COLUMN 4] خر10: 25
+  [COLUMN 5] خر18: 12
+
+[ROW 563]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] سلامتك
+  [COLUMN 4] خر24: 5
+
+[ROW 564]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] لاسمى
+  [COLUMN 4] تث12: 5
+  [COLUMN 5] تث26: 2
+
+[ROW 565]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] منحوتة
+  [COLUMN 4] تث27: 5و6
+
+[ROW 566]
+  [COLUMN 1] 20.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] تنكشف
+  [COLUMN 4] خر28: 42و43
+
+[ROW 567]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] عبرانياً
+  [COLUMN 4] لا25: 39-43
+  [COLUMN 5] تث15: 12-18
+
+[ROW 568]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الله
+  [COLUMN 4] خر22: 8و9و28
+
+[ROW 569]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] ابنته
+  [COLUMN 4] نح5: 5
+
+[ROW 570]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] العبيد
+  [COLUMN 4] خر21: 2و3
+
+[ROW 571]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] ومعاشرتها
+  [COLUMN 4] 1كو7: 3و5
+
+[ROW 572]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] فمات
+  [COLUMN 4] تك9: 6
+  [COLUMN 5] لا24: 17
+
+[ROW 573]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] يتعمد
+  [COLUMN 4] عد35: 10-34
+  [COLUMN 5] تث19: 1-13
+  [COLUMN 6] يش20: 1-9
+
+[ROW 574]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] بغى
+  [COLUMN 4] 1مل2: 28-34
+
+[ROW 575]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] سرق
+  [COLUMN 4] تث24: 7
+
+[ROW 576]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] شتم
+  [COLUMN 4] لا20: 9
+  [COLUMN 5] تث27: 16
+  [COLUMN 6] مت15: 4
+  [COLUMN 7] مر7: 10
+
+[ROW 577]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] ماله
+  [COLUMN 4] لا25: 44-46
+
+[ROW 578]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] نفساً
+  [COLUMN 4] لا24: 19
+  [COLUMN 5] تث19: 21
+
+[ROW 579]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] وعيناً
+  [COLUMN 4] مت5: 38
+
+[ROW 580]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] الثور
+  [COLUMN 4] تك9: 5
+
+[ROW 581]
+  [COLUMN 1] 21.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] ثلاثين
+  [COLUMN 4] زك11: 12
+  [COLUMN 5] مت26: 15
+
+[ROW 582]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] بأربعة
+  [COLUMN 4] 2صم12: 6
+  [COLUMN 5] لو19: 8
+
+[ROW 583]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] صاحبه
+  [COLUMN 4] لا6: 1-7
+
+[ROW 584]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الله
+  [COLUMN 4] خر22: 9و28
+  [COLUMN 5] خر21: 6
+  [COLUMN 6] تث17: 8و9
+  [COLUMN 7] تث19: 17
+
+[ROW 585]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الله
+  [COLUMN 4] خر22: 8و28
+
+[ROW 586]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] عذراء
+  [COLUMN 4] تث22: 28و29
+
+[ROW 587]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] ساحرة
+  [COLUMN 4] لا20: 27
+  [COLUMN 5] تث18: 10
+  [COLUMN 6] أر27: 9و10
+
+[ROW 588]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] بهيمة
+  [COLUMN 4] لا18: 23
+  [COLUMN 5] لا20: 15و16
+  [COLUMN 6] تث27: 21
+
+[ROW 589]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] لآلهة
+  [COLUMN 4] خر32: 8
+  [COLUMN 5] خر34: 15
+  [COLUMN 6] لا17: 7
+
+[ROW 590]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] يهلك
+  [COLUMN 4] لا27: 29
+
+[ROW 591]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الغريب
+  [COLUMN 4] لا19: 33و34
+  [COLUMN 5] تث1: 16
+  [COLUMN 6] تث27: 19
+
+[ROW 592]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] أرملة
+  [COLUMN 4] تث24: 17و18
+
+[ROW 593]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] أسأت
+  [COLUMN 4] أم23: 10و11
+  [COLUMN 5] أر7: 6
+  [COLUMN 6] أر22: 3
+
+[ROW 594]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] صرخ
+  [COLUMN 4] تث15: 9
+
+[ROW 595]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] غضبى
+  [COLUMN 4] تث10: 18
+  [COLUMN 5] مز10: 14و18
+  [COLUMN 6] تث68: 5
+
+[ROW 596]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] نساؤكم
+  [COLUMN 4] مز109: 9
+
+[ROW 597]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] اقرضت
+  [COLUMN 4] لا25: 35-37
+
+[ROW 598]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] رباً
+  [COLUMN 4] تث23: 19و20
+
+[ROW 599]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] صرخ
+  [COLUMN 4] خر22: 23
+
+[ROW 600]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] لاتسب
+  [COLUMN 4] لا24: 15و16
+
+[ROW 601]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] ولاتلعن
+  [COLUMN 4] أع23: 5
+
+[ROW 602]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] لاتؤخر
+  [COLUMN 4] خر23: 16و19
+  [COLUMN 5] تث26: 2-11
+
+[ROW 603]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] وأبكار
+  [COLUMN 4] خر13: 2
+
+[ROW 604]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] الثامن
+  [COLUMN 4] تك17: 12
+  [COLUMN 5] لا12: 3
+
+[ROW 605]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] مقدسين
+  [COLUMN 4] خر19: 6
+  [COLUMN 5] لا11: 44
+
+[ROW 606]
+  [COLUMN 1] 22.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] لاتأكلوا
+  [COLUMN 4] لا1: 24
+  [COLUMN 5] لا17: 15
+
+[ROW 607]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] كاذباً
+  [COLUMN 4] خر10: 16
+
+[ROW 608]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] ظلم
+  [COLUMN 4] تث19: 16-21
+  [COLUMN 5] مز15: 11
+
+[ROW 609]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] للتحريف
+  [COLUMN 4] تث16: 19
+  [COLUMN 5] تث24: 17
+
+[ROW 610]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] ولاتحاب
+  [COLUMN 4] خر23: 6
+  [COLUMN 5] لا19: 15
+  [COLUMN 6] نتث1: 17
+  [COLUMN 7] تث16: 19
+
+[ROW 611]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] عدوك
+  [COLUMN 4] تث22: 1-4
+
+[ROW 612]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] لاتحرف
+  [COLUMN 4] خر23: 2و3
+
+[ROW 613]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] الكذب
+  [COLUMN 4] خر20: 16
+  [COLUMN 5] مز119: 29
+
+[ROW 614]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] ولاتقتل
+  [COLUMN 4] خر20: 13
+  [COLUMN 5] تث27: 25
+
+[ROW 615]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] لاأبرر
+  [COLUMN 4] خر24: 7
+  [COLUMN 5] تث25: 1 
+
+[ROW 616]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] رشوة
+  [COLUMN 4] تث10: 17
+  [COLUMN 5] تث16: 19
+  [COLUMN 6] أم17: 22
+  [COLUMN 7] أش5: 23
+
+[ROW 617]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الغريب
+  [COLUMN 4] خر22: 21
+
+[ROW 618]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] وست
+  [COLUMN 4] لا25: 1-7
+
+[ROW 619]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] ستة
+  [COLUMN 4] خر20: 8-11
+  [COLUMN 5] خر31: 15
+  [COLUMN 6] خر35: 2و3
+
+[ROW 620]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] احتفظوا
+  [COLUMN 4] تث4: 9و23
+
+[ROW 621]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] ولاتذكروا
+  [COLUMN 4] يش22: 7
+  [COLUMN 5] مز16: 4
+
+[ROW 622]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] ثلاث 
+  [COLUMN 4] خر34: 22-24
+  [COLUMN 5] تث16: 16
+
+[ROW 623]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] شهر
+  [COLUMN 4] خر11: 2
+
+[ROW 624]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] فارغين
+  [COLUMN 4] خر22: 29
+  [COLUMN 5] خر34: 20
+
+[ROW 625]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] الحصاد
+  [COLUMN 4] خر24: 33
+
+[ROW 626]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] مرات
+  [COLUMN 4] خر23: 14
+
+[ROW 627]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] خمير
+  [COLUMN 4] خر24: 25
+  [COLUMN 5] لا2: 11
+
+[ROW 628]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] شحم
+  [COLUMN 4] خر12: 10
+  [COLUMN 5] لا7: 15
+
+[ROW 629]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] أرضك
+  [COLUMN 4] خر22: 29
+  [COLUMN 5] خر34: 26
+
+[ROW 630]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] أمه
+  [COLUMN 4] تث14: 21
+
+[ROW 631]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] ملاكاً
+  [COLUMN 4] خر23: 23
+  [COLUMN 5] خر3: 2
+  [COLUMN 6] خر14: 19
+  [COLUMN 7] خر32: 34
+  [COLUMN 8] خر33: 2
+
+[ROW 632]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] وليجئ
+  [COLUMN 4] خر15: 16و17
+
+[ROW 633]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] ولاتتمرد
+  [COLUMN 4] تث9: 7
+
+[ROW 634]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] اسمى
+  [COLUMN 4] خر23: 2و14
+  [COLUMN 5] خر6: 3
+  [COLUMN 6] خر34: 5-7
+
+[ROW 635]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] أعادى
+  [COLUMN 4] تك12: 2
+  [COLUMN 5] عد24: 9
+  [COLUMN 6] تث30: 7
+
+[ROW 636]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] ملاكى
+  [COLUMN 4] يش24: 11
+
+[ROW 637]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] لاتسجد
+  [COLUMN 4] خر23: 13و33
+  [COLUMN 5] خر20: 5
+
+[ROW 638]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] تبيدهم
+  [COLUMN 4] عد23: 52
+  [COLUMN 5] تث7: 5
+  [COLUMN 6] تث12: 3
+  [COLUMN 7] 2مل18: 4
+
+[ROW 639]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] انصابهم
+  [COLUMN 4] خر24: 12
+  [COLUMN 5] لا26: 1
+  [COLUMN 6] 2مل3: 2
+
+[ROW 640]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] وتعبدون
+  [COLUMN 4] لا26: 3-13
+  [COLUMN 5] تث28: 1-14
+
+[ROW 641]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] وأزيل 
+  [COLUMN 4] خر15: 26
+  [COLUMN 5] تث7: 15
+
+[ROW 642]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] عاقر
+  [COLUMN 4] تث7: 14
+
+[ROW 643]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] وأكمل
+  [COLUMN 4] تث4: 4
+  [COLUMN 5] أي5: 26
+
+[ROW 644]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] هيبتى
+  [COLUMN 4] خر15: 16
+
+[ROW 645]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] وأزعج
+  [COLUMN 4] تث7: 23
+
+[ROW 646]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] الزنابير
+  [COLUMN 4] تث7: 20
+  [COLUMN 5] يش24: 12
+
+[ROW 647]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] فتطرد
+  [COLUMN 4] خر33: 2
+  [COLUMN 5] خر34: 11
+
+[ROW 648]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] قليلاً
+  [COLUMN 4] تث7: 22
+
+[ROW 649]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] تخومك
+  [COLUMN 4] تك15: 19
+  [COLUMN 5] تث1: 7و8
+
+[ROW 650]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] ادفع
+  [COLUMN 4] تث2: 39
+  [COLUMN 5] يش21: 44
+
+[ROW 651]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] فتطردهم
+  [COLUMN 4] يش24: 12و18
+
+[ROW 652]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 32.0
+  [COLUMN 3] تقطع
+  [COLUMN 4] خر34: 12
+  [COLUMN 5] تث7: 2
+
+[ROW 653]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 32.0
+  [COLUMN 3] آلهتهم
+  [COLUMN 4] خر23: 13و24
+
+[ROW 654]
+  [COLUMN 1] 23.0
+  [COLUMN 2] 33.0
+  [COLUMN 3] لايسكنوا
+  [COLUMN 4] تث7: 1-5و16
+
+[ROW 655]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] اصعد 
+  [COLUMN 4] خر19: 24
+
+[ROW 656]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] وناداب
+  [COLUMN 4] خر6: 23
+  [COLUMN 5] لا10: 1و2
+
+[ROW 657]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] تفعل
+  [COLUMN 4] خر24: 7
+  [COLUMN 5] خر19: 8
+
+[ROW 658]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] فكتب
+  [COLUMN 4] خر17: 14
+  [COLUMN 5] خر34: 27
+
+[ROW 659]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] مذبحاً
+  [COLUMN 4] خر17: 15
+
+[ROW 660]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] محرقات 
+  [COLUMN 4] خر18: 12
+
+[ROW 661]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الدم
+  [COLUMN 4] مز99: 6
+
+[ROW 662]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] كتاب
+  [COLUMN 4] خر24: 4
+
+[ROW 663]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] نفعل
+  [COLUMN 4] خر24: 33
+
+[ROW 664]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الدم
+  [COLUMN 4] عب9: 19و20
+
+[ROW 665]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] العهد
+  [COLUMN 4] مت28: 28
+  [COLUMN 5] لو22: 20
+  [COLUMN 6] 1كو11: 25
+  [COLUMN 7] زك9: 11
+
+[ROW 666]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] ناداب
+  [COLUMN 4] خر24: 1
+
+[ROW 667]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] ورأوا
+  [COLUMN 4] خر24: 11
+  [COLUMN 5] عد12: 9
+  [COLUMN 6] أش1: 5
+  [COLUMN 7] يو1: 18
+  [COLUMN 8] يو6: 46
+
+[ROW 668]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] رجليه
+  [COLUMN 4] خر1: 26
+
+[ROW 669]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الله
+  [COLUMN 4] خر24: 10
+
+[ROW 670]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] الحجارة
+  [COLUMN 4] خر31: 18
+
+[ROW 671]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] خادمه
+  [COLUMN 4] خر17: 9-14
+  [COLUMN 5] خر33: 11
+
+[ROW 672]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] الله
+  [COLUMN 4] خر3: 1
+
+[ROW 673]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] اجلسوا
+  [COLUMN 4] تك22: 5
+
+[ROW 674]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] حور
+  [COLUMN 4] تك17: 10و12
+
+[ROW 675]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] السحاب
+  [COLUMN 4] خر19: 9
+
+[ROW 676]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] دعىّ
+  [COLUMN 4] مز99: 7
+
+[ROW 677]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] منظر
+  [COLUMN 4] مز99: 2-6
+
+[ROW 678]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] آكله
+  [COLUMN 4] تث4: 24
+  [COLUMN 5] تث9: 3
+  [COLUMN 6] عب12: 29
+
+[ROW 679]
+  [COLUMN 1] 24.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] اربعين
+  [COLUMN 4] خر34: 28
+  [COLUMN 5] تث9: 9
+  [COLUMN 6] تث10: 10
+
+[ROW 680]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] وكلم
+  [COLUMN 4] خر35: 4-9
+
+[ROW 681]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] يحثه
+  [COLUMN 4] خر35: 21
+
+[ROW 682]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] لاسكن
+  [COLUMN 4] خر29: 45و46
+  [COLUMN 5] عد5: 3
+  [COLUMN 6] تث12: 11
+
+[ROW 683]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] رأيك
+  [COLUMN 4] خر25: 40
+  [COLUMN 5] خر26: 30
+  [COLUMN 6] أع7: 44
+  [COLUMN 7] عب27: 1-9
+
+[ROW 684]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] تابوتاً
+  [COLUMN 4] خر27: 1-9
+
+[ROW 685]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] وتغشيه
+  [COLUMN 4] عب9: 4
+
+[ROW 686]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] وتضع
+  [COLUMN 4] عب9: 4
+
+[ROW 687]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الكروبان
+  [COLUMN 4] 1مل8: 7
+  [COLUMN 5] عب9: 5
+
+[ROW 688]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] اجتمع
+  [COLUMN 4] خر29: 42و43
+  [COLUMN 5] خر30: 6و36
+
+[ROW 689]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] مائدة
+  [COLUMN 4] خر37: 1-17
+
+[ROW 690]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] اكليلاً
+  [COLUMN 4] خر25: 11
+
+[ROW 691]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] الوجوه
+  [COLUMN 4] خر39: 36
+  [COLUMN 5] خر40: 23
+  [COLUMN 6] لا24: 5-9
+
+[ROW 692]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] منارة
+  [COLUMN 4] خر37: 17-24
+
+[ROW 693]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 40.0
+  [COLUMN 3] وانظر
+  [COLUMN 4] عب8: 5
+
+[ROW 694]
+  [COLUMN 1] 25.0
+  [COLUMN 2] 40.0
+  [COLUMN 3] مثالها
+  [COLUMN 4] خر25: 9
+
+[ROW 695]
+  [COLUMN 1] 26.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] المسكن
+  [COLUMN 4] خر36: 8-19
+
+[ROW 696]
+  [COLUMN 1] 26.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] الألواح
+  [COLUMN 4] خر36: 20-34
+
+[ROW 697]
+  [COLUMN 1] 26.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] أظهر
+  [COLUMN 4] خر25: 9
+
+[ROW 698]
+  [COLUMN 1] 26.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] حجاباً
+  [COLUMN 4] خر36: 35-38
+  [COLUMN 5] مت27: 51
+  [COLUMN 6] عب9: 3
+
+[ROW 699]
+  [COLUMN 1] 27.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] المذبح
+  [COLUMN 4] خر38: 1-7
+
+[ROW 700]
+  [COLUMN 1] 27.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] دار
+  [COLUMN 4] خر38: 9-20
+
+[ROW 701]
+  [COLUMN 1] 27.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] زيت
+  [COLUMN 4] خر35: 8و28
+  [COLUMN 5] لا24: 1-4
+
+[ROW 702]
+  [COLUMN 1] 27.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الإجتماع
+  [COLUMN 4] خر25: 22
+  [COLUMN 5] خر29: 42
+  [COLUMN 6] خر30: 36
+
+[ROW 703]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] إليك
+  [COLUMN 4] مز99: 6
+  [COLUMN 5] عب5: 4
+
+[ROW 704]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] ناداب
+  [COLUMN 4] خر24: 1و4
+
+[ROW 705]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الذهب
+  [COLUMN 4] خر25: 3
+
+[ROW 706]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الرداء
+  [COLUMN 4] خر39: 2-7
+
+[ROW 707]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] تصنع
+  [COLUMN 4] خر39: 6و7
+
+[ROW 708]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] جبة
+  [COLUMN 4] خر39: 22-36
+
+[ROW 709]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 36.0
+  [COLUMN 3] صفيحة
+  [COLUMN 4] خر39: 30و31
+
+[ROW 710]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] الأقداس
+  [COLUMN 4] لا10: 17
+  [COLUMN 5] لا22: 16
+  [COLUMN 6] عد18: 1
+
+[ROW 711]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 39.0
+  [COLUMN 3] القميص
+  [COLUMN 4] خر39: 27-29
+
+[ROW 712]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 40.0
+  [COLUMN 3] قلانس
+  [COLUMN 4] خر29: 9
+  [COLUMN 5] خر39: 28
+  [COLUMN 6] لا8: 13
+
+[ROW 713]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 42.0
+  [COLUMN 3] كنان
+  [COLUMN 4] خر39: 28
+
+[ROW 714]
+  [COLUMN 1] 28.0
+  [COLUMN 2] 43.0
+  [COLUMN 3] المذبح
+  [COLUMN 4] خر20: 26
+
+[ROW 715]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] لتقديسهم
+  [COLUMN 4] لا8: 1-34
+
+[ROW 716]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] فطير
+  [COLUMN 4] لا6: 19-23
+
+[ROW 717]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] القميص
+  [COLUMN 4] خر28: 39
+
+[ROW 718]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] وجبة
+  [COLUMN 4] خر28: 31
+
+[ROW 719]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] والرداء
+  [COLUMN 4] خر28: 6
+
+[ROW 720]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] والصدرة
+  [COLUMN 4] خر28: 15
+
+[ROW 721]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] بزنار
+  [COLUMN 4] خر28: 8
+
+[ROW 722]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] العمامة
+  [COLUMN 4] خر28: 4و39
+
+[ROW 723]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الإكليل
+  [COLUMN 4] خر28: 36و37
+  [COLUMN 5] لا8: 9
+
+[ROW 724]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] دهن
+  [COLUMN 4] مز133: 2
+
+[ROW 725]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] أقمصة
+  [COLUMN 4] خر28: 29
+
+[ROW 726]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] بمناطق
+  [COLUMN 4] خر28: 40
+
+[ROW 727]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] كهنوت
+  [COLUMN 4] خر40: 15
+  [COLUMN 5] عد3: 10
+  [COLUMN 6] عد18: 7
+  [COLUMN 7] عد25: 13
+  [COLUMN 8] تث8: 5
+
+[ROW 728]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] القص
+  [COLUMN 4] لا7: 31-34
+
+[ROW 729]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 33.0
+  [COLUMN 3] الأجنبى
+  [COLUMN 4] لا22: 1و13
+
+[ROW 730]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] الملء
+  [COLUMN 4] خر12: 10
+  [COLUMN 5] خر23: 18
+  [COLUMN 6] خر34: 25
+
+[ROW 731]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 35.0
+  [COLUMN 3] سبعة
+  [COLUMN 4] لا8: 33
+
+[ROW 732]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 38.0
+  [COLUMN 3] يوم
+  [COLUMN 4] عد28: 3-31
+  [COLUMN 5] خر29: 6-38
+
+[ROW 733]
+  [COLUMN 1] 29.0
+  [COLUMN 2] 45.0
+  [COLUMN 3] واسكن
+  [COLUMN 4] خر25: 8
+  [COLUMN 5] عد5: 3
+  [COLUMN 6] تث12: 11
+
+[ROW 734]
+  [COLUMN 1] 30.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] مذبحاً
+  [COLUMN 4] خر37: 25-29
+
+[ROW 735]
+  [COLUMN 1] 30.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] كمية
+  [COLUMN 4] خر38: 25و26
+  [COLUMN 5] عد1: 2
+  [COLUMN 6] عد26: 2
+
+[ROW 736]
+  [COLUMN 1] 30.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] مرحضة
+  [COLUMN 4] خر38: 8
+
+[ROW 737]
+  [COLUMN 1] 30.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] للمسحة
+  [COLUMN 4] خر37: 29
+  [COLUMN 5] خر40: 9
+  [COLUMN 6] لا8: 10
+
+[ROW 738]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الرب
+  [COLUMN 4] خر35: 3
+  [COLUMN 5] خر36: 1
+
+[ROW 739]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الطاهرة
+  [COLUMN 4] لا24: 4
+
+[ROW 740]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] سبوتى
+  [COLUMN 4] خر20: 8
+
+[ROW 741]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] علامة
+  [COLUMN 4] خر31: 17
+  [COLUMN 5] حز20: 12و20
+
+[ROW 742]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] يقتل
+  [COLUMN 4] خر31: 15
+  [COLUMN 5] خر35: 2 
+  [COLUMN 6] عد15: 32و35
+  [COLUMN 7] يو7: 23
+
+[ROW 743]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] عطلة
+  [COLUMN 4] خر16: 23
+  [COLUMN 5] خر35: 2و3
+
+[ROW 744]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] يقتل
+  [COLUMN 4] خر31: 14
+
+[ROW 745]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] علامة
+  [COLUMN 4] خر31: 13
+
+[ROW 746]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] ستة
+  [COLUMN 4] خر20: 11
+  [COLUMN 5] تك2: 2و3
+
+[ROW 747]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] لوحى
+  [COLUMN 4] خر24: 12
+
+[ROW 748]
+  [COLUMN 1] 31.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] بأصبع
+  [COLUMN 4] خر32: 15و16
+  [COLUMN 5] خر34: 1و28
+
+[ROW 749]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] أبطأ
+  [COLUMN 4] خر24: 18
+  [COLUMN 5] تث9: 11و12
+
+[ROW 750]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] اصنع
+  [COLUMN 4] أع7: 40
+
+[ROW 751]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] موسى
+  [COLUMN 4] خر14: 11
+
+[ROW 752]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] أقراط
+  [COLUMN 4] خر35: 22
+
+[ROW 753]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] مسبوكاً
+  [COLUMN 4] تث9: 16
+  [COLUMN 5] أع7: 41
+
+[ROW 754]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] محرقات
+  [COLUMN 4] أع7: 41
+
+[ROW 755]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] وجلس
+  [COLUMN 4] 1كو10: 7
+
+[ROW 756]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] للعب
+  [COLUMN 4] خر32: 17-19
+  [COLUMN 5] عد25: 2
+
+[ROW 757]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] فسد
+  [COLUMN 4] خر32: 4و11
+  [COLUMN 5] تث9: 12
+
+[ROW 758]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] له
+  [COLUMN 4] خر22: 20
+  [COLUMN 5] خر34: 15
+  [COLUMN 6] تث32: 17
+
+[ROW 759]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] لموسى
+  [COLUMN 4] عد14: 11-20
+
+[ROW 760]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الرقبة
+  [COLUMN 4] خر33: 3و5
+  [COLUMN 5] خر34: 9
+  [COLUMN 6] أع7: 51
+
+[ROW 761]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] اتركنى
+  [COLUMN 4] تث9: 14
+
+[ROW 762]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] فتضرع
+  [COLUMN 4] تث9: 18
+
+[ROW 763]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] المصريون
+  [COLUMN 4] تث9: 28
+  [COLUMN 5] يش7: 9
+
+[ROW 764]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] حلفت
+  [COLUMN 4] تك22: 16-18
+
+[ROW 765]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] السماء
+  [COLUMN 4] تك15: 5
+  [COLUMN 5] تك26: 4
+
+[ROW 766]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] خر13: 5و11
+  [COLUMN 5] خر33: 1 
+
+[ROW 767]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] فندم
+  [COLUMN 4] مز106: 45
+
+[ROW 768]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] فانصرف 
+  [COLUMN 4] تث9: 15
+
+[ROW 769]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] لوحان
+  [COLUMN 4] خر31: 18
+
+[ROW 770]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] والرقص
+  [COLUMN 4] خر32: 6
+
+[ROW 771]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] طرح
+  [COLUMN 4] تث9: 17
+
+[ROW 772]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] أخذ
+  [COLUMN 4] تث9: 21
+
+[ROW 773]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] شر
+  [COLUMN 4] تث9: 24
+
+[ROW 774]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] اصنع
+  [COLUMN 4] خر32: 1-4
+
+[ROW 775]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] فطرحته
+  [COLUMN 4] خر32: 4
+
+[ROW 776]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] عراه
+  [COLUMN 4] 1مل12: 28-30
+  [COLUMN 5] 1مل14: 16
+
+[ROW 777]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] لاوى
+  [COLUMN 4] عد25: 7-13
+  [COLUMN 5] تث33: 9
+
+[ROW 778]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] ذهب
+  [COLUMN 4] خر20: 23
+
+[ROW 779]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 32.0
+  [COLUMN 3] كتابك
+  [COLUMN 4] مز69: 28
+  [COLUMN 5] أش4: 3
+  [COLUMN 6] أش8: 16
+  [COLUMN 7] أش29: 11و18
+
+[ROW 780]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 33.0
+  [COLUMN 3] امحوه
+  [COLUMN 4] خر17: 14
+  [COLUMN 5] تث29: 20
+  [COLUMN 6] مز9: 5
+
+[ROW 781]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] حيث
+  [COLUMN 4] خر3: 17
+
+[ROW 782]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] ملاكى
+  [COLUMN 4] خر23: 20
+
+[ROW 783]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] افتقد
+  [COLUMN 4] مز99: 8
+
+[ROW 784]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 35.0
+  [COLUMN 3] فضرب
+  [COLUMN 4] خر32: 28
+
+[ROW 785]
+  [COLUMN 1] 32.0
+  [COLUMN 2] 35.0
+  [COLUMN 3] صنعوا
+  [COLUMN 4] خر32: 4و24
+
+[ROW 786]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] حلفت
+  [COLUMN 4] خر32: 13
+
+[ROW 787]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] ملاكاً
+  [COLUMN 4] خر32: 34
+
+[ROW 788]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] واطرد
+  [COLUMN 4] خر23: 27-31
+
+[ROW 789]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] وعسلاً
+  [COLUMN 4] خر3: 8و17
+
+[ROW 790]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] الرقبة
+  [COLUMN 4] خر33: 5
+  [COLUMN 5] خر32: 9
+
+[ROW 791]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] افنيك
+  [COLUMN 4] خر32: 10
+
+[ROW 792]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] ناحوا
+  [COLUMN 4] عد14: 39
+
+[ROW 793]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الرقبة
+  [COLUMN 4] خر33: 3
+
+[ROW 794]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] الخيمة
+  [COLUMN 4] خر18: 7و12-16
+
+[ROW 795]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] السحاب
+  [COLUMN 4] خر13: 21
+
+[ROW 796]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] ويتكلم
+  [COLUMN 4] مز99: 7
+
+[ROW 797]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] لوجه
+  [COLUMN 4] عد12: 8
+  [COLUMN 5] تث34: 10
+
+[ROW 798]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] أصعد
+  [COLUMN 4] خر3: 10
+  [COLUMN 5] خر32: 34
+
+[ROW 799]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] منارة
+  [COLUMN 4] خر33: 2
+
+[ROW 800]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] عرفتك
+  [COLUMN 4] خر33: 17
+
+[ROW 801]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] طريقك
+  [COLUMN 4] مز25: 4
+  [COLUMN 5] مز51: 13
+
+[ROW 802]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] وانظر
+  [COLUMN 4] خر3: 7و10
+  [COLUMN 5] خر5: 1
+  [COLUMN 6] خر32: 12و14
+
+[ROW 803]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] وجهى
+  [COLUMN 4] تث4: 37
+  [COLUMN 5] أش63: 9
+
+[ROW 804]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] فأريحك
+  [COLUMN 4] تث12: 10
+  [COLUMN 5] تث25: 19
+  [COLUMN 6] يش22: 4
+
+[ROW 805]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] يسر
+  [COLUMN 4] مز80: 3و7و19
+
+[ROW 806]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] معنا
+  [COLUMN 4] لا20: 24و26
+
+[ROW 807]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] نعمة
+  [COLUMN 4] خر33: 12
+
+[ROW 808]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] مجدك
+  [COLUMN 4] خر33: 20و23
+
+[ROW 809]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] جودتى
+  [COLUMN 4] خر34: 6و7
+
+[ROW 810]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] وارحم
+  [COLUMN 4] رو9: 15
+
+[ROW 811]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] ويعيش
+  [COLUMN 4] أش6: 5
+
+[ROW 812]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] فتقف
+  [COLUMN 4] مز18: 2و46
+  [COLUMN 5] مز27: 5
+  [COLUMN 6] مز61: 2
+  [COLUMN 7] مز62: 7
+
+[ROW 813]
+  [COLUMN 1] 33.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] واسترك
+  [COLUMN 4] أش49: 2
+  [COLUMN 5] أش51: 16
+
+[ROW 814]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] لوحين
+  [COLUMN 4] خر24: 12
+  [COLUMN 5] خر31: 18
+
+[ROW 815]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] سيناء
+  [COLUMN 4] خر19: 11و18و20
+
+[ROW 816]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] احدٌ
+  [COLUMN 4] خر19: 12و13
+
+[ROW 817]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] لوحين
+  [COLUMN 4] خر34: 1
+
+[ROW 818]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] فنزل
+  [COLUMN 4] خر19: 9
+  [COLUMN 5] خر33: 9
+
+[ROW 819]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] رحيم
+  [COLUMN 4] عد14: 18
+  [COLUMN 5] تث4: 21
+  [COLUMN 6] نح9: 17
+  [COLUMN 7] مز86: 15
+  [COLUMN 8] مز103: 8
+  [COLUMN 9] مز145: 8
+
+[ROW 820]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] الإحسان
+  [COLUMN 4] خر20: 5و6
+
+[ROW 821]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] يبرئ
+  [COLUMN 4] خر23: 7
+
+[ROW 822]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] نعمة
+  [COLUMN 4] خر33: 13
+
+[ROW 823]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] فليسر
+  [COLUMN 4] خر33: 12
+
+[ROW 824]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الرقبة
+  [COLUMN 4] خر32: 9
+
+[ROW 825]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] واغفر
+  [COLUMN 4] خر34: 7
+
+[ROW 826]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] ملكاً
+  [COLUMN 4] تث4: 20
+  [COLUMN 5] تث9: 26و29
+  [COLUMN 6] تث32: 9
+  [COLUMN 7] مز33: 12
+
+[ROW 827]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] عهداً
+  [COLUMN 4] خر34: 27و28
+
+[ROW 828]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] عجائب
+  [COLUMN 4] مز72: 18
+  [COLUMN 5] مز136: 4
+
+[ROW 829]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] طارد
+  [COLUMN 4] خر33: 2
+
+[ROW 830]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] عهداً
+  [COLUMN 4] خر23: 32و33
+
+[ROW 831]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] تهدمون
+  [COLUMN 4] خر23: 24
+
+[ROW 832]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] سواريهم
+  [COLUMN 4] قض6: 25و26
+
+[ROW 833]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] آخر
+  [COLUMN 4] خر20: 3و5
+  [COLUMN 5] تث4: 24
+
+[ROW 834]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] ويذبحون
+  [COLUMN 4] خر22: 20
+  [COLUMN 5] خر32: 8
+
+[ROW 835]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] فتدعى
+  [COLUMN 4] عد25: 1و2
+  [COLUMN 5] تث32: 28
+
+[ROW 836]
+  [COLUMN 1] 34.0
+  [COLUMN 4] تث7: 3
+  [COLUMN 5] يش23: 12و13
+
+[ROW 837]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] مسبوكة
+  [COLUMN 4] خر2: 23
+
+[ROW 838]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] الفطير
+  [COLUMN 4] خر12: 17
+
+[ROW 839]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] ايام
+  [COLUMN 4] خر12: 15و16
+
+[ROW 840]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] ابيب
+  [COLUMN 4] خر12: 2
+
+[ROW 841]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] رحم
+  [COLUMN 4] خر13: 2
+
+[ROW 842]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] فتفديه
+  [COLUMN 4] خر13: 13
+
+[ROW 843]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] بنيك
+  [COLUMN 4] خر13: 15
+  [COLUMN 5] عد3: 45
+
+[ROW 844]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] فارغين
+  [COLUMN 4] خر22: 29
+
+[ROW 845]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] ستة
+  [COLUMN 4] خر31: 15
+  [COLUMN 5] خر25: 2
+
+[ROW 846]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] الأسابيع
+  [COLUMN 4] خر23: 16و19
+  [COLUMN 5] لا23: 15
+
+[ROW 847]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] ثلاث
+  [COLUMN 4] خر23: 14-17
+
+[ROW 848]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] خمير
+  [COLUMN 4] خر23: 18
+
+[ROW 849]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] ولاتبت
+  [COLUMN 4] خر2: 10
+
+[ROW 850]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] أبكار
+  [COLUMN 4] خر23: 19
+
+[ROW 851]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] لاتطبخ
+  [COLUMN 4] خر23: 19
+
+[ROW 852]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] اكتب
+  [COLUMN 4] خر17: 14
+  [COLUMN 5] خر24: 4
+
+[ROW 853]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] عهداً
+  [COLUMN 4] خر34: 10
+
+[ROW 854]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] اربعين
+  [COLUMN 4] خر24: 18
+
+[ROW 855]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] فكتب
+  [COLUMN 4] خر31: 18
+  [COLUMN 5] خر34: 1
+
+[ROW 856]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] العشر
+  [COLUMN 4] تث4:13
+  [COLUMN 5] تث10: 4
+
+[ROW 857]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] فخافوا
+  [COLUMN 4] 2كو3: 7
+
+[ROW 858]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] الرؤساء
+  [COLUMN 4] خر16: 22
+
+[ROW 859]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 33.0
+  [COLUMN 3] برقعاً
+  [COLUMN 4] 2كو3: 13
+
+[ROW 860]
+  [COLUMN 1] 34.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] ينزع
+  [COLUMN 4] 2كو3: 16
+
+[ROW 861]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] ستة
+  [COLUMN 4] خر31: 15
+
+[ROW 862]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] عطلة
+  [COLUMN 4] خر16: 23
+
+[ROW 863]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] يعمل
+  [COLUMN 4] عد15: 32-36
+
+[ROW 864]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] لاتشعلوا
+  [COLUMN 4] خر12: 16
+
+[ROW 865]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] الشئ
+  [COLUMN 4] خر25: 1-9
+
+[ROW 866]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] وخبز
+  [COLUMN 4] خر25: 30
+
+[ROW 867]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] المنسوجة
+  [COLUMN 4] خر31: 10
+
+[ROW 868]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] سمحته
+  [COLUMN 4] خر25: 2
+
+[ROW 869]
+  [COLUMN 1] 35.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] انظروا
+  [COLUMN 4] خر31: 1-6
+
+[ROW 870]
+  [COLUMN 1] 36.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] بكثير
+  [COLUMN 4] 2أي24: 14
+  [COLUMN 5] 2أي31: 6-10
+
+[ROW 871]
+  [COLUMN 1] 36.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] والمواد
+  [COLUMN 4] 1مل8: 64
+
+[ROW 872]
+  [COLUMN 1] 36.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] قلب
+  [COLUMN 4] خر26: 1-14
+
+[ROW 873]
+  [COLUMN 1] 36.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الألواح
+  [COLUMN 4] خر26: 15-29
+
+[ROW 874]
+  [COLUMN 1] 36.0
+  [COLUMN 2] 35.0
+  [COLUMN 3] الحجاب
+  [COLUMN 4] خر26: 31و37
+
+[ROW 875]
+  [COLUMN 1] 37.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] التابوت
+  [COLUMN 4] خر25: 10-20
+
+[ROW 876]
+  [COLUMN 1] 37.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] غطاء
+  [COLUMN 4] خر25: 23-29
+
+[ROW 877]
+  [COLUMN 1] 37.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] المنارة
+  [COLUMN 4] خر25: 31-39
+
+[ROW 878]
+  [COLUMN 1] 37.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] مذبح 
+  [COLUMN 4] خر30: 1-5
+
+[ROW 879]
+  [COLUMN 1] 37.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] دهن
+  [COLUMN 4] خر30: 23و24و34و35
+
+[ROW 880]
+  [COLUMN 1] 38.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] مذبح 
+  [COLUMN 4] خر27: 1-8
+
+[ROW 881]
+  [COLUMN 1] 38.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] المرحضة
+  [COLUMN 4] خر30: 18
+
+[ROW 882]
+  [COLUMN 1] 38.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الدار
+  [COLUMN 4] خر27: 9-19
+
+[ROW 883]
+  [COLUMN 1] 38.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] المعدودين
+  [COLUMN 4] خر30: 11-16
+
+[ROW 884]
+  [COLUMN 1] 38.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] ألف
+  [COLUMN 4] خر12: 37
+  [COLUMN 5] عد1: 46
+  [COLUMN 6] عد26: 51
+
+[ROW 885]
+  [COLUMN 1] 39.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الرداء
+  [COLUMN 4] خر28: 6-12
+
+[ROW 886]
+  [COLUMN 1] 39.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الصدرة
+  [COLUMN 4] خر28: 15-28
+
+[ROW 887]
+  [COLUMN 1] 39.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] جبة
+  [COLUMN 4] خر28: 31-34
+
+[ROW 888]
+  [COLUMN 1] 39.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] الأقمصة
+  [COLUMN 4] خر28: 39و40و42
+
+[ROW 889]
+  [COLUMN 1] 39.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] صفيحة
+  [COLUMN 4] خر28: 36و37
+
+[ROW 890]
+  [COLUMN 1] 40.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الأول
+  [COLUMN 4] خر40: 17
+  [COLUMN 5] خر19: 1
+  [COLUMN 6] عد1: 1
+
+[ROW 891]
+  [COLUMN 1] 40.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] أبدياً
+  [COLUMN 4] خر29: 9
+
+[ROW 892]
+  [COLUMN 1] 40.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] الأول
+  [COLUMN 4] خر40: 2
+
+[ROW 893]
+  [COLUMN 1] 40.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الشهادة
+  [COLUMN 4] تث10: 5
+  [COLUMN 5] 1مل8: 9
+  [COLUMN 6] 2أي15: 10
+  [COLUMN 7] عب9: 4
+
+[ROW 894]
+  [COLUMN 1] 40.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] الخبز
+  [COLUMN 4] خر25: 30
+  [COLUMN 5] لا24: 5و6
+
+[ROW 895]
+  [COLUMN 1] 40.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] ليغسل
+  [COLUMN 4] خر30: 19و20
+
+[ROW 896]
+  [COLUMN 1] 40.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] السحابة
+  [COLUMN 4] عد9: 15-23
+
+
+####################################################################################################
+SOURCE: assets/shawahed/20.xls
+####################################################################################################
+
+[ROW 1]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] عوص
+  [COLUMN 4] أر25 : 2
+  [COLUMN 5] مرا 4 : 21
+
+[ROW 2]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] أيوب
+  [COLUMN 4] حز14 : 14 ، 20
+  [COLUMN 5] يع5 : 11
+
+[ROW 3]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] ومستقيماً
+  [COLUMN 4] تك6 : 9
+  [COLUMN 5] تك17 : 1
+  [COLUMN 6] تث18 : 13
+
+[ROW 4]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الله
+  [COLUMN 4] تك22 : 12
+  [COLUMN 5] تك42 : 18
+  [COLUMN 6] خر18 : 21
+
+[ROW 5]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الشر
+  [COLUMN 4] أي28 : 28
+
+[ROW 6]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] بنين
+  [COLUMN 4] أي42 : 13
+
+[ROW 7]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] مواشيه
+  [COLUMN 4] أي42 : 12
+
+[ROW 8]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] المشرق
+  [COLUMN 4] أي29 : 25
+  [COLUMN 5] أي31 : 37
+
+[ROW 9]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] محرقات
+  [COLUMN 4] أي42 : 8
+
+[ROW 10]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] بنى
+  [COLUMN 4] أي8 : 4
+
+[ROW 11]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] 1بط5 : 8
+
+[ROW 12]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] أيوب
+  [COLUMN 4] عد12 : 7
+  [COLUMN 5] يش1 : 2 ، 7
+  [COLUMN 6] أي42 : 7 ، 8
+
+[ROW 13]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] ومستقيماً
+  [COLUMN 4] أي1 : 1
+
+[ROW 14]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] حوله
+  [COLUMN 4] أي29 : 2 - 6
+
+[ROW 15]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] يديه
+  [COLUMN 4] أي32 : 25
+
+[ROW 16]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] أي1 : 3
+  [COLUMN 5] أي31 : 25
+
+[ROW 17]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الآن
+  [COLUMN 4] أي2 : 5
+
+[ROW 18]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] له
+  [COLUMN 4] أي19 : 21
+
+[ROW 19]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] السبئيون
+  [COLUMN 4] أي6 : 19
+
+[ROW 20]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] السماء
+  [COLUMN 4] تك19 : 24
+  [COLUMN 5] لا10 : 2
+  [COLUMN 6] عد11 : 1 - 3
+
+[ROW 21]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] الكلدانيون
+  [COLUMN 4] تك11 : 28 ، 31
+
+[ROW 22]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] جبتة
+  [COLUMN 4] تك27 : 29 ، 34
+  [COLUMN 5] يش7 : 6
+
+[ROW 23]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] خرجت
+  [COLUMN 4] جا5 : 15
+
+[ROW 24]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] أعطى
+  [COLUMN 4] أي2 : 10
+  [COLUMN 5] 1صم2 : 7 ، 8
+
+[ROW 25]
+  [COLUMN 1] 1.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] يخطئ
+  [COLUMN 4] أي2 : 10
+
+[ROW 26]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] يوم
+  [COLUMN 4] أي 1 : 6 - 8
+
+[ROW 27]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] يدك
+  [COLUMN 4] أي1 : 11
+
+[ROW 28]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] ردئ
+  [COLUMN 4] أي7 : 5
+  [COLUMN 5] أي13 : 28
+  [COLUMN 6] أي30 : 17 ، 18 ، 30
+  [COLUMN 7] تث28 : 35
+
+[ROW 29]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الرماد
+  [COLUMN 4] أي42 : 6
+  [COLUMN 5] أر6 : 26
+  [COLUMN 6] يون3 : 6
+
+[ROW 30]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] نقبل
+  [COLUMN 4] أي1 : 21
+
+[ROW 31]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] بشفتيه
+  [COLUMN 4] أي1 : 22
+
+[ROW 32]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] التيمانى
+  [COLUMN 4] أي6 : 19
+
+[ROW 33]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] جبته
+  [COLUMN 4] أي1 : 20
+
+[ROW 34]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] رؤوسهم
+  [COLUMN 4] يش7 : 6
+  [COLUMN 5] مرا 2 : 10
+
+[ROW 35]
+  [COLUMN 1] 2.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] حز3 : 15
+
+[ROW 36]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] فيه
+  [COLUMN 4] أر20 : 14 - 18
+
+[ROW 37]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] التنين
+  [COLUMN 4] أي41 : 25
+
+[ROW 38]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الصبح
+  [COLUMN 4] أي41 : 18
+
+[ROW 39]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الرحم
+  [COLUMN 4] أي10 : 18 ، 19
+
+[ROW 40]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] ساكناً
+  [COLUMN 4] أي3 : 13 - 19
+  [COLUMN 5] أي7 : 8 - 10 ، 21
+  [COLUMN 6] أي10 : 21 ، 22
+  [COLUMN 7] أي14 : 10 - 15 ، 20 - 22
+  [COLUMN 8] أي16 : 22
+  [COLUMN 9] أي17 : 13 - 16
+  [COLUMN 10] أي19 : 25 - 27 
+  [COLUMN 11] أي    :  13 ، 23 - 26
+  [COLUMN 12] أي24 :  9
+
+[ROW 41]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] ملوك
+  [COLUMN 4] أي12 : 18
+
+[ROW 42]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] أي12 : 17
+
+[ROW 43]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] أهراماً
+  [COLUMN 4] أي15 : 28
+  [COLUMN 5] أش58 : 2
+
+[ROW 44]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] رؤساء
+  [COLUMN 4] أي12 : 21
+
+[ROW 45]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] ذهب
+  [COLUMN 4] أي27 : 16 ، 17
+
+[ROW 46]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] المتعبون
+  [COLUMN 4] أي17 : 16
+
+[ROW 47]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] طريقه
+  [COLUMN 4] أي19 : 6 ، 8 ، 12
+
+[ROW 48]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] حوله
+  [COLUMN 4] أي19 : 8
+  [COLUMN 5] مز88 : 8
+
+[ROW 49]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] انينى
+  [COLUMN 4] أي6 : 7
+  [COLUMN 5] أي33 : 20
+
+[ROW 50]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] زفرتى
+  [COLUMN 4] أي3 : 16
+  [COLUMN 5] مز42 : 4
+
+[ROW 51]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] فزعت
+  [COLUMN 4] أي9 : 28
+  [COLUMN 5] أي30 : 15
+
+[ROW 52]
+  [COLUMN 1] 3.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] أطمئن
+  [COLUMN 4] أي7 : 13 ، 14
+
+[ROW 53]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الإمتناع
+  [COLUMN 4] أي32 : 18 -  20
+
+[ROW 54]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] كثيرين 
+  [COLUMN 4] أي4 : 3 ، 4
+  [COLUMN 5] أي29 : 15 ، 16 ، 21 ، 25 
+
+[ROW 55]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] ضجرت
+  [COLUMN 4] أي6 : 14
+
+[ROW 56]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] معتمدك
+  [COLUMN 4] أي1 : 1
+
+[ROW 57]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] برئ
+  [COLUMN 4] أي8 : 20
+  [COLUMN 5] أي36 : 6 ، 7
+  [COLUMN 6] مز37 : 25
+
+[ROW 58]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] إثماً
+  [COLUMN 4] أي15 : 31 ، 35
+  [COLUMN 5] أم22 : 8 هو10 : 13 
+  [COLUMN 6] غل6 : 7
+
+[ROW 59]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] يبيدون
+  [COLUMN 4] أي15 : 30
+  [COLUMN 5] أش11 : 4
+  [COLUMN 6] أش30 : 33
+  [COLUMN 7] 2تس2 : 8
+
+[ROW 60]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] أنفه
+  [COLUMN 4] أي40 : 11 - 13
+
+[ROW 61]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الأسد
+  [COLUMN 4] أي5 : 15
+  [COLUMN 5] مز58 : 6
+
+[ROW 62]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الفريسة 
+  [COLUMN 4] أي29 : 17
+
+[ROW 63]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] تبددت
+  [COLUMN 4] أي5 : 4
+  [COLUMN 5] أي20 : 10
+  [COLUMN 6] أي27 : 14
+
+[ROW 64]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] كلمة
+  [COLUMN 4] أي4 : 12 - 17
+  [COLUMN 5] أي33 : 15 - 18
+
+[ROW 65]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] ركزاً
+  [COLUMN 4] أي26 : 14
+
+[ROW 66]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] الله
+  [COLUMN 4] أي9 : 2
+  [COLUMN 5] أي25 : 4
+
+[ROW 67]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] خالقه
+  [COLUMN 4] أي31 : 15
+  [COLUMN 5] أي32 : 22
+  [COLUMN 6] أي35 : 10
+  [COLUMN 7] أي36 : 3
+
+[ROW 68]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] يأتمنهم
+  [COLUMN 4] أي15 : 15
+
+[ROW 69]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] طين
+  [COLUMN 4] أي10 : 9
+  [COLUMN 5] أي33 : 6
+
+[ROW 70]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] التراب
+  [COLUMN 4] أي22 : 16
+  [COLUMN 5] تك2 : 7
+  [COLUMN 6] تك3 : 19
+
+[ROW 71]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] يحطمون
+  [COLUMN 4] أي14 : 2
+
+[ROW 72]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] منتبه
+  [COLUMN 4] أي14 : 20
+  [COLUMN 5] أي20 : 7
+
+[ROW 73]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] طنبهم
+  [COLUMN 4] أي8 : 22
+
+[ROW 74]
+  [COLUMN 1] 4.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] حكمه
+  [COLUMN 4] أي18 : 21
+  [COLUMN 5] أي36 : 12
+
+[ROW 75]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] القديسين
+  [COLUMN 4] أي15 : 15
+
+[ROW 76]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] الغيظ
+  [COLUMN 4] أم12 : 16
+  [COLUMN 5] أم27 : 3
+
+[ROW 77]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] يتأصل
+  [COLUMN 4] أر12 : 2
+
+[ROW 78]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] لعنت
+  [COLUMN 4] أي24 : 18
+  [COLUMN 5] أي31 : 30
+
+[ROW 79]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] الأمن
+  [COLUMN 4] أي4 : 11
+
+[ROW 80]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الظمآن
+  [COLUMN 4] أي18 : 8 - 10
+  [COLUMN 5] أي22 : 10
+
+[ROW 81]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] البلية
+  [COLUMN 4] أي15 : 35
+
+[ROW 82]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] للمشقة
+  [COLUMN 4] أي14 : 1
+
+[ROW 83]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الله
+  [COLUMN 4] أي13 : 2 ، 3
+
+[ROW 84]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] عظائم
+  [COLUMN 4] أي9 : 10
+  [COLUMN 5] أي37 : 14 ، 16
+  [COLUMN 6] أي42 : 3
+
+[ROW 85]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] مطراً
+  [COLUMN 4] أي36 : 27 - 29
+  [COLUMN 5] أي37 : 6 - 11
+  [COLUMN 6] أي38 : 26
+
+[ROW 86]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] العلى
+  [COLUMN 4] أي22 : 29
+  [COLUMN 5] أي36 : 7
+
+[ROW 87]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] المحتالين
+  [COLUMN 4] مز23 : 10
+
+[ROW 88]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] بحيلتهم
+  [COLUMN 4] أي37 : 24
+  [COLUMN 5] 1كو3 : 19
+
+[ROW 89]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] ظلاماً
+  [COLUMN 4] أي12 : 25
+  [COLUMN 5] أي15 : 30
+  [COLUMN 6] أي18 : 18
+  [COLUMN 7] أي20 : 26
+  [COLUMN 8] أي24 : 13
+
+[ROW 90]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] السيف
+  [COLUMN 4] أي4 : 10 ، 11
+  [COLUMN 5] مز35 : 1
+
+[ROW 91]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] القوى
+  [COLUMN 4] أي29 : 17
+  [COLUMN 5] أي34 : 28
+  [COLUMN 6] أي36 : 6 ، 15
+  [COLUMN 7] أي38 : 15
+
+[ROW 92]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] الخطية
+  [COLUMN 4] مز107 : 42
+
+[ROW 93]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] الله
+  [COLUMN 4] ز94 : 12
+
+[ROW 94]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] القدير
+  [COLUMN 4] أي36 : 15 ، 16
+  [COLUMN 5] أم3 : 11
+  [COLUMN 6] عب12 : 5 - 11
+
+[ROW 95]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] يجرح
+  [COLUMN 4] تث32 : 39
+  [COLUMN 5] 1صم2 : 6
+  [COLUMN 6] أش30 : 26
+  [COLUMN 7] هو6 : 1
+
+[ROW 96]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الجوع
+  [COLUMN 4] مز33 : 19
+  [COLUMN 5] مز37 : 19
+
+[ROW 97]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الحرب
+  [COLUMN 4] مز144 : 10
+
+[ROW 98]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] تختبأ
+  [COLUMN 4] أي5 : 15
+  [COLUMN 5] مز31 : 20
+
+[ROW 99]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الخاب
+  [COLUMN 4] مز91 : 5 ، 6
+
+[ROW 100]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] تضحك
+  [COLUMN 4] أي8 : 21
+
+[ROW 101]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] مز91 : 13
+  [COLUMN 5] حز34 : 25
+  [COLUMN 6] هو2 : 18
+
+[ROW 102]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] تسالمك
+  [COLUMN 4] أش11 : 6 - 9 
+  [COLUMN 5] أش65 : 25
+
+[ROW 103]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] خيمتك
+  [COLUMN 4] أي8 : 6
+
+[ROW 104]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] كثيرين 
+  [COLUMN 4] مز112 : 2
+
+[ROW 105]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] أش44 : 3 ، 4
+  [COLUMN 5] أش48 : 19
+
+[ROW 106]
+  [COLUMN 1] 5.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] شيخوخة
+  [COLUMN 4] أي42 : 17
+
+[ROW 107]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] وزن
+  [COLUMN 4] أي31 : 6
+
+[ROW 108]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] البحر
+  [COLUMN 4] أي23 : 2
+
+[ROW 109]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] فىّ
+  [COLUMN 4] أي16 : 13
+  [COLUMN 5] مز38 : 2
+
+[ROW 110]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] شاربة
+  [COLUMN 4] أي20 : 16
+  [COLUMN 5] أي21 : 20
+
+[ROW 111]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] الله
+  [COLUMN 4] أي30 : 15
+
+[ROW 112]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الفرا
+  [COLUMN 4] أي39 : 5 - 8
+
+[ROW 113]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] نفسى
+  [COLUMN 4] أي3 : 24
+  [COLUMN 5] أي33 : 20
+
+[ROW 114]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] يسحقنى
+  [COLUMN 4] أي7 : 16
+  [COLUMN 5] أي9 : 21
+  [COLUMN 6] أي1 : 1
+  [COLUMN 7] عد11 : 15
+  [COLUMN 8] 1مل19 : 4
+
+[ROW 115]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] اجحد
+  [COLUMN 4] أي22 : 22
+  [COLUMN 5] أي23 : 11 ، 12
+
+[ROW 116]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] أصبر
+  [COLUMN 4] أي21 : 4
+
+[ROW 117]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] موعونتى
+  [COLUMN 4] أي26 : 2
+
+[ROW 118]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] عنى
+  [COLUMN 4] أي26 : 3
+
+[ROW 119]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] معروف
+  [COLUMN 4] أي4 : 5
+
+[ROW 120]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] القدير
+  [COLUMN 4] أي1 : 5
+  [COLUMN 5] أي15 : 4
+
+[ROW 121]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] الغدير
+  [COLUMN 4] أر15 : 18
+
+[ROW 122]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] جرت
+  [COLUMN 4] أر24 : 19
+
+[ROW 123]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] تيماء
+  [COLUMN 4] تك25 : 15
+  [COLUMN 5] أش21 : 14
+  [COLUMN 6] أر25 : 23
+
+[ROW 124]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] سبأ
+  [COLUMN 4] أي1 : 15
+
+[ROW 125]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] مطمئنين
+  [COLUMN 4] أر14 : 3
+
+[ROW 126]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] اليائس
+  [COLUMN 4] أي8 : 2
+  [COLUMN 5] أي15 : 2
+  [COLUMN 6] أي16 : 3
+
+[ROW 127]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] تلقون
+  [COLUMN 4] يؤ3 : 3
+  [COLUMN 5] نا3 : 10
+
+[ROW 128]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] اليتيم
+  [COLUMN 4] أي22 : 9
+  [COLUMN 5] أي24 : 3 ، 9
+
+[ROW 129]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] حفرة
+  [COLUMN 4] 2بط2 : 3
+
+[ROW 130]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] أكذب
+  [COLUMN 4] ي27 : 4
+  [COLUMN 5] أي33 : 3 
+  [COLUMN 6] أي36 : 4
+
+[ROW 131]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] حقى
+  [COLUMN 4] أي13 : 18
+  [COLUMN 5] أي19 : 6
+  [COLUMN 6] أي23 : 10
+  [COLUMN 7] أي27 : 5 ، 6
+  [COLUMN 8] أي34 : 5
+  [COLUMN 9] أي42 : 1 - 6
+
+[ROW 132]
+  [COLUMN 1] 6.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] فساداً
+  [COLUMN 4] أي12 : 11
+
+[ROW 133]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] جهاد
+  [COLUMN 4] أي5 : 7
+  [COLUMN 5] أي10 : 17
+  [COLUMN 6] أي14 : 1 ، 14
+
+[ROW 134]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] الأجير
+  [COLUMN 4] أي14 : 6
+
+[ROW 135]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] شقاء
+  [COLUMN 4] أي16 : 7
+
+[ROW 136]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] اضطجعت
+  [COLUMN 4] أي7  : 13 ، 14
+  [COLUMN 5] تث28 : 67
+
+[ROW 137]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الدود
+  [COLUMN 4] أي2 : 7
+
+[ROW 138]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الوشيعة
+  [COLUMN 4] أي9 : 25
+
+[ROW 139]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] رجاء
+  [COLUMN 4] أي13 : 15
+  [COLUMN 5] أي14 : 19
+  [COLUMN 6] أي17 : 15 ، 16
+  [COLUMN 7] أي19 : 10
+
+[ROW 140]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] ريح
+  [COLUMN 4] أي7 : 16
+
+[ROW 141]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] خيراً
+  [COLUMN 4] أي9 : 25
+
+[ROW 142]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] ناظرى
+  [COLUMN 4] أي8 : 18
+  [COLUMN 5] أي20 : 9
+
+[ROW 143]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] أنا
+  [COLUMN 4] أي7 : 21
+
+[ROW 144]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] يضمحل
+  [COLUMN 4] أي30 : 15
+
+[ROW 145]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] ينزل
+  [COLUMN 4] أي3 : 13 - 19
+
+[ROW 146]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الهاوية
+  [COLUMN 4] أي11 : 8
+  [COLUMN 5] أي14 : 13
+  [COLUMN 6] أي17 : 13 ، 16
+
+[ROW 147]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] مكانه
+  [COLUMN 4] أي8 : 18
+  [COLUMN 5] أي20 : 9
+  [COLUMN 6] أي27 : 21 ، 23
+
+[ROW 148]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] فمى
+  [COLUMN 4] أي10 : 1 
+  [COLUMN 5] أي21 : 4
+  [COLUMN 6] أي23 : 2
+
+[ROW 149]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] تنين
+  [COLUMN 4] حز32 : 2 ، 3
+
+[ROW 150]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] يعزينى
+  [COLUMN 4] أي7 : 4
+  [COLUMN 5] مز6 : 6
+
+[ROW 151]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] ذبت
+  [COLUMN 4] أي6 : 9
+  [COLUMN 5] أي9 : 21
+  [COLUMN 6] أي10 : 1
+
+[ROW 152]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] نفخة
+  [COLUMN 4] أي7 : 7
+
+[ROW 153]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] الإنسان
+  [COLUMN 4] أي22 : 2
+  [COLUMN 5] مز8 : 4
+  [COLUMN 6] مز144 : 3
+  [COLUMN 7] عب2 : 6
+
+[ROW 154]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] صباح
+  [COLUMN 4] أي14 : 3
+
+[ROW 155]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] عنى
+  [COLUMN 4] أي9 : 18
+  [COLUMN 5] أي10 : 20
+  [COLUMN 6] أي14 : 6
+
+[ROW 156]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] أخطأت
+  [COLUMN 4] أي35 : 3 ، 6
+
+[ROW 157]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] عاثوراً
+  [COLUMN 4] أي10 : 14
+  [COLUMN 5] أي16 : 12
+
+[ROW 158]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] ذنبى
+  [COLUMN 4] أي9 : 28
+  [COLUMN 5] أي10 : 14
+
+[ROW 159]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] التراب
+  [COLUMN 4] أي10 : 9
+
+[ROW 160]
+  [COLUMN 1] 7.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] أكون
+  [COLUMN 4] أي7 : 8
+
+[ROW 161]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] شديدة
+  [COLUMN 4] أي6 : 26
+
+[ROW 162]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] القضاء
+  [COLUMN 4] أي34 : 10 ، 12
+  [COLUMN 5] أي36 : 23
+  [COLUMN 6] أي37 : 23
+  [COLUMN 7] تك18 : 25
+  [COLUMN 8] تث32 : 4
+  [COLUMN 9] 2أي19 : 7
+  [COLUMN 10] رو3 : 5
+
+[ROW 163]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] بنوك
+  [COLUMN 4] أي1 : 5 ، 18 ، 19
+
+[ROW 164]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الله
+  [COLUMN 4] أي5 : 17 - 27
+
+[ROW 165]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] جداً
+  [COLUMN 4] أي42 : 12
+
+[ROW 166]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] أسأل
+  [COLUMN 4] أي15 : 18
+  [COLUMN 5] أي20 : 4
+  [COLUMN 6] تث4 : 32
+  [COLUMN 7] أي32 : 7
+
+[ROW 167]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] ظلاماً
+  [COLUMN 4] أي14 : 2
+
+[ROW 168]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] الله
+  [COLUMN 4] مز9 : 17
+
+[ROW 169]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] يخيب
+  [COLUMN 4] أي11 : 20
+  [COLUMN 5] أي13 : 16
+  [COLUMN 6] أي15 : 34
+  [COLUMN 7] أي20 : 5
+  [COLUMN 8] أي27 : 8
+
+[ROW 170]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] العنكبوت
+  [COLUMN 4] أش59 : 5 ، 9
+
+[ROW 171]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] يثبت
+  [COLUMN 4] أي8 : 22
+  [COLUMN 5] أي27 : 18
+  [COLUMN 6] مز49 : 11
+
+[ROW 172]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] الشمس
+  [COLUMN 4] مز37 : 35
+  [COLUMN 5] أر11 : 16
+
+[ROW 173]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] خراعيبه
+  [COLUMN 4] مز8 : 11
+
+[ROW 174]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] مكانه
+  [COLUMN 4] أي7 : 10
+
+[ROW 175]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] رأيتك
+  [COLUMN 4] أي7 : 8
+
+[ROW 176]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] طريقه
+  [COLUMN 4] أي20 : 5
+
+[ROW 177]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الكامل
+  [COLUMN 4] أي4 : 7
+
+[ROW 178]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الشر
+  [COLUMN 4] أي21 : 30
+
+[ROW 179]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] ضحكاً
+  [COLUMN 4] أي5 : 22
+  [COLUMN 5] مز126 : 1 ، 2
+
+[ROW 180]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] هتافاً
+  [COLUMN 4] مز132 : 16
+
+[ROW 181]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] خزياً
+  [COLUMN 4] مز132 : 18
+
+[ROW 182]
+  [COLUMN 1] 8.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] تكون
+  [COLUMN 4] أي8 : 15
+  [COLUMN 5] أي15 : 34
+  [COLUMN 6] أي18 : 14
+  [COLUMN 7] أي21 : 28
+
+[ROW 183]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] يتبرر
+  [COLUMN 4] أي4 : 17
+  [COLUMN 5] أي25 : 4
+
+[ROW 184]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] يحاجة
+  [COLUMN 4] أي10 : 2
+  [COLUMN 5] أي13 : 19
+  [COLUMN 6] أي23 : 6
+  [COLUMN 7] أي40 : 2
+
+[ROW 185]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] ألف
+  [COLUMN 4] أي9 : 15 ، 32
+
+[ROW 186]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] القلب
+  [COLUMN 4] أي11 : 6
+  [COLUMN 5] أي12 : 13
+  [COLUMN 6] أي28 : 23
+  [COLUMN 7] أي38 : 36 ، 37
+
+[ROW 187]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] القوة
+  [COLUMN 4] أي9 : 19
+  [COLUMN 5] أي23 : 6
+
+[ROW 188]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] تصلب
+  [COLUMN 4] 2أي13 : 12
+  [COLUMN 5] أم29 : 1
+
+[ROW 189]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الجبال
+  [COLUMN 4] أي9 : 5-10
+  [COLUMN 5] أي26 : 6 - 14
+  [COLUMN 6] أي41 : 11
+
+[ROW 190]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الأرض
+  [COLUMN 4] أش2 : 19 ، 21
+  [COLUMN 5] أي13 : 13
+  [COLUMN 6] حج2 : 6
+
+[ROW 191]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] أعمدتها
+  [COLUMN 4] مز75 : 3
+
+[ROW 192]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] الشمس
+  [COLUMN 4] أش13 : 10
+  [COLUMN 5] حز32 : 7 ، 8
+
+[ROW 193]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] وحده
+  [COLUMN 4] أي37 : 18
+  [COLUMN 5] تك1 : 1
+  [COLUMN 6] مز104 : 2
+  [COLUMN 7] أش40 : 22
+
+[ROW 194]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] البحر
+  [COLUMN 4] أي38 : 16
+  [COLUMN 5] مز77 : 19
+
+[ROW 195]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] النعش
+  [COLUMN 4] أي38 : 31 ، 32
+  [COLUMN 5] عا5 : 8
+
+[ROW 196]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] الجنوب
+  [COLUMN 4] أي37 : 9
+
+[ROW 197]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] عظائم
+  [COLUMN 4] أي5 : 9
+
+[ROW 198]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] أراه
+  [COLUMN 4] أي23 : 8 ، 9
+  [COLUMN 5] أي35 : 14
+
+[ROW 199]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] يرده
+  [COLUMN 4] أي10 : 7
+  [COLUMN 5] أي11 : 10
+
+[ROW 200]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] تفعل
+  [COLUMN 4] أش45 : 9
+
+[ROW 201]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] رهب
+  [COLUMN 4] أي26 : 12
+  [COLUMN 5] مز89 : 10
+  [COLUMN 6] أش30 : 7
+  [COLUMN 7] أش51 : 9
+
+[ROW 202]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] أجاوبه
+  [COLUMN 4] أي9 : 3 ، 32
+
+[ROW 203]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] تبرت
+  [COLUMN 4] أي9 : 20 ، 21
+  [COLUMN 5] أي10 : 15
+
+[ROW 204]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] ديانى
+  [COLUMN 4] أي8 : 5
+
+[ROW 205]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] يسحقنى
+  [COLUMN 4] أي16 : 12 ، 14
+  [COLUMN 5] أي30 : 22
+
+[ROW 206]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] نفسى
+  [COLUMN 4] أي7 : 19
+  [COLUMN 5] أي10 : 20
+
+[ROW 207]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] مرائر
+  [COLUMN 4] أي13 : 26
+  [COLUMN 5] أي27 : 2
+
+[ROW 208]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] هانذا
+  [COLUMN 4] أي9 : 4
+
+[ROW 209]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] تبررت
+  [COLUMN 4] أي9 : 15  
+
+[ROW 210]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] فمى
+  [COLUMN 4] أي9 : 29
+  [COLUMN 5] أي15 : 6
+
+[ROW 211]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] أنا
+  [COLUMN 4] أي1 : 1
+  [COLUMN 5] أي12 : 4
+  [COLUMN 6] أي13 : 18
+
+[ROW 212]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] حياتى
+  [COLUMN 4] أي7 : 16
+
+[ROW 213]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] يفنيهما
+  [COLUMN 4] أي10  : 7 ، 8
+
+[ROW 214]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] يستهزئ
+  [COLUMN 4] أي24 : 12
+
+[ROW 215]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] الشرير
+  [COLUMN 4] أي10 : 3
+  [COLUMN 5] أي12 : 6
+  [COLUMN 6] أي16 : 11
+
+[ROW 216]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] قضاتها
+  [COLUMN 4] أي12 : 17
+
+[ROW 217]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] عداء
+  [COLUMN 4] أي7 : 6
+
+[ROW 218]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] خيراً
+  [COLUMN 4] أس7 : 7
+
+[ROW 219]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] البردى
+  [COLUMN 4] أش18 : 2
+
+[ROW 220]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 26.0
+  [COLUMN 3] كنسر
+  [COLUMN 4] أي39 : 29
+  [COLUMN 5] حب1 : 8
+
+[ROW 221]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 27.0
+  [COLUMN 3] كربتى
+  [COLUMN 4] أي7 : 11
+
+[ROW 222]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] أوجاعى
+  [COLUMN 4] أي3 : 25
+
+[ROW 223]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 28.0
+  [COLUMN 3] تبرئنى
+  [COLUMN 4] أي7 : 21
+  [COLUMN 5] أي10 : 14
+
+[ROW 224]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 29.0
+  [COLUMN 3] مستذنب
+  [COLUMN 4] أي10 : 2
+  [COLUMN 5] مز37 : 33
+
+[ROW 225]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] الثلج
+  [COLUMN 4] أر2 : 22
+
+[ROW 226]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 30.0
+  [COLUMN 3] بالأشنان
+  [COLUMN 4] أي31 : 7
+
+[ROW 227]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 31.0
+  [COLUMN 3] ثيابى
+  [COLUMN 4] أي7 : 17
+
+[ROW 228]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 32.0
+  [COLUMN 3] فأجاوبه
+  [COLUMN 4] أي9  : 3
+
+[ROW 229]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 33.0
+  [COLUMN 3] مصالح
+  [COLUMN 4] أي9 : 19
+  [COLUMN 5] 1صك2 : 25
+  [COLUMN 6] أش1 : 18
+
+[ROW 230]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 34.0
+  [COLUMN 3] عصاه
+  [COLUMN 4] أي13 : 21
+
+[ROW 231]
+  [COLUMN 1] 9.0
+  [COLUMN 2] 35.0
+  [COLUMN 3] أتكلم
+  [COLUMN 4] أي13 : 22
+
+[ROW 232]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] حياتى
+  [COLUMN 4] أي7 : 16
+
+[ROW 233]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] شكواى
+  [COLUMN 4] أي7 : 11
+
+[ROW 234]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] تستذنبنى
+  [COLUMN 4] أي9 : 29
+
+[ROW 235]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] تظلم
+  [COLUMN 4] أي9 : 22 - 24
+  [COLUMN 5] أي16 : 11
+  [COLUMN 6] أي19 : 6
+  [COLUMN 7] أي27 : 2
+
+[ROW 236]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] يديك
+  [COLUMN 4] أي10 : 8
+  [COLUMN 5] أي14 : 15
+  [COLUMN 6] مز138 : 8
+  [COLUMN 7] أش64 : 8
+
+[ROW 237]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] الأشرار
+  [COLUMN 4] أي21 : 16
+  [COLUMN 5] أي22 : 18
+
+[ROW 238]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] تنظر
+  [COLUMN 4] أي28 : 24
+  [COLUMN 5] أي34 : 21
+  [COLUMN 6] 1صم16 : 7
+
+[ROW 239]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] الرجل
+  [COLUMN 4] أي36 : 26
+
+[ROW 240]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] اثمى
+  [COLUMN 4] أي14 : 16
+
+[ROW 241]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] مذنباَ
+  [COLUMN 4] أي9 : 21
+  [COLUMN 5] أي13 : 18
+
+[ROW 242]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] منفذ
+  [COLUMN 4] أي9 : 12
+  [COLUMN 5] أي23 : 13
+  [COLUMN 6] أي27 : 22
+
+[ROW 243]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] كونتانى
+  [COLUMN 4] أي10 : 3
+  [COLUMN 5] مز119 : 73
+
+[ROW 244]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] أفتبتلعنى
+  [COLUMN 4] أي9 : 22  
+
+[ROW 245]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] كالطين
+  [COLUMN 4] أي4 : 19
+  [COLUMN 5] أي33 : 6
+
+[ROW 246]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] التراب
+  [COLUMN 4] أي7 : 21
+
+[ROW 247]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] حيوة
+  [COLUMN 4] أي33 : 4
+
+[ROW 248]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] قلبك
+  [COLUMN 4] أي23 : 13
+
+[ROW 249]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] تلاحظنى
+  [COLUMN 4] أي7 : 20
+
+[ROW 250]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] تبرئنى
+  [COLUMN 4] أي7 : 21
+  [COLUMN 5] أي9 : 28
+
+[ROW 251]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] أذنبت
+  [COLUMN 4] أي10 : 7
+
+[ROW 252]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] تبررت
+  [COLUMN 4] أي6 : 29
+
+[ROW 253]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] كأسد
+  [COLUMN 4] أش38 : 13
+  [COLUMN 5] مرا 3 : 10
+  [COLUMN 6] هو13 : 7
+
+[ROW 254]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] علىّ
+  [COLUMN 4] أي5 : 9
+
+[ROW 255]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] تجاهى
+  [COLUMN 4] أي16 : 8
+  [COLUMN 5] را 1 : 21
+
+[ROW 256]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] ضدئ
+  [COLUMN 4] أي7 : 1
+
+[ROW 257]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] الرحم
+  [COLUMN 4] أي3 : 11 - 13
+
+[ROW 258]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] قليلة
+  [COLUMN 4] أي14 : 1
+
+[ROW 259]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] عنى
+  [COLUMN 4] أي7 : 19
+
+[ROW 260]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] أعود
+  [COLUMN 4] أي3 : 13 - 19
+  [COLUMN 5] أي16 : 22
+  [COLUMN 6] 2صم12 : 23
+
+[ROW 261]
+  [COLUMN 1] 10.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الموت
+  [COLUMN 4] أي10 : 22
+  [COLUMN 5] أي34 : 22
+  [COLUMN 6] أي38 : 17
+
+[ROW 262]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] يتبرر
+  [COLUMN 4] أي8 : 2
+  [COLUMN 5] أي15 : 2
+  [COLUMN 6] أي18 : 2
+
+[ROW 263]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] تلج
+  [COLUMN 4] أي17 : 2
+  [COLUMN 5] أي21 : 3
+
+[ROW 264]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] تقول
+  [COLUMN 4] أي6 : 10
+
+[ROW 265]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] عينيك
+  [COLUMN 4] أي10 : 7
+
+[ROW 266]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] الفهم
+  [COLUMN 4] أي9 : 4
+
+[ROW 267]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] إثمك
+  [COLUMN 4] أي15 : 5
+  [COLUMN 5] أي22 : 5
+
+[ROW 268]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] تتصل
+  [COLUMN 4] أي33 : 12 ، 13
+  [COLUMN 5] أي36 : 26
+  [COLUMN 6] أي37 : 5 ، 23
+
+[ROW 269]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] السموات
+  [COLUMN 4] أي22 : 12
+  [COLUMN 5] أي35 : 5
+
+[ROW 270]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] الهاوية
+  [COLUMN 4] أي26 : 6
+  [COLUMN 5] أي38 : 17
+
+[ROW 271]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] يرده
+  [COLUMN 4] أي9 : 12
+
+[ROW 272]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] السوء
+  [COLUMN 4] أي34 : 21-23
+
+[ROW 273]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] الإثم
+  [COLUMN 4] أي24 : 23
+  [COLUMN 5] أي28 : 24
+  [COLUMN 6] أي31 : 4
+
+[ROW 274]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] الفهم
+  [COLUMN 4] مز39 : 5 ، 11
+  [COLUMN 5] مز62 : 9
+  [COLUMN 6] مز144 : 4
+  [COLUMN 7] جا1 : 2
+  [COLUMN 8] جا11 : 1
+
+[ROW 275]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] الفراء
+  [COLUMN 4] أي39 : 5  
+
+[ROW 276]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] أعددت
+  [COLUMN 4] أي11 : 13 - 20
+  [COLUMN 5] أي5 : 17 - 27
+
+[ROW 277]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] قلبك
+  [COLUMN 4] مز78 : 8
+
+[ROW 278]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] يديك
+  [COLUMN 4] أي22 : 27
+  [COLUMN 5] مز88 : 9
+  [COLUMN 6] مز143 : 6
+
+[ROW 279]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] الإثم
+  [COLUMN 4] أي22 : 23
+
+[ROW 280]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] عيب
+  [COLUMN 4]      أي22 : 26
+
+[ROW 281]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] لاتخاف
+  [COLUMN 4] مز27 : 3
+  [COLUMN 5] مز46 : 2
+
+[ROW 282]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] المشقة
+  [COLUMN 4] أش65 : 16
+
+[ROW 283]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] تذكرها
+  [COLUMN 4] أي22 : 11
+
+[ROW 284]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] الظهيرة
+  [COLUMN 4] أي22 : 26
+
+[ROW 285]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] وتربض
+  [COLUMN 4] لا26 : 6
+  [COLUMN 5] أش17 : 2
+  [COLUMN 6] صف3 : 13
+  [COLUMN 7] مي4 : 4
+
+[ROW 286]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] وجهك
+  [COLUMN 4] أش45 : 14
+
+[ROW 287]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] فتتلف
+  [COLUMN 4] أي17 : 5
+  [COLUMN 5] تث28 : 65
+
+[ROW 288]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] يبيد
+  [COLUMN 4] أي27 : 22
+  [COLUMN 5] أي34 : 22
+
+[ROW 289]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] ورجاؤهم
+  [COLUMN 4] أي8 : 13
+
+[ROW 290]
+  [COLUMN 1] 11.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] النفس
+  [COLUMN 4] أي6 : 9
+
+[ROW 291]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] شعب
+  [COLUMN 4] أي12 : 2 ، 3
+  [COLUMN 5] أي16 : 1 ، 2
+  [COLUMN 6] أي17 : 10
+
+[ROW 292]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] مثلكم
+  [COLUMN 4] أي13 : 2
+
+[ROW 293]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] سخرة
+  [COLUMN 4] أي17 : 6
+  [COLUMN 5] أي30 : 1 ، 9 ، 10
+  [COLUMN 6] أي34 : 7
+
+[ROW 294]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] الكامل
+  [COLUMN 4] أي6 : 29
+
+[ROW 295]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] مستريحة
+  [COLUMN 4] أي9 : 24
+  [COLUMN 5] أي21 : 9
+
+[ROW 296]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] مطمئنون
+  [COLUMN 4] أي24 : 23
+
+[ROW 297]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 6.0
+  [COLUMN 3] بإلههم
+  [COLUMN 4] أي22 : 18
+
+[ROW 298]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 9.0
+  [COLUMN 3] صنعت
+  [COLUMN 4] أش41 : 20
+
+[ROW 299]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] حى
+  [COLUMN 4] أع17 : 28
+
+[ROW 300]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] البشر
+  [COLUMN 4] أي27 : 3
+  [COLUMN 5] أي33 : 4
+
+[ROW 301]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] تمتحن
+  [COLUMN 4] أي34 : 3
+
+[ROW 302]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] حكمة
+  [COLUMN 4] أي15 : 10
+  [COLUMN 5] أي32 : 7
+
+[ROW 303]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] الحكمة
+  [COLUMN 4] أي9 : 4
+
+[ROW 304]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] والقدرة
+  [COLUMN 4] أي9 : 4
+
+[ROW 305]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] والفطنة
+  [COLUMN 4] أي11 : 6
+  [COLUMN 5] أي26 : 12
+  [COLUMN 6] أي32 : 8
+  [COLUMN 7] أي36 : 5 : 38 : 36
+
+[ROW 306]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] يهدم
+  [COLUMN 4] أي19 : 10
+  [COLUMN 5] أش25 : 2
+
+[ROW 307]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 14.0
+  [COLUMN 3] يفتح
+  [COLUMN 4] أي37 : 7
+
+[ROW 308]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] المياه
+  [COLUMN 4] تث11 : 17
+  [COLUMN 5] 1مل8 : 5
+  [COLUMN 6] 1مل17 : 1
+
+[ROW 309]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 15.0
+  [COLUMN 3] يطلقها
+  [COLUMN 4] تك7 : 11 - 24
+
+[ROW 310]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 16.0
+  [COLUMN 3] والمضل
+  [COLUMN 4] أي13 : 7 ، 9
+
+[ROW 311]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] بالمشيرين
+  [COLUMN 4] أي3 : 14
+
+[ROW 312]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] أسرى
+  [COLUMN 4] أي19 : 9
+
+[ROW 313]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 17.0
+  [COLUMN 3] القضاة
+  [COLUMN 4] أي9 : 24
+
+[ROW 314]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 18.0
+  [COLUMN 3] الملوك
+  [COLUMN 4] مز116 : 16
+
+[ROW 315]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 19.0
+  [COLUMN 3] الأقوياء
+  [COLUMN 4] أي21 : 7
+  [COLUMN 5] أي22 : 8
+  [COLUMN 6] أي24 : 22
+  [COLUMN 7] أي34 : 24 - 28
+  [COLUMN 8] أي35 : 9
+
+[ROW 316]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 20.0
+  [COLUMN 3] الشيوخ
+  [COLUMN 4] أي17 : 4
+  [COLUMN 5] أي32 : 9
+
+[ROW 317]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الشرفاء
+  [COLUMN 4] أي34 : 19
+  [COLUMN 5] مز107 : 40
+
+[ROW 318]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 21.0
+  [COLUMN 3] الأشداء
+  [COLUMN 4] أى12 : 18
+
+[ROW 319]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 22.0
+  [COLUMN 3] الظلام
+  [COLUMN 4] دا 2 : 22
+  [COLUMN 5] 1كو4 : 5
+
+[ROW 320]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 23.0
+  [COLUMN 3] يبيدها
+  [COLUMN 4] أش9 : 3
+  [COLUMN 5] أش26 : 15
+
+[ROW 321]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 24.0
+  [COLUMN 3] شعب
+  [COLUMN 4] أي12 : 20
+
+[ROW 322]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] الظلام
+  [COLUMN 4] أي5 : 14
+
+[ROW 323]
+  [COLUMN 1] 12.0
+  [COLUMN 2] 25.0
+  [COLUMN 3] السكران
+  [COLUMN 4] أش24 : 20
+
+[ROW 324]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 1.0
+  [COLUMN 3] عينى
+  [COLUMN 4] أي12 : 9 
+
+[ROW 325]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 2.0
+  [COLUMN 3] عرفته
+  [COLUMN 4] أي12 : 3
+
+[ROW 326]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] القدير
+  [COLUMN 4] أي13 : 22
+  [COLUMN 5] أي23 : 4
+
+[ROW 327]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 3.0
+  [COLUMN 3] أحاكم
+  [COLUMN 4] أي13 : 15
+
+[ROW 328]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] كذب
+  [COLUMN 4] مز119 : 69
+
+[ROW 329]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 4.0
+  [COLUMN 3] بطالون
+  [COLUMN 4] أر23 : 32
+
+[ROW 330]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 5.0
+  [COLUMN 3] صمتاً
+  [COLUMN 4] أي13 : 13
+  [COLUMN 5] أي21 : 5
+
+[ROW 331]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 7.0
+  [COLUMN 3] ظلماً
+  [COLUMN 4] أي27 : 4
+
+[ROW 332]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 8.0
+  [COLUMN 3] أتحابون
+  [COLUMN 4] لا19 : 15
+
+[ROW 333]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] يخاتل
+  [COLUMN 4] أي12 : 16
+
+[ROW 334]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 10.0
+  [COLUMN 3] الوجوه
+  [COLUMN 4] أي13 : 8
+  [COLUMN 5] أي32 : 21
+  [COLUMN 6] أي34 : 19
+
+[ROW 335]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 11.0
+  [COLUMN 3] جلاله
+  [COLUMN 4] أي31 : 23
+
+[ROW 336]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 12.0
+  [COLUMN 3] رماد
+  [COLUMN 4] أي27 : 1 
+  [COLUMN 5] أي29 : 1 
+
+[ROW 337]
+  [COLUMN 1] 13.0
+  [COLUMN 2] 13.0
+  [COLUMN 3] اسكتوا
+  [COLUMN 4] أي13 : 15
+
+[ROW 338]
